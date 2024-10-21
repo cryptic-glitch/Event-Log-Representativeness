@@ -1,0 +1,97 @@
+Activity,Count
+"('A_ACCEPTED', -inf)",5113
+"('A_ACTIVATED', -inf)",2246
+"('A_APPROVED', -inf)",2246
+"('A_CANCELLED', -inf)",2807
+"('A_DECLINED', -inf)",7635
+"('A_FINALIZED', -inf)",5015
+"('A_PARTLYSUBMITTED', -inf)",13087
+"('A_PREACCEPTED', -inf)",7367
+"('A_REGISTERED', -inf)",2246
+"('A_SUBMITTED', -inf)",13087
+"('O_ACCEPTED', -inf)",2243
+"('O_CANCELLED', -inf)",2660
+"('O_CREATED', -inf)",5015
+"('O_DECLINED', -inf)",802
+"('O_SELECTED', -inf)",5015
+"('O_SENT', -inf)",5015
+"('O_SENT_BACK', -inf)",3254
+"('W_Afhandelen leads', -inf)",1
+"('W_Afhandelen leads', -0.0)",1134
+"('W_Afhandelen leads', 1.0)",1715
+"('W_Afhandelen leads', 2.0)",1439
+"('W_Afhandelen leads', 3.0)",688
+"('W_Afhandelen leads', 4.0)",313
+"('W_Afhandelen leads', 5.0)",113
+"('W_Afhandelen leads', 6.0)",69
+"('W_Afhandelen leads', 7.0)",34
+"('W_Afhandelen leads', 8.0)",23
+"('W_Afhandelen leads', 9.0)",9
+"('W_Afhandelen leads', 10.0)",32
+"('W_Afhandelen leads', 11.0)",5
+"('W_Afhandelen leads', 12.0)",12
+"('W_Beoordelen fraude', -0.0)",107
+"('W_Beoordelen fraude', 1.0)",9
+"('W_Beoordelen fraude', 2.0)",7
+"('W_Beoordelen fraude', 3.0)",4
+"('W_Beoordelen fraude', 4.0)",1
+"('W_Beoordelen fraude', 5.0)",1
+"('W_Beoordelen fraude', 8.0)",1
+"('W_Beoordelen fraude', 10.0)",1
+"('W_Beoordelen fraude', 11.0)",1
+"('W_Completeren aanvraag', -inf)",455
+"('W_Completeren aanvraag', -0.0)",2324
+"('W_Completeren aanvraag', 1.0)",2133
+"('W_Completeren aanvraag', 2.0)",2756
+"('W_Completeren aanvraag', 3.0)",2939
+"('W_Completeren aanvraag', 4.0)",3958
+"('W_Completeren aanvraag', 5.0)",1073
+"('W_Completeren aanvraag', 6.0)",199
+"('W_Completeren aanvraag', 7.0)",76
+"('W_Completeren aanvraag', 8.0)",37
+"('W_Completeren aanvraag', 9.0)",12
+"('W_Completeren aanvraag', 10.0)",53
+"('W_Completeren aanvraag', 11.0)",18
+"('W_Completeren aanvraag', 12.0)",11
+"('W_Nabellen incomplete dossiers', -inf)",8
+"('W_Nabellen incomplete dossiers', -0.0)",1266
+"('W_Nabellen incomplete dossiers', 1.0)",884
+"('W_Nabellen incomplete dossiers', 2.0)",911
+"('W_Nabellen incomplete dossiers', 3.0)",929
+"('W_Nabellen incomplete dossiers', 4.0)",815
+"('W_Nabellen incomplete dossiers', 5.0)",482
+"('W_Nabellen incomplete dossiers', 6.0)",179
+"('W_Nabellen incomplete dossiers', 7.0)",60
+"('W_Nabellen incomplete dossiers', 8.0)",25
+"('W_Nabellen incomplete dossiers', 9.0)",6
+"('W_Nabellen incomplete dossiers', 10.0)",28
+"('W_Nabellen incomplete dossiers', 11.0)",4
+"('W_Nabellen incomplete dossiers', 12.0)",14
+"('W_Nabellen offertes', -inf)",571
+"('W_Nabellen offertes', -0.0)",4001
+"('W_Nabellen offertes', 1.0)",2716
+"('W_Nabellen offertes', 2.0)",3114
+"('W_Nabellen offertes', 3.0)",1864
+"('W_Nabellen offertes', 4.0)",827
+"('W_Nabellen offertes', 5.0)",275
+"('W_Nabellen offertes', 6.0)",95
+"('W_Nabellen offertes', 7.0)",36
+"('W_Nabellen offertes', 8.0)",28
+"('W_Nabellen offertes', 9.0)",8
+"('W_Nabellen offertes', 10.0)",50
+"('W_Nabellen offertes', 11.0)",12
+"('W_Nabellen offertes', 12.0)",26
+"('W_Valideren aanvraag', -inf)",6
+"('W_Valideren aanvraag', -0.0)",657
+"('W_Valideren aanvraag', 1.0)",394
+"('W_Valideren aanvraag', 2.0)",522
+"('W_Valideren aanvraag', 3.0)",833
+"('W_Valideren aanvraag', 4.0)",1379
+"('W_Valideren aanvraag', 5.0)",1728
+"('W_Valideren aanvraag', 6.0)",839
+"('W_Valideren aanvraag', 7.0)",147
+"('W_Valideren aanvraag', 8.0)",9
+"('W_Valideren aanvraag', 9.0)",1
+"('W_Valideren aanvraag', 10.0)",18
+"('W_Valideren aanvraag', 11.0)",4
+"('W_Valideren aanvraag', 12.0)",5

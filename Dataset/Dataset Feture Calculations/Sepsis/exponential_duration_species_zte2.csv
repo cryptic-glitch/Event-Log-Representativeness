@@ -1,0 +1,184 @@
+Activity,Count
+"('Admission IC', -inf)",1
+"('Admission IC', 0.0)",5
+"('Admission IC', 1.0)",14
+"('Admission IC', 2.0)",8
+"('Admission IC', 3.0)",1
+"('Admission IC', 4.0)",2
+"('Admission IC', 5.0)",3
+"('Admission IC', 6.0)",13
+"('Admission IC', 7.0)",17
+"('Admission IC', 8.0)",27
+"('Admission IC', 9.0)",11
+"('Admission IC', 10.0)",7
+"('Admission IC', 11.0)",4
+"('Admission IC', 14.0)",1
+"('Admission NC', 0.0)",116
+"('Admission NC', 1.0)",96
+"('Admission NC', 2.0)",43
+"('Admission NC', 3.0)",14
+"('Admission NC', 4.0)",17
+"('Admission NC', 5.0)",19
+"('Admission NC', 6.0)",60
+"('Admission NC', 7.0)",158
+"('Admission NC', 8.0)",291
+"('Admission NC', 9.0)",146
+"('Admission NC', 10.0)",79
+"('Admission NC', 11.0)",70
+"('Admission NC', 12.0)",15
+"('Admission NC', 13.0)",9
+"('Admission NC', 14.0)",3
+"('CRP', -inf)",829
+"('CRP', 0.0)",12
+"('CRP', 1.0)",9
+"('CRP', 2.0)",19
+"('CRP', 3.0)",66
+"('CRP', 4.0)",104
+"('CRP', 5.0)",93
+"('CRP', 6.0)",39
+"('CRP', 7.0)",17
+"('CRP', 8.0)",13
+"('CRP', 9.0)",43
+"('CRP', 10.0)",97
+"('CRP', 11.0)",244
+"('CRP', 12.0)",244
+"('CRP', 13.0)",109
+"('CRP', 14.0)",17
+"('ER Registration', -inf)",994
+"('ER Registration', 0.0)",4
+"('ER Registration', 1.0)",4
+"('ER Registration', 2.0)",4
+"('ER Registration', 3.0)",3
+"('ER Registration', 4.0)",5
+"('ER Registration', 5.0)",4
+"('ER Registration', 6.0)",4
+"('ER Registration', 7.0)",2
+"('ER Registration', 8.0)",6
+"('ER Registration', 9.0)",13
+"('ER Registration', 10.0)",6
+"('ER Sepsis Triage', -inf)",7
+"('ER Sepsis Triage', 0.0)",713
+"('ER Sepsis Triage', 1.0)",89
+"('ER Sepsis Triage', 2.0)",47
+"('ER Sepsis Triage', 3.0)",46
+"('ER Sepsis Triage', 4.0)",55
+"('ER Sepsis Triage', 5.0)",37
+"('ER Sepsis Triage', 6.0)",22
+"('ER Sepsis Triage', 7.0)",19
+"('ER Sepsis Triage', 8.0)",10
+"('ER Sepsis Triage', 9.0)",1
+"('ER Sepsis Triage', 10.0)",2
+"('ER Triage', -inf)",6
+"('ER Triage', 0.0)",26
+"('ER Triage', 1.0)",97
+"('ER Triage', 2.0)",161
+"('ER Triage', 3.0)",258
+"('ER Triage', 4.0)",298
+"('ER Triage', 5.0)",170
+"('ER Triage', 6.0)",33
+"('ER Triage', 7.0)",2
+"('ER Triage', 11.0)",1
+"('IV Antibiotics', -inf)",23
+"('IV Antibiotics', 0.0)",402
+"('IV Antibiotics', 1.0)",14
+"('IV Antibiotics', 2.0)",14
+"('IV Antibiotics', 3.0)",40
+"('IV Antibiotics', 4.0)",41
+"('IV Antibiotics', 5.0)",44
+"('IV Antibiotics', 6.0)",49
+"('IV Antibiotics', 7.0)",82
+"('IV Antibiotics', 8.0)",92
+"('IV Antibiotics', 9.0)",19
+"('IV Antibiotics', 10.0)",2
+"('IV Liquid', -inf)",42
+"('IV Liquid', 0.0)",229
+"('IV Liquid', 1.0)",16
+"('IV Liquid', 2.0)",13
+"('IV Liquid', 3.0)",41
+"('IV Liquid', 4.0)",54
+"('IV Liquid', 5.0)",40
+"('IV Liquid', 6.0)",43
+"('IV Liquid', 7.0)",90
+"('IV Liquid', 8.0)",132
+"('IV Liquid', 9.0)",23
+"('IV Liquid', 10.0)",12
+"('IV Liquid', 11.0)",17
+"('LacticAcid', -inf)",640
+"('LacticAcid', 0.0)",9
+"('LacticAcid', 1.0)",5
+"('LacticAcid', 2.0)",17
+"('LacticAcid', 3.0)",54
+"('LacticAcid', 4.0)",76
+"('LacticAcid', 5.0)",69
+"('LacticAcid', 6.0)",31
+"('LacticAcid', 7.0)",18
+"('LacticAcid', 8.0)",22
+"('LacticAcid', 9.0)",46
+"('LacticAcid', 10.0)",34
+"('LacticAcid', 11.0)",46
+"('LacticAcid', 12.0)",4
+"('Leucocytes', -inf)",764
+"('Leucocytes', 0.0)",10
+"('Leucocytes', 1.0)",18
+"('Leucocytes', 2.0)",29
+"('Leucocytes', 3.0)",66
+"('Leucocytes', 4.0)",141
+"('Leucocytes', 5.0)",130
+"('Leucocytes', 6.0)",50
+"('Leucocytes', 7.0)",23
+"('Leucocytes', 8.0)",34
+"('Leucocytes', 9.0)",75
+"('Leucocytes', 10.0)",125
+"('Leucocytes', 11.0)",245
+"('Leucocytes', 12.0)",271
+"('Leucocytes', 13.0)",143
+"('Leucocytes', 14.0)",16
+"('Leucocytes', 15.0)",2
+"('Release A', 4.0)",1
+"('Release A', 7.0)",8
+"('Release A', 8.0)",34
+"('Release A', 9.0)",74
+"('Release A', 10.0)",21
+"('Release A', 11.0)",172
+"('Release A', 12.0)",179
+"('Release A', 13.0)",147
+"('Release A', 14.0)",31
+"('Release A', 15.0)",4
+"('Release B', 4.0)",1
+"('Release B', 5.0)",1
+"('Release B', 7.0)",3
+"('Release B', 8.0)",2
+"('Release B', 9.0)",7
+"('Release B', 10.0)",10
+"('Release B', 11.0)",10
+"('Release B', 12.0)",13
+"('Release B', 13.0)",8
+"('Release B', 14.0)",1
+"('Release C', 8.0)",1
+"('Release C', 11.0)",4
+"('Release C', 12.0)",3
+"('Release C', 13.0)",7
+"('Release C', 14.0)",5
+"('Release C', 15.0)",4
+"('Release D', 7.0)",1
+"('Release D', 11.0)",7
+"('Release D', 12.0)",4
+"('Release D', 13.0)",5
+"('Release D', 14.0)",7
+"('Release E', 8.0)",1
+"('Release E', 9.0)",1
+"('Release E', 10.0)",1
+"('Release E', 11.0)",2
+"('Release E', 14.0)",1
+"('Return ER', 9.0)",1
+"('Return ER', 10.0)",2
+"('Return ER', 11.0)",6
+"('Return ER', 12.0)",9
+"('Return ER', 13.0)",20
+"('Return ER', 14.0)",37
+"('Return ER', 15.0)",30
+"('Return ER', 16.0)",37
+"('Return ER', 17.0)",54
+"('Return ER', 18.0)",57
+"('Return ER', 19.0)",36
+"('Return ER', 20.0)",5

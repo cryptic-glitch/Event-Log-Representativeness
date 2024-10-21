@@ -1,0 +1,698 @@
+Activity,Count
+"('abort external', 0.0)",18
+"('abort external', 1.0)",2
+"('abort external', 4.0)",1
+"('abort external', 5.0)",13
+"('abort external', 6.0)",867
+"('abort external', 7.0)",477
+"('abort external', 8.0)",135
+"('abort external', 9.0)",746
+"('abort external', 10.0)",760
+"('abort external', 11.0)",1823
+"('abort external', 12.0)",785
+"('abort external', 13.0)",3
+"('abort external', 14.0)",22
+"('abort external', 15.0)",19
+"('abort external', 16.0)",658
+"('abort payment', 0.0)",11
+"('abort payment', 1.0)",5
+"('abort payment', 2.0)",3
+"('abort payment', 3.0)",141
+"('abort payment', 4.0)",7
+"('abort payment', 5.0)",331
+"('abort payment', 6.0)",330
+"('abort payment', 7.0)",3
+"('abort payment', 8.0)",1962
+"('abort payment', 9.0)",4407
+"('abort payment', 10.0)",4401
+"('abort payment', 11.0)",10331
+"('abort payment', 12.0)",7472
+"('abort payment', 13.0)",4473
+"('abort payment', 14.0)",2
+"('abort payment', 15.0)",101
+"('approve', 0.0)",436
+"('approve', 1.0)",37
+"('approve', 2.0)",43
+"('approve', 3.0)",28
+"('approve', 4.0)",15
+"('approve', 5.0)",16
+"('approve', 6.0)",9
+"('approve', 7.0)",15
+"('approve', 8.0)",6
+"('approve', 9.0)",1
+"('approve', 10.0)",3
+"('approve', 11.0)",17
+"('approve', 12.0)",4
+"('approve', 13.0)",5
+"('approve', 14.0)",6
+"('approve', 15.0)",8
+"('approve', 16.0)",2
+"('approve', 17.0)",9
+"('approve', 18.0)",2
+"('approve', 19.0)",1
+"('begin admissibility check', 0.0)",431
+"('begin admissibility check', 1.0)",130
+"('begin admissibility check', 2.0)",89
+"('begin admissibility check', 3.0)",58
+"('begin admissibility check', 4.0)",52
+"('begin admissibility check', 5.0)",33
+"('begin admissibility check', 6.0)",34
+"('begin admissibility check', 7.0)",28
+"('begin admissibility check', 8.0)",11
+"('begin admissibility check', 9.0)",4
+"('begin admissibility check', 10.0)",2
+"('begin admissibility check', 11.0)",54
+"('begin admissibility check', 12.0)",28
+"('begin admissibility check', 13.0)",35
+"('begin admissibility check', 14.0)",80
+"('begin admissibility check', 15.0)",78
+"('begin admissibility check', 16.0)",141
+"('begin admissibility check', 17.0)",124
+"('begin admissibility check', 18.0)",90
+"('begin admissibility check', 19.0)",33
+"('begin admissibility check', 20.0)",3
+"('begin editing', -inf)",43680
+"('begin editing', 0.0)",35244
+"('begin editing', 1.0)",1074
+"('begin editing', 2.0)",853
+"('begin editing', 3.0)",742
+"('begin editing', 4.0)",673
+"('begin editing', 5.0)",771
+"('begin editing', 6.0)",1175
+"('begin editing', 7.0)",1226
+"('begin editing', 8.0)",1829
+"('begin editing', 9.0)",6412
+"('begin editing', 10.0)",9437
+"('begin editing', 11.0)",34907
+"('begin editing', 12.0)",28404
+"('begin editing', 13.0)",38820
+"('begin editing', 14.0)",35687
+"('begin editing', 15.0)",19036
+"('begin editing', 16.0)",1944
+"('begin editing', 17.0)",1417
+"('begin editing', 18.0)",514
+"('begin editing', 19.0)",359
+"('begin editing', 20.0)",89
+"('begin editing from refused', -inf)",30
+"('begin editing from refused', 0.0)",82
+"('begin editing from refused', 1.0)",15
+"('begin editing from refused', 2.0)",9
+"('begin editing from refused', 3.0)",9
+"('begin editing from refused', 4.0)",2
+"('begin editing from refused', 5.0)",1
+"('begin editing from refused', 6.0)",2
+"('begin editing from refused', 7.0)",1
+"('begin editing from refused', 11.0)",3
+"('begin editing from refused', 13.0)",3
+"('begin editing from refused', 14.0)",2
+"('begin editing from refused', 15.0)",1
+"('begin editing from refused', 17.0)",1
+"('begin editing from refused', 18.0)",3
+"('begin payment', 2.0)",3
+"('begin payment', 3.0)",47
+"('begin payment', 4.0)",2429
+"('begin payment', 5.0)",3743
+"('begin payment', 6.0)",77
+"('begin payment', 7.0)",5690
+"('begin payment', 8.0)",4876
+"('begin payment', 9.0)",6661
+"('begin payment', 10.0)",1687
+"('begin payment', 11.0)",23648
+"('begin payment', 12.0)",1027
+"('begin payment', 13.0)",14001
+"('begin payment', 14.0)",10240
+"('begin payment', 15.0)",4738
+"('begin payment', 16.0)",274
+"('begin payment', 17.0)",31
+"('begin payment', 18.0)",4
+"('begin payment', 20.0)",1
+"('begin preparations', -inf)",1696
+"('begin preparations', 0.0)",2981
+"('begin preparations', 1.0)",112
+"('begin preparations', 2.0)",53
+"('begin preparations', 3.0)",32
+"('begin preparations', 4.0)",17
+"('begin preparations', 5.0)",18
+"('begin preparations', 6.0)",20
+"('begin preparations', 7.0)",5
+"('begin preparations', 8.0)",3
+"('begin preparations', 9.0)",1
+"('begin preparations', 10.0)",2
+"('begin preparations', 11.0)",8
+"('begin preparations', 12.0)",5
+"('begin preparations', 13.0)",31
+"('begin preparations', 14.0)",2
+"('begin preparations', 16.0)",1
+"('calculate', -inf)",526
+"('calculate', 0.0)",43808
+"('calculate', 1.0)",9883
+"('calculate', 2.0)",6310
+"('calculate', 3.0)",5773
+"('calculate', 4.0)",1334
+"('calculate', 5.0)",901
+"('calculate', 6.0)",955
+"('calculate', 7.0)",1111
+"('calculate', 8.0)",3512
+"('calculate', 9.0)",5728
+"('calculate', 10.0)",7079
+"('calculate', 11.0)",28726
+"('calculate', 12.0)",11002
+"('calculate', 13.0)",20807
+"('calculate', 14.0)",22798
+"('calculate', 15.0)",14777
+"('calculate', 16.0)",2282
+"('calculate', 17.0)",863
+"('calculate', 18.0)",32
+"('calculate', 19.0)",20
+"('calculate', 20.0)",4
+"('calculate protocol', 0.0)",70
+"('calculate protocol', 1.0)",42
+"('calculate protocol', 2.0)",33
+"('calculate protocol', 3.0)",19
+"('calculate protocol', 4.0)",10
+"('calculate protocol', 5.0)",5
+"('calculate protocol', 6.0)",5
+"('calculate protocol', 7.0)",2
+"('calculate protocol', 9.0)",1
+"('calculate protocol', 10.0)",2
+"('calculate protocol', 11.0)",1
+"('calculate protocol', 12.0)",1
+"('calculate protocol', 15.0)",1
+"('cancel offline', 0.0)",2
+"('cancel offline', 2.0)",5
+"('cancel offline', 3.0)",2
+"('cancel offline', 4.0)",4
+"('cancel offline', 5.0)",8
+"('cancel offline', 6.0)",15
+"('cancel offline', 7.0)",14
+"('cancel offline', 8.0)",9
+"('cancel offline', 9.0)",7
+"('cancel offline', 10.0)",12
+"('cancel offline', 11.0)",26
+"('cancel offline', 12.0)",21
+"('cancel offline', 13.0)",14
+"('cancel offline', 14.0)",25
+"('cancel offline', 15.0)",5
+"('cancel offline', 16.0)",4
+"('change department', -inf)",8
+"('change department', 0.0)",11
+"('change department', 12.0)",1
+"('change department', 13.0)",2
+"('change department', 14.0)",2
+"('change department', 15.0)",2
+"('change department', 16.0)",2
+"('change department', 17.0)",1
+"('change department', 18.0)",1
+"('change department', 19.0)",2
+"('change department', 20.0)",1
+"('check', 0.0)",4820
+"('check', 1.0)",570
+"('check', 2.0)",321
+"('check', 3.0)",176
+"('check', 4.0)",138
+"('check', 5.0)",86
+"('check', 6.0)",69
+"('check', 7.0)",61
+"('check', 8.0)",82
+"('check', 9.0)",36
+"('check', 10.0)",30
+"('check', 11.0)",164
+"('check', 12.0)",163
+"('check', 13.0)",378
+"('check', 14.0)",452
+"('check', 15.0)",744
+"('check', 16.0)",896
+"('check', 17.0)",552
+"('check', 18.0)",13
+"('check', 19.0)",2
+"('check', 20.0)",1
+"('check admissibility', -inf)",378
+"('check admissibility', 0.0)",655
+"('check admissibility', 1.0)",19
+"('check admissibility', 2.0)",14
+"('check admissibility', 3.0)",9
+"('check admissibility', 4.0)",7
+"('check admissibility', 5.0)",1
+"('check admissibility', 6.0)",5
+"('check admissibility', 7.0)",8
+"('check admissibility', 8.0)",2
+"('check admissibility', 11.0)",4
+"('check admissibility', 12.0)",2
+"('check admissibility', 14.0)",1
+"('check admissibility', 15.0)",1
+"('check admissibility', 16.0)",2
+"('check admissibility', 17.0)",2
+"('check admissibility', 18.0)",1
+"('clear', 3.0)",6
+"('clear', 4.0)",36
+"('clear', 5.0)",27
+"('clear', 6.0)",61
+"('clear', 7.0)",556
+"('clear', 8.0)",218
+"('clear', 9.0)",322
+"('clear', 10.0)",16
+"('clear', 11.0)",39
+"('clear', 12.0)",21
+"('clear', 13.0)",317
+"('clear', 14.0)",1134
+"('clear', 15.0)",1820
+"('clear', 16.0)",3
+"('clear', 17.0)",7
+"('clear', 18.0)",36
+"('correction GFM17', 13.0)",1
+"('correction GFM17', 16.0)",4
+"('correction GFM17', 17.0)",1
+"('correction GFM17', 18.0)",11
+"('create', -inf)",1040
+"('create', 0.0)",28211
+"('create', 1.0)",54
+"('create', 2.0)",1
+"('create', 5.0)",1
+"('create', 7.0)",1
+"('create', 8.0)",1
+"('create', 9.0)",2
+"('create', 10.0)",23
+"('create', 11.0)",11
+"('create', 12.0)",90
+"('create', 13.0)",94
+"('create', 14.0)",90
+"('create', 15.0)",64
+"('create', 16.0)",11
+"('create', 17.0)",3
+"('decide', 0.0)",1715
+"('decide', 1.0)",945
+"('decide', 2.0)",855
+"('decide', 3.0)",777
+"('decide', 4.0)",971
+"('decide', 5.0)",994
+"('decide', 6.0)",904
+"('decide', 7.0)",1682
+"('decide', 8.0)",3456
+"('decide', 9.0)",7090
+"('decide', 10.0)",10979
+"('decide', 11.0)",21897
+"('decide', 12.0)",16961
+"('decide', 13.0)",120
+"('decide', 14.0)",158
+"('decide', 15.0)",34
+"('decide', 16.0)",9
+"('decide', 17.0)",1
+"('decide', 18.0)",1
+"('discard', 0.0)",34
+"('discard', 1.0)",4
+"('discard', 2.0)",1
+"('discard', 3.0)",1
+"('discard', 4.0)",3
+"('discard', 5.0)",1
+"('discard', 6.0)",2
+"('discard', 8.0)",1
+"('discard', 13.0)",1
+"('discard', 14.0)",3
+"('discard', 15.0)",2
+"('discard', 17.0)",1
+"('discard', 18.0)",1
+"('finish editing', -inf)",43787
+"('finish editing', 0.0)",43804
+"('finish editing', 1.0)",2778
+"('finish editing', 2.0)",1713
+"('finish editing', 3.0)",977
+"('finish editing', 4.0)",621
+"('finish editing', 5.0)",404
+"('finish editing', 6.0)",1332
+"('finish editing', 7.0)",2256
+"('finish editing', 8.0)",1120
+"('finish editing', 9.0)",102
+"('finish editing', 10.0)",125
+"('finish editing', 11.0)",2468
+"('finish editing', 12.0)",2236
+"('finish editing', 13.0)",711
+"('finish editing', 14.0)",792
+"('finish editing', 15.0)",572
+"('finish editing', 16.0)",1212
+"('finish editing', 17.0)",712
+"('finish editing', 18.0)",102
+"('finish editing', 19.0)",92
+"('finish editing', 20.0)",51
+"('finish payment', 4.0)",1
+"('finish payment', 5.0)",1
+"('finish payment', 6.0)",3
+"('finish payment', 7.0)",1
+"('finish payment', 8.0)",3
+"('finish payment', 9.0)",2
+"('finish payment', 10.0)",15
+"('finish payment', 11.0)",198
+"('finish payment', 12.0)",427
+"('finish payment', 13.0)",879
+"('finish payment', 14.0)",1373
+"('finish payment', 15.0)",29706
+"('finish payment', 16.0)",189
+"('finish payment', 17.0)",12826
+"('finish payment', 18.0)",1
+"('finish pre-check', 0.0)",14275
+"('finish pre-check', 1.0)",200
+"('finish pre-check', 2.0)",106
+"('finish pre-check', 3.0)",65
+"('finish pre-check', 4.0)",54
+"('finish pre-check', 5.0)",30
+"('finish pre-check', 6.0)",35
+"('finish pre-check', 7.0)",20
+"('finish pre-check', 8.0)",8
+"('finish pre-check', 9.0)",4
+"('finish pre-check', 10.0)",7
+"('finish pre-check', 11.0)",34
+"('finish pre-check', 12.0)",33
+"('finish pre-check', 13.0)",51
+"('finish pre-check', 14.0)",65
+"('finish pre-check', 15.0)",84
+"('finish pre-check', 16.0)",778
+"('finish pre-check', 17.0)",278
+"('finish pre-check', 18.0)",31
+"('finish preparations', -inf)",1408
+"('finish preparations', 0.0)",2300
+"('finish preparations', 1.0)",115
+"('finish preparations', 2.0)",61
+"('finish preparations', 3.0)",48
+"('finish preparations', 4.0)",34
+"('finish preparations', 5.0)",37
+"('finish preparations', 6.0)",30
+"('finish preparations', 7.0)",54
+"('finish preparations', 8.0)",64
+"('finish preparations', 9.0)",732
+"('finish preparations', 10.0)",168
+"('finish preparations', 11.0)",198
+"('finish preparations', 12.0)",309
+"('finish preparations', 13.0)",1333
+"('finish preparations', 14.0)",375
+"('finish preparations', 15.0)",396
+"('finish preparations', 16.0)",182
+"('finish preparations', 17.0)",19
+"('initialize', -inf)",7418
+"('initialize', 0.0)",26396
+"('initialize', 1.0)",511
+"('initialize', 2.0)",637
+"('initialize', 3.0)",768
+"('initialize', 4.0)",877
+"('initialize', 5.0)",813
+"('initialize', 6.0)",761
+"('initialize', 7.0)",979
+"('initialize', 8.0)",1108
+"('initialize', 9.0)",228
+"('initialize', 10.0)",437
+"('initialize', 11.0)",2151
+"('initialize', 12.0)",2818
+"('initialize', 13.0)",8814
+"('initialize', 14.0)",21544
+"('initialize', 15.0)",18139
+"('initialize', 16.0)",32780
+"('initialize', 17.0)",24374
+"('initialize', 18.0)",385
+"('initialize', 19.0)",7
+"('initialize', 20.0)",1
+"('insert document', -inf)",80
+"('insert document', 0.0)",6688
+"('insert document', 1.0)",2259
+"('insert document', 2.0)",1914
+"('insert document', 3.0)",1315
+"('insert document', 4.0)",847
+"('insert document', 5.0)",639
+"('insert document', 6.0)",626
+"('insert document', 7.0)",1686
+"('insert document', 8.0)",9280
+"('insert document', 9.0)",4924
+"('insert document', 10.0)",360
+"('insert document', 11.0)",6259
+"('insert document', 12.0)",8437
+"('insert document', 13.0)",18284
+"('insert document', 14.0)",1937
+"('insert document', 15.0)",2557
+"('insert document', 16.0)",3057
+"('insert document', 17.0)",1739
+"('insert document', 18.0)",1219
+"('insert document', 19.0)",1510
+"('insert document', 20.0)",751
+"('mail income', -inf)",38600
+"('mail income', 9.0)",1
+"('mail income', 10.0)",10
+"('mail income', 11.0)",176
+"('mail income', 12.0)",217
+"('mail income', 13.0)",472
+"('mail income', 14.0)",924
+"('mail income', 15.0)",1221
+"('mail income', 16.0)",1603
+"('mail income', 17.0)",570
+"('mail income', 18.0)",6
+"('mail income', 19.0)",8
+"('mail valid', -inf)",22832
+"('mail valid', 11.0)",5083
+"('mail valid', 12.0)",4527
+"('mail valid', 13.0)",10035
+"('mail valid', 14.0)",7641
+"('mail valid', 15.0)",4041
+"('mail valid', 16.0)",1573
+"('mail valid', 17.0)",4
+"('performed', -inf)",43454
+"('performed', 0.0)",1562
+"('performed', 1.0)",343
+"('performed', 2.0)",642
+"('performed', 3.0)",772
+"('performed', 4.0)",385
+"('performed', 5.0)",113
+"('performed', 6.0)",105
+"('performed', 7.0)",287
+"('performed', 8.0)",366
+"('performed', 9.0)",341
+"('performed', 10.0)",198
+"('performed', 11.0)",812
+"('performed', 12.0)",798
+"('performed', 13.0)",1904
+"('performed', 14.0)",2705
+"('performed', 15.0)",2583
+"('performed', 16.0)",11093
+"('performed', 17.0)",8009
+"('performed offline', 0.0)",614
+"('performed offline', 1.0)",220
+"('performed offline', 2.0)",217
+"('performed offline', 3.0)",146
+"('performed offline', 4.0)",109
+"('performed offline', 5.0)",82
+"('performed offline', 6.0)",77
+"('performed offline', 7.0)",53
+"('performed offline', 8.0)",48
+"('performed offline', 9.0)",31
+"('performed offline', 10.0)",13
+"('performed offline', 11.0)",72
+"('performed offline', 12.0)",43
+"('performed offline', 13.0)",48
+"('performed offline', 14.0)",28
+"('performed offline', 15.0)",22
+"('plan', -inf)",2014
+"('plan', 0.0)",1535
+"('plan', 1.0)",7
+"('plan', 2.0)",9
+"('plan', 3.0)",12
+"('plan', 4.0)",9
+"('plan', 5.0)",9
+"('plan', 6.0)",7
+"('plan', 7.0)",6
+"('plan', 8.0)",4
+"('plan', 9.0)",6
+"('plan', 10.0)",2
+"('plan', 11.0)",17
+"('plan', 12.0)",33
+"('plan', 13.0)",167
+"('plan', 14.0)",82
+"('plan', 15.0)",185
+"('plan', 16.0)",243
+"('plan', 17.0)",22
+"('plan', 18.0)",1
+"('plan', 20.0)",1
+"('prepare external', -inf)",1679
+"('prepare external', 0.0)",2140
+"('prepare external', 1.0)",4
+"('prepare external', 12.0)",1
+"('prepare external', 13.0)",6
+"('prepare offline', 0.0)",6
+"('prepare offline', 1.0)",20
+"('prepare offline', 2.0)",65
+"('prepare offline', 3.0)",134
+"('prepare offline', 4.0)",259
+"('prepare offline', 5.0)",428
+"('prepare offline', 6.0)",468
+"('prepare offline', 7.0)",155
+"('prepare offline', 8.0)",53
+"('prepare offline', 9.0)",24
+"('prepare offline', 10.0)",23
+"('prepare offline', 11.0)",71
+"('prepare offline', 12.0)",47
+"('prepare offline', 13.0)",110
+"('prepare offline', 14.0)",57
+"('prepare offline', 15.0)",23
+"('prepare offline', 16.0)",8
+"('prepare offline', 17.0)",4
+"('refuse', 0.0)",213
+"('refuse', 1.0)",16
+"('refuse', 2.0)",10
+"('refuse', 3.0)",6
+"('refuse', 4.0)",10
+"('refuse', 5.0)",5
+"('refuse', 6.0)",4
+"('refuse', 7.0)",3
+"('refuse', 8.0)",1
+"('refuse', 11.0)",3
+"('refuse', 12.0)",1
+"('refuse', 14.0)",5
+"('refuse', 15.0)",6
+"('refuse', 16.0)",6
+"('refuse', 17.0)",6
+"('refuse', 18.0)",2
+"('refuse', 19.0)",1
+"('remove document', 0.0)",2405
+"('remove document', 1.0)",326
+"('remove document', 2.0)",180
+"('remove document', 3.0)",142
+"('remove document', 4.0)",84
+"('remove document', 5.0)",61
+"('remove document', 6.0)",76
+"('remove document', 7.0)",50
+"('remove document', 8.0)",48
+"('remove document', 9.0)",18
+"('remove document', 10.0)",48
+"('remove document', 11.0)",86
+"('remove document', 12.0)",45
+"('remove document', 13.0)",64
+"('remove document', 14.0)",47
+"('remove document', 15.0)",19
+"('remove document', 16.0)",16
+"('remove document', 17.0)",9
+"('remove document', 18.0)",8
+"('remove document', 19.0)",5
+"('restart editing', 0.0)",131
+"('restart editing', 1.0)",20
+"('restart editing', 2.0)",18
+"('restart editing', 3.0)",11
+"('restart editing', 4.0)",22
+"('restart editing', 5.0)",18
+"('restart editing', 6.0)",16
+"('restart editing', 7.0)",15
+"('restart editing', 8.0)",34
+"('restart editing', 9.0)",17
+"('restart editing', 10.0)",13
+"('restart editing', 11.0)",106
+"('restart editing', 12.0)",50
+"('restart editing', 13.0)",334
+"('restart editing', 14.0)",81
+"('restart editing', 15.0)",54
+"('restart editing', 16.0)",104
+"('restart editing', 17.0)",64
+"('revoke approval', 0.0)",37
+"('revoke approval', 1.0)",11
+"('revoke approval', 2.0)",6
+"('revoke approval', 3.0)",4
+"('revoke approval', 4.0)",2
+"('revoke approval', 5.0)",2
+"('revoke approval', 7.0)",1
+"('revoke approval', 8.0)",1
+"('revoke approval', 9.0)",1
+"('revoke approval', 14.0)",1
+"('revoke approval', 15.0)",1
+"('revoke approval', 16.0)",1
+"('revoke approval', 18.0)",1
+"('revoke approval', 19.0)",3
+"('revoke approval', 20.0)",1
+"('revoke decision', 0.0)",327
+"('revoke decision', 1.0)",99
+"('revoke decision', 2.0)",77
+"('revoke decision', 3.0)",73
+"('revoke decision', 4.0)",75
+"('revoke decision', 5.0)",96
+"('revoke decision', 6.0)",84
+"('revoke decision', 7.0)",567
+"('revoke decision', 8.0)",1014
+"('revoke decision', 9.0)",63
+"('revoke decision', 10.0)",27
+"('revoke decision', 11.0)",376
+"('revoke decision', 12.0)",140
+"('revoke decision', 13.0)",18556
+"('revoke decision', 14.0)",70
+"('revoke decision', 15.0)",21
+"('revoke decision', 16.0)",18
+"('revoke decision', 17.0)",3
+"('revoke decision', 18.0)",2
+"('revoke decision', 19.0)",1
+"('revoke decision', 20.0)",2
+"('revoke withdrawal', 0.0)",122
+"('revoke withdrawal', 1.0)",2
+"('revoke withdrawal', 2.0)",4
+"('revoke withdrawal', 3.0)",2
+"('revoke withdrawal', 4.0)",9
+"('revoke withdrawal', 5.0)",5
+"('revoke withdrawal', 6.0)",1
+"('revoke withdrawal', 7.0)",5
+"('revoke withdrawal', 8.0)",6
+"('revoke withdrawal', 11.0)",3
+"('revoke withdrawal', 13.0)",3
+"('revoke withdrawal', 14.0)",5
+"('revoke withdrawal', 15.0)",5
+"('revoke withdrawal', 16.0)",8
+"('revoke withdrawal', 17.0)",26
+"('revoke withdrawal', 18.0)",27
+"('save', -inf)",1
+"('save', 0.0)",18389
+"('save', 1.0)",12066
+"('save', 2.0)",10286
+"('save', 3.0)",8617
+"('save', 4.0)",6645
+"('save', 5.0)",5134
+"('save', 6.0)",4066
+"('save', 7.0)",3437
+"('save', 8.0)",3294
+"('save', 9.0)",2342
+"('save', 10.0)",2287
+"('save', 11.0)",6172
+"('save', 12.0)",5532
+"('save', 13.0)",8575
+"('save', 14.0)",7403
+"('save', 15.0)",6456
+"('save', 16.0)",8051
+"('save', 17.0)",4289
+"('save', 18.0)",2959
+"('save', 19.0)",2413
+"('save', 20.0)",321
+"('take original document', 0.0)",8
+"('take original document', 1.0)",1
+"('take original document', 2.0)",1
+"('take original document', 3.0)",1
+"('take original document', 4.0)",4
+"('take original document', 5.0)",8
+"('take original document', 6.0)",2
+"('take original document', 7.0)",14
+"('take original document', 8.0)",34
+"('take original document', 9.0)",7
+"('take original document', 10.0)",178
+"('take original document', 11.0)",87
+"('take original document', 12.0)",33
+"('take original document', 13.0)",287
+"('take original document', 14.0)",60
+"('take original document', 15.0)",97
+"('take original document', 16.0)",73
+"('take original document', 17.0)",2
+"('take original document', 19.0)",1
+"('withdraw', 0.0)",340
+"('withdraw', 1.0)",26
+"('withdraw', 2.0)",18
+"('withdraw', 3.0)",14
+"('withdraw', 4.0)",10
+"('withdraw', 5.0)",5
+"('withdraw', 6.0)",7
+"('withdraw', 7.0)",2
+"('withdraw', 8.0)",5
+"('withdraw', 9.0)",2
+"('withdraw', 11.0)",8
+"('withdraw', 12.0)",1
+"('withdraw', 13.0)",9
+"('withdraw', 14.0)",13
+"('withdraw', 15.0)",5
+"('withdraw', 16.0)",18
+"('withdraw', 17.0)",7
+"('withdraw', 18.0)",15
+"('withdraw', 19.0)",3

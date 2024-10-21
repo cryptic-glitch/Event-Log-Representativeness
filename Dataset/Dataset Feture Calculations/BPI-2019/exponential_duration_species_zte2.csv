@@ -1,0 +1,584 @@
+Activity,Count
+"('Block Purchase Order Item', -inf)",2
+"('Block Purchase Order Item', 0.0)",2
+"('Block Purchase Order Item', 3.0)",1
+"('Block Purchase Order Item', 6.0)",1
+"('Block Purchase Order Item', 7.0)",1
+"('Block Purchase Order Item', 10.0)",2
+"('Block Purchase Order Item', 11.0)",9
+"('Block Purchase Order Item', 12.0)",16
+"('Block Purchase Order Item', 13.0)",25
+"('Block Purchase Order Item', 14.0)",69
+"('Block Purchase Order Item', 15.0)",94
+"('Block Purchase Order Item', 16.0)",94
+"('Block Purchase Order Item', 17.0)",81
+"('Block Purchase Order Item', 18.0)",113
+"('Block Purchase Order Item', 19.0)",1
+"('Cancel Goods Receipt', -inf)",259
+"('Cancel Goods Receipt', 0.0)",149
+"('Cancel Goods Receipt', 1.0)",78
+"('Cancel Goods Receipt', 2.0)",93
+"('Cancel Goods Receipt', 3.0)",81
+"('Cancel Goods Receipt', 4.0)",108
+"('Cancel Goods Receipt', 5.0)",144
+"('Cancel Goods Receipt', 6.0)",70
+"('Cancel Goods Receipt', 7.0)",155
+"('Cancel Goods Receipt', 8.0)",106
+"('Cancel Goods Receipt', 9.0)",90
+"('Cancel Goods Receipt', 10.0)",171
+"('Cancel Goods Receipt', 11.0)",227
+"('Cancel Goods Receipt', 12.0)",336
+"('Cancel Goods Receipt', 13.0)",295
+"('Cancel Goods Receipt', 14.0)",199
+"('Cancel Goods Receipt', 15.0)",214
+"('Cancel Goods Receipt', 16.0)",62
+"('Cancel Goods Receipt', 17.0)",49
+"('Cancel Goods Receipt', 18.0)",28
+"('Cancel Goods Receipt', 19.0)",5
+"('Cancel Invoice Receipt', -inf)",101
+"('Cancel Invoice Receipt', 0.0)",132
+"('Cancel Invoice Receipt', 1.0)",54
+"('Cancel Invoice Receipt', 2.0)",87
+"('Cancel Invoice Receipt', 3.0)",86
+"('Cancel Invoice Receipt', 4.0)",34
+"('Cancel Invoice Receipt', 5.0)",26
+"('Cancel Invoice Receipt', 6.0)",32
+"('Cancel Invoice Receipt', 7.0)",69
+"('Cancel Invoice Receipt', 8.0)",81
+"('Cancel Invoice Receipt', 9.0)",39
+"('Cancel Invoice Receipt', 10.0)",105
+"('Cancel Invoice Receipt', 11.0)",289
+"('Cancel Invoice Receipt', 12.0)",252
+"('Cancel Invoice Receipt', 13.0)",430
+"('Cancel Invoice Receipt', 14.0)",941
+"('Cancel Invoice Receipt', 15.0)",742
+"('Cancel Invoice Receipt', 16.0)",711
+"('Cancel Invoice Receipt', 17.0)",1043
+"('Cancel Invoice Receipt', 18.0)",1375
+"('Cancel Invoice Receipt', 19.0)",359
+"('Cancel Subsequent Invoice', -inf)",2
+"('Cancel Subsequent Invoice', 0.0)",3
+"('Cancel Subsequent Invoice', 1.0)",7
+"('Cancel Subsequent Invoice', 2.0)",14
+"('Cancel Subsequent Invoice', 3.0)",9
+"('Cancel Subsequent Invoice', 4.0)",13
+"('Cancel Subsequent Invoice', 5.0)",3
+"('Cancel Subsequent Invoice', 6.0)",2
+"('Cancel Subsequent Invoice', 7.0)",8
+"('Cancel Subsequent Invoice', 8.0)",8
+"('Cancel Subsequent Invoice', 9.0)",5
+"('Cancel Subsequent Invoice', 10.0)",27
+"('Cancel Subsequent Invoice', 11.0)",23
+"('Cancel Subsequent Invoice', 12.0)",20
+"('Cancel Subsequent Invoice', 13.0)",65
+"('Cancel Subsequent Invoice', 14.0)",84
+"('Cancel Subsequent Invoice', 15.0)",80
+"('Cancel Subsequent Invoice', 16.0)",90
+"('Cancel Subsequent Invoice', 17.0)",21
+"('Cancel Subsequent Invoice', 18.0)",6
+"('Change Approval for Purchase Order', -inf)",695
+"('Change Approval for Purchase Order', 0.0)",276
+"('Change Approval for Purchase Order', 1.0)",45
+"('Change Approval for Purchase Order', 2.0)",131
+"('Change Approval for Purchase Order', 3.0)",613
+"('Change Approval for Purchase Order', 4.0)",327
+"('Change Approval for Purchase Order', 5.0)",426
+"('Change Approval for Purchase Order', 6.0)",416
+"('Change Approval for Purchase Order', 7.0)",518
+"('Change Approval for Purchase Order', 8.0)",510
+"('Change Approval for Purchase Order', 9.0)",280
+"('Change Approval for Purchase Order', 10.0)",304
+"('Change Approval for Purchase Order', 11.0)",532
+"('Change Approval for Purchase Order', 12.0)",177
+"('Change Approval for Purchase Order', 13.0)",558
+"('Change Approval for Purchase Order', 14.0)",174
+"('Change Approval for Purchase Order', 15.0)",550
+"('Change Approval for Purchase Order', 16.0)",210
+"('Change Approval for Purchase Order', 17.0)",175
+"('Change Approval for Purchase Order', 18.0)",35
+"('Change Approval for Purchase Order', 19.0)",4
+"('Change Currency', -inf)",33
+"('Change Currency', 1.0)",2
+"('Change Delivery Indicator', -inf)",1043
+"('Change Delivery Indicator', 0.0)",42
+"('Change Delivery Indicator', 1.0)",17
+"('Change Delivery Indicator', 2.0)",18
+"('Change Delivery Indicator', 3.0)",10
+"('Change Delivery Indicator', 4.0)",15
+"('Change Delivery Indicator', 5.0)",24
+"('Change Delivery Indicator', 6.0)",67
+"('Change Delivery Indicator', 7.0)",64
+"('Change Delivery Indicator', 8.0)",90
+"('Change Delivery Indicator', 9.0)",87
+"('Change Delivery Indicator', 10.0)",107
+"('Change Delivery Indicator', 11.0)",217
+"('Change Delivery Indicator', 12.0)",202
+"('Change Delivery Indicator', 13.0)",374
+"('Change Delivery Indicator', 14.0)",351
+"('Change Delivery Indicator', 15.0)",237
+"('Change Delivery Indicator', 16.0)",140
+"('Change Delivery Indicator', 17.0)",98
+"('Change Delivery Indicator', 18.0)",25
+"('Change Delivery Indicator', 19.0)",2
+"('Change Final Invoice Indicator', -inf)",10
+"('Change Final Invoice Indicator', 2.0)",1
+"('Change Price', -inf)",279
+"('Change Price', 0.0)",153
+"('Change Price', 1.0)",93
+"('Change Price', 2.0)",108
+"('Change Price', 3.0)",113
+"('Change Price', 4.0)",149
+"('Change Price', 5.0)",367
+"('Change Price', 6.0)",211
+"('Change Price', 7.0)",425
+"('Change Price', 8.0)",890
+"('Change Price', 9.0)",691
+"('Change Price', 10.0)",377
+"('Change Price', 11.0)",1469
+"('Change Price', 12.0)",872
+"('Change Price', 13.0)",1466
+"('Change Price', 14.0)",1774
+"('Change Price', 15.0)",1263
+"('Change Price', 16.0)",856
+"('Change Price', 17.0)",478
+"('Change Price', 18.0)",135
+"('Change Price', 19.0)",22
+"('Change Quantity', -inf)",939
+"('Change Quantity', 0.0)",458
+"('Change Quantity', 1.0)",181
+"('Change Quantity', 2.0)",168
+"('Change Quantity', 3.0)",190
+"('Change Quantity', 4.0)",257
+"('Change Quantity', 5.0)",319
+"('Change Quantity', 6.0)",470
+"('Change Quantity', 7.0)",588
+"('Change Quantity', 8.0)",649
+"('Change Quantity', 9.0)",651
+"('Change Quantity', 10.0)",1082
+"('Change Quantity', 11.0)",2158
+"('Change Quantity', 12.0)",1604
+"('Change Quantity', 13.0)",2216
+"('Change Quantity', 14.0)",2530
+"('Change Quantity', 15.0)",2755
+"('Change Quantity', 16.0)",1861
+"('Change Quantity', 17.0)",1428
+"('Change Quantity', 18.0)",317
+"('Change Quantity', 19.0)",14
+"('Change Rejection Indicator', -inf)",1
+"('Change Rejection Indicator', 9.0)",1
+"('Change Storage Location', -inf)",41
+"('Change Storage Location', 0.0)",19
+"('Change Storage Location', 1.0)",19
+"('Change Storage Location', 2.0)",13
+"('Change Storage Location', 3.0)",5
+"('Change Storage Location', 4.0)",26
+"('Change Storage Location', 5.0)",4
+"('Change Storage Location', 6.0)",4
+"('Change Storage Location', 7.0)",2
+"('Change Storage Location', 8.0)",5
+"('Change Storage Location', 9.0)",16
+"('Change Storage Location', 10.0)",11
+"('Change Storage Location', 11.0)",27
+"('Change Storage Location', 12.0)",46
+"('Change Storage Location', 13.0)",35
+"('Change Storage Location', 14.0)",80
+"('Change Storage Location', 15.0)",43
+"('Change Storage Location', 16.0)",10
+"('Change Storage Location', 17.0)",7
+"('Change payment term', -inf)",5
+"('Change payment term', 7.0)",1
+"('Change payment term', 13.0)",1
+"('Clear Invoice', -inf)",1002
+"('Clear Invoice', 0.0)",1565
+"('Clear Invoice', 1.0)",394
+"('Clear Invoice', 2.0)",206
+"('Clear Invoice', 3.0)",73
+"('Clear Invoice', 4.0)",56
+"('Clear Invoice', 5.0)",89
+"('Clear Invoice', 6.0)",102
+"('Clear Invoice', 7.0)",363
+"('Clear Invoice', 8.0)",757
+"('Clear Invoice', 9.0)",1752
+"('Clear Invoice', 10.0)",543
+"('Clear Invoice', 11.0)",4325
+"('Clear Invoice', 12.0)",4921
+"('Clear Invoice', 13.0)",4341
+"('Clear Invoice', 14.0)",12132
+"('Clear Invoice', 15.0)",36807
+"('Clear Invoice', 16.0)",51563
+"('Clear Invoice', 17.0)",51617
+"('Clear Invoice', 18.0)",19008
+"('Clear Invoice', 19.0)",12
+"('Create Purchase Order Item', -inf)",201671
+"('Create Purchase Order Item', 0.0)",102
+"('Create Purchase Order Item', 1.0)",55
+"('Create Purchase Order Item', 2.0)",48
+"('Create Purchase Order Item', 3.0)",52
+"('Create Purchase Order Item', 4.0)",71
+"('Create Purchase Order Item', 5.0)",75
+"('Create Purchase Order Item', 6.0)",11
+"('Create Purchase Order Item', 7.0)",3
+"('Create Purchase Order Item', 8.0)",198
+"('Create Purchase Order Item', 9.0)",9325
+"('Create Purchase Order Item', 10.0)",26447
+"('Create Purchase Order Item', 11.0)",5412
+"('Create Purchase Order Item', 12.0)",3501
+"('Create Purchase Order Item', 13.0)",1663
+"('Create Purchase Order Item', 14.0)",982
+"('Create Purchase Order Item', 15.0)",1097
+"('Create Purchase Order Item', 16.0)",533
+"('Create Purchase Order Item', 17.0)",180
+"('Create Purchase Order Item', 18.0)",188
+"('Create Purchase Order Item', 19.0)",41
+"('Create Purchase Order Item', 20.0)",6
+"('Create Purchase Order Item', 21.0)",1
+"('Create Purchase Order Item', 23.0)",45
+"('Create Purchase Order Item', 24.0)",22
+"('Create Purchase Order Item', 26.0)",5
+"('Create Purchase Requisition Item', -inf)",46526
+"('Create Purchase Requisition Item', 0.0)",2
+"('Create Purchase Requisition Item', 11.0)",3
+"('Create Purchase Requisition Item', 12.0)",1
+"('Create Purchase Requisition Item', 13.0)",1
+"('Create Purchase Requisition Item', 14.0)",10
+"('Create Purchase Requisition Item', 15.0)",7
+"('Create Purchase Requisition Item', 16.0)",12
+"('Create Purchase Requisition Item', 17.0)",8
+"('Create Purchase Requisition Item', 18.0)",14
+"('Create Purchase Requisition Item', 19.0)",7
+"('Create Purchase Requisition Item', 24.0)",1
+"('Delete Purchase Order Item', -inf)",129
+"('Delete Purchase Order Item', 0.0)",281
+"('Delete Purchase Order Item', 1.0)",138
+"('Delete Purchase Order Item', 2.0)",170
+"('Delete Purchase Order Item', 3.0)",148
+"('Delete Purchase Order Item', 4.0)",313
+"('Delete Purchase Order Item', 5.0)",335
+"('Delete Purchase Order Item', 6.0)",295
+"('Delete Purchase Order Item', 7.0)",328
+"('Delete Purchase Order Item', 8.0)",384
+"('Delete Purchase Order Item', 9.0)",618
+"('Delete Purchase Order Item', 10.0)",166
+"('Delete Purchase Order Item', 11.0)",1121
+"('Delete Purchase Order Item', 12.0)",404
+"('Delete Purchase Order Item', 13.0)",886
+"('Delete Purchase Order Item', 14.0)",1162
+"('Delete Purchase Order Item', 15.0)",1058
+"('Delete Purchase Order Item', 16.0)",519
+"('Delete Purchase Order Item', 17.0)",232
+"('Delete Purchase Order Item', 18.0)",159
+"('Delete Purchase Order Item', 19.0)",24
+"('Delete Purchase Order Item', 20.0)",1
+"('Reactivate Purchase Order Item', -inf)",19
+"('Reactivate Purchase Order Item', 0.0)",30
+"('Reactivate Purchase Order Item', 1.0)",11
+"('Reactivate Purchase Order Item', 2.0)",20
+"('Reactivate Purchase Order Item', 3.0)",45
+"('Reactivate Purchase Order Item', 4.0)",10
+"('Reactivate Purchase Order Item', 5.0)",10
+"('Reactivate Purchase Order Item', 6.0)",12
+"('Reactivate Purchase Order Item', 7.0)",16
+"('Reactivate Purchase Order Item', 8.0)",26
+"('Reactivate Purchase Order Item', 9.0)",20
+"('Reactivate Purchase Order Item', 10.0)",31
+"('Reactivate Purchase Order Item', 11.0)",98
+"('Reactivate Purchase Order Item', 12.0)",28
+"('Reactivate Purchase Order Item', 13.0)",83
+"('Reactivate Purchase Order Item', 14.0)",35
+"('Reactivate Purchase Order Item', 15.0)",23
+"('Reactivate Purchase Order Item', 16.0)",13
+"('Reactivate Purchase Order Item', 17.0)",8
+"('Reactivate Purchase Order Item', 18.0)",5
+"('Receive Order Confirmation', -inf)",3415
+"('Receive Order Confirmation', 0.0)",78
+"('Receive Order Confirmation', 1.0)",15
+"('Receive Order Confirmation', 2.0)",313
+"('Receive Order Confirmation', 3.0)",490
+"('Receive Order Confirmation', 4.0)",693
+"('Receive Order Confirmation', 5.0)",4324
+"('Receive Order Confirmation', 6.0)",4950
+"('Receive Order Confirmation', 7.0)",3129
+"('Receive Order Confirmation', 8.0)",2450
+"('Receive Order Confirmation', 9.0)",6646
+"('Receive Order Confirmation', 10.0)",1061
+"('Receive Order Confirmation', 11.0)",1830
+"('Receive Order Confirmation', 12.0)",851
+"('Receive Order Confirmation', 13.0)",1074
+"('Receive Order Confirmation', 14.0)",404
+"('Receive Order Confirmation', 15.0)",230
+"('Receive Order Confirmation', 16.0)",106
+"('Receive Order Confirmation', 17.0)",5
+"('Record Goods Receipt', -inf)",5512
+"('Record Goods Receipt', 0.0)",3499
+"('Record Goods Receipt', 1.0)",1662
+"('Record Goods Receipt', 2.0)",1425
+"('Record Goods Receipt', 3.0)",1200
+"('Record Goods Receipt', 4.0)",1061
+"('Record Goods Receipt', 5.0)",1198
+"('Record Goods Receipt', 6.0)",1692
+"('Record Goods Receipt', 7.0)",2232
+"('Record Goods Receipt', 8.0)",2754
+"('Record Goods Receipt', 9.0)",10241
+"('Record Goods Receipt', 10.0)",27701
+"('Record Goods Receipt', 11.0)",31945
+"('Record Goods Receipt', 12.0)",33195
+"('Record Goods Receipt', 13.0)",41439
+"('Record Goods Receipt', 14.0)",32203
+"('Record Goods Receipt', 15.0)",32646
+"('Record Goods Receipt', 16.0)",14014
+"('Record Goods Receipt', 17.0)",3987
+"('Record Goods Receipt', 18.0)",401
+"('Record Goods Receipt', 19.0)",36
+"('Record Invoice Receipt', -inf)",29
+"('Record Invoice Receipt', 0.0)",410
+"('Record Invoice Receipt', 1.0)",670
+"('Record Invoice Receipt', 2.0)",834
+"('Record Invoice Receipt', 3.0)",917
+"('Record Invoice Receipt', 4.0)",888
+"('Record Invoice Receipt', 5.0)",817
+"('Record Invoice Receipt', 6.0)",998
+"('Record Invoice Receipt', 7.0)",1680
+"('Record Invoice Receipt', 8.0)",2954
+"('Record Invoice Receipt', 9.0)",5013
+"('Record Invoice Receipt', 10.0)",18962
+"('Record Invoice Receipt', 11.0)",13596
+"('Record Invoice Receipt', 12.0)",22403
+"('Record Invoice Receipt', 13.0)",28640
+"('Record Invoice Receipt', 14.0)",32774
+"('Record Invoice Receipt', 15.0)",34238
+"('Record Invoice Receipt', 16.0)",37515
+"('Record Invoice Receipt', 17.0)",14998
+"('Record Invoice Receipt', 18.0)",3297
+"('Record Invoice Receipt', 19.0)",1673
+"('Record Service Entry Sheet', -inf)",5496
+"('Record Service Entry Sheet', 0.0)",1600
+"('Record Service Entry Sheet', 1.0)",543
+"('Record Service Entry Sheet', 2.0)",430
+"('Record Service Entry Sheet', 3.0)",233
+"('Record Service Entry Sheet', 4.0)",131
+"('Record Service Entry Sheet', 5.0)",55
+"('Record Service Entry Sheet', 6.0)",35
+"('Record Service Entry Sheet', 7.0)",35
+"('Record Service Entry Sheet', 8.0)",25
+"('Record Service Entry Sheet', 9.0)",34
+"('Record Service Entry Sheet', 10.0)",44
+"('Record Service Entry Sheet', 11.0)",197
+"('Record Service Entry Sheet', 12.0)",77
+"('Record Service Entry Sheet', 13.0)",116
+"('Record Service Entry Sheet', 14.0)",75
+"('Record Service Entry Sheet', 15.0)",63
+"('Record Service Entry Sheet', 16.0)",32
+"('Record Service Entry Sheet', 17.0)",16
+"('Record Service Entry Sheet', 18.0)",7
+"('Record Subsequent Invoice', 1.0)",7
+"('Record Subsequent Invoice', 2.0)",6
+"('Record Subsequent Invoice', 3.0)",3
+"('Record Subsequent Invoice', 4.0)",3
+"('Record Subsequent Invoice', 5.0)",2
+"('Record Subsequent Invoice', 6.0)",3
+"('Record Subsequent Invoice', 7.0)",11
+"('Record Subsequent Invoice', 8.0)",3
+"('Record Subsequent Invoice', 10.0)",7
+"('Record Subsequent Invoice', 11.0)",15
+"('Record Subsequent Invoice', 12.0)",9
+"('Record Subsequent Invoice', 13.0)",17
+"('Record Subsequent Invoice', 14.0)",15
+"('Record Subsequent Invoice', 15.0)",15
+"('Record Subsequent Invoice', 16.0)",27
+"('Record Subsequent Invoice', 17.0)",17
+"('Record Subsequent Invoice', 18.0)",5
+"('Record Subsequent Invoice', 19.0)",1
+"('Release Purchase Order', -inf)",253
+"('Release Purchase Order', 0.0)",6
+"('Release Purchase Order', 1.0)",1
+"('Release Purchase Order', 3.0)",13
+"('Release Purchase Order', 4.0)",46
+"('Release Purchase Order', 5.0)",42
+"('Release Purchase Order', 6.0)",73
+"('Release Purchase Order', 8.0)",4
+"('Release Purchase Order', 9.0)",44
+"('Release Purchase Order', 10.0)",4
+"('Release Purchase Order', 11.0)",150
+"('Release Purchase Order', 12.0)",36
+"('Release Purchase Order', 13.0)",649
+"('Release Purchase Order', 14.0)",49
+"('Release Purchase Order', 15.0)",23
+"('Release Purchase Order', 16.0)",21
+"('Release Purchase Order', 17.0)",1
+"('Release Purchase Order', 18.0)",110
+"('Release Purchase Requisition', 9.0)",14
+"('Release Purchase Requisition', 10.0)",281
+"('Release Purchase Requisition', 11.0)",27
+"('Release Purchase Requisition', 12.0)",96
+"('Release Purchase Requisition', 13.0)",47
+"('Release Purchase Requisition', 14.0)",2
+"('Remove Payment Block', -inf)",894
+"('Remove Payment Block', 0.0)",418
+"('Remove Payment Block', 1.0)",131
+"('Remove Payment Block', 2.0)",168
+"('Remove Payment Block', 3.0)",436
+"('Remove Payment Block', 4.0)",216
+"('Remove Payment Block', 5.0)",336
+"('Remove Payment Block', 6.0)",461
+"('Remove Payment Block', 7.0)",631
+"('Remove Payment Block', 8.0)",1776
+"('Remove Payment Block', 9.0)",4571
+"('Remove Payment Block', 10.0)",7427
+"('Remove Payment Block', 11.0)",4194
+"('Remove Payment Block', 12.0)",3034
+"('Remove Payment Block', 13.0)",6947
+"('Remove Payment Block', 14.0)",7239
+"('Remove Payment Block', 15.0)",5509
+"('Remove Payment Block', 16.0)",5675
+"('Remove Payment Block', 17.0)",5543
+"('Remove Payment Block', 18.0)",1231
+"('Remove Payment Block', 19.0)",59
+"('SRM: Awaiting Approval', -inf)",1440
+"('SRM: Change was Transmitted', -inf)",1390
+"('SRM: Change was Transmitted', 0.0)",50
+"('SRM: Complete', -inf)",1
+"('SRM: Complete', 0.0)",3
+"('SRM: Complete', 1.0)",4
+"('SRM: Complete', 3.0)",1
+"('SRM: Complete', 4.0)",3
+"('SRM: Complete', 5.0)",1
+"('SRM: Complete', 6.0)",704
+"('SRM: Complete', 7.0)",798
+"('SRM: Complete', 8.0)",1
+"('SRM: Complete', 10.0)",2
+"('SRM: Complete', 12.0)",2
+"('SRM: Complete', 15.0)",1
+"('SRM: Created', -inf)",1360
+"('SRM: Created', 0.0)",2
+"('SRM: Created', 1.0)",1
+"('SRM: Created', 2.0)",2
+"('SRM: Created', 4.0)",4
+"('SRM: Created', 5.0)",3
+"('SRM: Created', 6.0)",6
+"('SRM: Created', 9.0)",7
+"('SRM: Created', 10.0)",12
+"('SRM: Created', 11.0)",11
+"('SRM: Created', 12.0)",12
+"('SRM: Created', 13.0)",29
+"('SRM: Created', 14.0)",37
+"('SRM: Created', 15.0)",34
+"('SRM: Created', 16.0)",41
+"('SRM: Created', 17.0)",30
+"('SRM: Created', 18.0)",16
+"('SRM: Created', 19.0)",9
+"('SRM: Created', 20.0)",1
+"('SRM: Created', 24.0)",2
+"('SRM: Deleted', -inf)",143
+"('SRM: Document Completed', -inf)",1440
+"('SRM: Held', -inf)",6
+"('SRM: In Transfer to Execution Syst.', -inf)",1336
+"('SRM: In Transfer to Execution Syst.', 0.0)",96
+"('SRM: In Transfer to Execution Syst.', 1.0)",14
+"('SRM: In Transfer to Execution Syst.', 2.0)",15
+"('SRM: In Transfer to Execution Syst.', 3.0)",8
+"('SRM: In Transfer to Execution Syst.', 4.0)",4
+"('SRM: In Transfer to Execution Syst.', 5.0)",3
+"('SRM: In Transfer to Execution Syst.', 6.0)",13
+"('SRM: In Transfer to Execution Syst.', 7.0)",14
+"('SRM: In Transfer to Execution Syst.', 8.0)",14
+"('SRM: In Transfer to Execution Syst.', 9.0)",5
+"('SRM: In Transfer to Execution Syst.', 10.0)",2
+"('SRM: In Transfer to Execution Syst.', 11.0)",6
+"('SRM: In Transfer to Execution Syst.', 12.0)",21
+"('SRM: In Transfer to Execution Syst.', 13.0)",8
+"('SRM: In Transfer to Execution Syst.', 14.0)",6
+"('SRM: In Transfer to Execution Syst.', 15.0)",13
+"('SRM: In Transfer to Execution Syst.', 16.0)",13
+"('SRM: In Transfer to Execution Syst.', 17.0)",12
+"('SRM: In Transfer to Execution Syst.', 18.0)",20
+"('SRM: In Transfer to Execution Syst.', 19.0)",37
+"('SRM: Incomplete', 6.0)",3
+"('SRM: Incomplete', 7.0)",3
+"('SRM: Ordered', -inf)",1380
+"('SRM: Ordered', 0.0)",64
+"('SRM: Ordered', 1.0)",1
+"('SRM: Ordered', 2.0)",3
+"('SRM: Ordered', 3.0)",1
+"('SRM: Ordered', 4.0)",3
+"('SRM: Ordered', 5.0)",4
+"('SRM: Ordered', 6.0)",4
+"('SRM: Ordered', 7.0)",7
+"('SRM: Ordered', 8.0)",5
+"('SRM: Ordered', 9.0)",2
+"('SRM: Ordered', 10.0)",2
+"('SRM: Ordered', 11.0)",3
+"('SRM: Ordered', 12.0)",1
+"('SRM: Ordered', 13.0)",5
+"('SRM: Ordered', 14.0)",2
+"('SRM: Ordered', 15.0)",1
+"('SRM: Ordered', 16.0)",1
+"('SRM: Ordered', 17.0)",1
+"('SRM: Transaction Completed', -inf)",7
+"('SRM: Transaction Completed', 15.0)",1
+"('SRM: Transfer Failed (E.Sys.)', -inf)",44
+"('SRM: Transfer Failed (E.Sys.)', 0.0)",1
+"('Set Payment Block', 3.0)",9
+"('Set Payment Block', 4.0)",3
+"('Set Payment Block', 5.0)",1
+"('Set Payment Block', 7.0)",1
+"('Set Payment Block', 8.0)",1
+"('Set Payment Block', 11.0)",2
+"('Set Payment Block', 12.0)",2
+"('Set Payment Block', 14.0)",3
+"('Set Payment Block', 15.0)",36
+"('Set Payment Block', 16.0)",6
+"('Set Payment Block', 17.0)",59
+"('Set Payment Block', 18.0)",1
+"('Update Order Confirmation', -inf)",32
+"('Update Order Confirmation', 0.0)",1
+"('Update Order Confirmation', 3.0)",2
+"('Update Order Confirmation', 4.0)",4
+"('Update Order Confirmation', 5.0)",5
+"('Update Order Confirmation', 6.0)",6
+"('Update Order Confirmation', 7.0)",1
+"('Update Order Confirmation', 8.0)",8
+"('Update Order Confirmation', 9.0)",6
+"('Update Order Confirmation', 10.0)",9
+"('Update Order Confirmation', 11.0)",31
+"('Update Order Confirmation', 12.0)",31
+"('Update Order Confirmation', 13.0)",39
+"('Update Order Confirmation', 14.0)",49
+"('Update Order Confirmation', 15.0)",8
+"('Update Order Confirmation', 16.0)",7
+"('Update Order Confirmation', 17.0)",2
+"('Vendor creates debit memo', -inf)",2564
+"('Vendor creates debit memo', 6.0)",1
+"('Vendor creates debit memo', 7.0)",2
+"('Vendor creates debit memo', 8.0)",5
+"('Vendor creates debit memo', 9.0)",200
+"('Vendor creates debit memo', 10.0)",402
+"('Vendor creates debit memo', 11.0)",119
+"('Vendor creates debit memo', 12.0)",469
+"('Vendor creates debit memo', 13.0)",597
+"('Vendor creates debit memo', 14.0)",474
+"('Vendor creates debit memo', 15.0)",505
+"('Vendor creates debit memo', 16.0)",352
+"('Vendor creates debit memo', 17.0)",359
+"('Vendor creates debit memo', 18.0)",35
+"('Vendor creates debit memo', 19.0)",3
+"('Vendor creates invoice', -inf)",5174
+"('Vendor creates invoice', 2.0)",1
+"('Vendor creates invoice', 3.0)",10
+"('Vendor creates invoice', 4.0)",14
+"('Vendor creates invoice', 5.0)",33
+"('Vendor creates invoice', 6.0)",131
+"('Vendor creates invoice', 7.0)",535
+"('Vendor creates invoice', 8.0)",732
+"('Vendor creates invoice', 9.0)",15623
+"('Vendor creates invoice', 10.0)",42822
+"('Vendor creates invoice', 11.0)",7573
+"('Vendor creates invoice', 12.0)",33327
+"('Vendor creates invoice', 13.0)",30796
+"('Vendor creates invoice', 14.0)",27837
+"('Vendor creates invoice', 15.0)",32471
+"('Vendor creates invoice', 16.0)",13266
+"('Vendor creates invoice', 17.0)",4198
+"('Vendor creates invoice', 18.0)",1156
+"('Vendor creates invoice', 19.0)",48
+"('Vendor creates invoice', 20.0)",2
+"('Vendor creates invoice', 24.0)",1

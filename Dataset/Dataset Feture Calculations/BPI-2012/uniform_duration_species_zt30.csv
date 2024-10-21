@@ -1,0 +1,212 @@
+Activity,Count
+"('A_ACCEPTED', 0.0)",5113
+"('A_ACTIVATED', 0.0)",2246
+"('A_APPROVED', 0.0)",2246
+"('A_CANCELLED', 0.0)",2807
+"('A_DECLINED', 0.0)",7635
+"('A_FINALIZED', 0.0)",5015
+"('A_PARTLYSUBMITTED', 0.0)",13087
+"('A_PREACCEPTED', 0.0)",7367
+"('A_REGISTERED', 0.0)",2246
+"('A_SUBMITTED', 0.0)",13087
+"('O_ACCEPTED', 0.0)",2243
+"('O_CANCELLED', 0.0)",2660
+"('O_CREATED', 0.0)",5015
+"('O_DECLINED', 0.0)",802
+"('O_SELECTED', 0.0)",5015
+"('O_SENT', 0.0)",5015
+"('O_SENT_BACK', 0.0)",3254
+"('W_Afhandelen leads', 0.0)",1
+"('W_Afhandelen leads', 1.0)",4738
+"('W_Afhandelen leads', 2.0)",72
+"('W_Afhandelen leads', 3.0)",22
+"('W_Afhandelen leads', 4.0)",12
+"('W_Afhandelen leads', 5.0)",17
+"('W_Afhandelen leads', 6.0)",7
+"('W_Afhandelen leads', 7.0)",1
+"('W_Afhandelen leads', 8.0)",1
+"('W_Afhandelen leads', 9.0)",4
+"('W_Afhandelen leads', 10.0)",1
+"('W_Afhandelen leads', 12.0)",2
+"('W_Afhandelen leads', 13.0)",2
+"('W_Afhandelen leads', 15.0)",1
+"('W_Afhandelen leads', 19.0)",2
+"('W_Afhandelen leads', 20.0)",7
+"('W_Afhandelen leads', 23.0)",1
+"('W_Afhandelen leads', 25.0)",1
+"('W_Afhandelen leads', 27.0)",3
+"('W_Afhandelen leads', 28.0)",5
+"('W_Afhandelen leads', 29.0)",3
+"('W_Afhandelen leads', 32.0)",3
+"('W_Afhandelen leads', 33.0)",5
+"('W_Afhandelen leads', 34.0)",2
+"('W_Afhandelen leads', 36.0)",2
+"('W_Afhandelen leads', 39.0)",2
+"('W_Afhandelen leads', 42.0)",1
+"('W_Afhandelen leads', 76.0)",1
+"('W_Afhandelen leads', 78.0)",2
+"('W_Afhandelen leads', 79.0)",1
+"('W_Afhandelen leads', 88.0)",1
+"('W_Afhandelen leads', 117.0)",1
+"('W_Afhandelen leads', 124.0)",2
+"('W_Afhandelen leads', 125.0)",1
+"('W_Afhandelen leads', 133.0)",2
+"('W_Afhandelen leads', 136.0)",1
+"('W_Beoordelen fraude', 1.0)",108
+"('W_Beoordelen fraude', 6.0)",1
+"('W_Beoordelen fraude', 32.0)",1
+"('W_Beoordelen fraude', 43.0)",1
+"('W_Completeren aanvraag', 0.0)",455
+"('W_Completeren aanvraag', 1.0)",7331
+"('W_Completeren aanvraag', 2.0)",222
+"('W_Completeren aanvraag', 3.0)",60
+"('W_Completeren aanvraag', 4.0)",23
+"('W_Completeren aanvraag', 5.0)",12
+"('W_Completeren aanvraag', 6.0)",13
+"('W_Completeren aanvraag', 7.0)",7
+"('W_Completeren aanvraag', 8.0)",6
+"('W_Completeren aanvraag', 9.0)",3
+"('W_Completeren aanvraag', 10.0)",4
+"('W_Completeren aanvraag', 11.0)",4
+"('W_Completeren aanvraag', 12.0)",2
+"('W_Completeren aanvraag', 13.0)",1
+"('W_Completeren aanvraag', 18.0)",1
+"('W_Completeren aanvraag', 19.0)",3
+"('W_Completeren aanvraag', 20.0)",2
+"('W_Completeren aanvraag', 21.0)",2
+"('W_Completeren aanvraag', 22.0)",3
+"('W_Completeren aanvraag', 23.0)",1
+"('W_Completeren aanvraag', 26.0)",1
+"('W_Completeren aanvraag', 27.0)",2
+"('W_Completeren aanvraag', 28.0)",4
+"('W_Completeren aanvraag', 29.0)",9
+"('W_Completeren aanvraag', 30.0)",7
+"('W_Completeren aanvraag', 31.0)",8
+"('W_Completeren aanvraag', 32.0)",1
+"('W_Completeren aanvraag', 33.0)",4
+"('W_Completeren aanvraag', 34.0)",4
+"('W_Completeren aanvraag', 35.0)",4
+"('W_Completeren aanvraag', 36.0)",2
+"('W_Completeren aanvraag', 37.0)",4
+"('W_Completeren aanvraag', 38.0)",2
+"('W_Completeren aanvraag', 41.0)",1
+"('W_Completeren aanvraag', 42.0)",2
+"('W_Completeren aanvraag', 43.0)",3
+"('W_Completeren aanvraag', 47.0)",1
+"('W_Completeren aanvraag', 76.0)",1
+"('W_Completeren aanvraag', 79.0)",1
+"('W_Completeren aanvraag', 83.0)",1
+"('W_Completeren aanvraag', 85.0)",1
+"('W_Completeren aanvraag', 119.0)",1
+"('W_Completeren aanvraag', 122.0)",1
+"('W_Completeren aanvraag', 124.0)",1
+"('W_Completeren aanvraag', 128.0)",1
+"('W_Completeren aanvraag', 131.0)",1
+"('W_Completeren aanvraag', 133.0)",1
+"('W_Completeren aanvraag', 136.0)",1
+"('W_Nabellen incomplete dossiers', 0.0)",8
+"('W_Nabellen incomplete dossiers', 1.0)",1646
+"('W_Nabellen incomplete dossiers', 2.0)",194
+"('W_Nabellen incomplete dossiers', 3.0)",47
+"('W_Nabellen incomplete dossiers', 4.0)",21
+"('W_Nabellen incomplete dossiers', 5.0)",16
+"('W_Nabellen incomplete dossiers', 6.0)",6
+"('W_Nabellen incomplete dossiers', 7.0)",9
+"('W_Nabellen incomplete dossiers', 9.0)",5
+"('W_Nabellen incomplete dossiers', 10.0)",2
+"('W_Nabellen incomplete dossiers', 13.0)",1
+"('W_Nabellen incomplete dossiers', 20.0)",2
+"('W_Nabellen incomplete dossiers', 21.0)",1
+"('W_Nabellen incomplete dossiers', 22.0)",7
+"('W_Nabellen incomplete dossiers', 24.0)",1
+"('W_Nabellen incomplete dossiers', 27.0)",6
+"('W_Nabellen incomplete dossiers', 28.0)",4
+"('W_Nabellen incomplete dossiers', 29.0)",2
+"('W_Nabellen incomplete dossiers', 30.0)",2
+"('W_Nabellen incomplete dossiers', 31.0)",2
+"('W_Nabellen incomplete dossiers', 32.0)",1
+"('W_Nabellen incomplete dossiers', 33.0)",1
+"('W_Nabellen incomplete dossiers', 35.0)",2
+"('W_Nabellen incomplete dossiers', 36.0)",2
+"('W_Nabellen incomplete dossiers', 86.0)",1
+"('W_Nabellen incomplete dossiers', 87.0)",1
+"('W_Nabellen incomplete dossiers', 88.0)",1
+"('W_Nabellen incomplete dossiers', 123.0)",2
+"('W_Nabellen incomplete dossiers', 124.0)",1
+"('W_Nabellen incomplete dossiers', 126.0)",3
+"('W_Nabellen incomplete dossiers', 128.0)",1
+"('W_Nabellen incomplete dossiers', 131.0)",2
+"('W_Nabellen incomplete dossiers', 132.0)",1
+"('W_Nabellen incomplete dossiers', 135.0)",1
+"('W_Nabellen offertes', 0.0)",571
+"('W_Nabellen offertes', 1.0)",5006
+"('W_Nabellen offertes', 2.0)",106
+"('W_Nabellen offertes', 3.0)",26
+"('W_Nabellen offertes', 4.0)",11
+"('W_Nabellen offertes', 5.0)",9
+"('W_Nabellen offertes', 6.0)",11
+"('W_Nabellen offertes', 7.0)",5
+"('W_Nabellen offertes', 8.0)",4
+"('W_Nabellen offertes', 9.0)",4
+"('W_Nabellen offertes', 11.0)",3
+"('W_Nabellen offertes', 13.0)",1
+"('W_Nabellen offertes', 15.0)",1
+"('W_Nabellen offertes', 16.0)",1
+"('W_Nabellen offertes', 19.0)",8
+"('W_Nabellen offertes', 20.0)",6
+"('W_Nabellen offertes', 21.0)",4
+"('W_Nabellen offertes', 22.0)",5
+"('W_Nabellen offertes', 23.0)",2
+"('W_Nabellen offertes', 25.0)",1
+"('W_Nabellen offertes', 26.0)",1
+"('W_Nabellen offertes', 27.0)",4
+"('W_Nabellen offertes', 28.0)",4
+"('W_Nabellen offertes', 29.0)",4
+"('W_Nabellen offertes', 30.0)",5
+"('W_Nabellen offertes', 33.0)",2
+"('W_Nabellen offertes', 34.0)",4
+"('W_Nabellen offertes', 35.0)",4
+"('W_Nabellen offertes', 36.0)",3
+"('W_Nabellen offertes', 38.0)",3
+"('W_Nabellen offertes', 39.0)",1
+"('W_Nabellen offertes', 43.0)",1
+"('W_Nabellen offertes', 76.0)",1
+"('W_Nabellen offertes', 77.0)",1
+"('W_Nabellen offertes', 78.0)",1
+"('W_Nabellen offertes', 82.0)",1
+"('W_Nabellen offertes', 83.0)",1
+"('W_Nabellen offertes', 85.0)",1
+"('W_Nabellen offertes', 87.0)",1
+"('W_Nabellen offertes', 115.0)",1
+"('W_Nabellen offertes', 116.0)",3
+"('W_Nabellen offertes', 117.0)",2
+"('W_Nabellen offertes', 118.0)",1
+"('W_Nabellen offertes', 121.0)",1
+"('W_Nabellen offertes', 123.0)",7
+"('W_Nabellen offertes', 125.0)",2
+"('W_Nabellen offertes', 130.0)",1
+"('W_Nabellen offertes', 136.0)",1
+"('W_Valideren aanvraag', 0.0)",6
+"('W_Valideren aanvraag', 1.0)",2919
+"('W_Valideren aanvraag', 2.0)",968
+"('W_Valideren aanvraag', 3.0)",138
+"('W_Valideren aanvraag', 4.0)",38
+"('W_Valideren aanvraag', 5.0)",12
+"('W_Valideren aanvraag', 7.0)",2
+"('W_Valideren aanvraag', 11.0)",1
+"('W_Valideren aanvraag', 19.0)",1
+"('W_Valideren aanvraag', 21.0)",1
+"('W_Valideren aanvraag', 27.0)",3
+"('W_Valideren aanvraag', 28.0)",2
+"('W_Valideren aanvraag', 29.0)",3
+"('W_Valideren aanvraag', 30.0)",2
+"('W_Valideren aanvraag', 31.0)",2
+"('W_Valideren aanvraag', 32.0)",3
+"('W_Valideren aanvraag', 33.0)",1
+"('W_Valideren aanvraag', 38.0)",2
+"('W_Valideren aanvraag', 39.0)",1
+"('W_Valideren aanvraag', 42.0)",1
+"('W_Valideren aanvraag', 75.0)",1
+"('W_Valideren aanvraag', 83.0)",1
+"('W_Valideren aanvraag', 124.0)",2
+"('W_Valideren aanvraag', 133.0)",1

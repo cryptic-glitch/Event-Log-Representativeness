@@ -1,0 +1,620 @@
+directly_follows,count
+$START$->initialize,48
+$START$->mail income,38571
+$START$->mail valid,5188
+$START$->plan,2
+abort external->begin preparations,1441
+abort external->finish preparations,4415
+abort external->performed,6
+abort external->prepare external,1654
+abort external->prepare offline,12
+abort external->save,2
+abort payment->$END$,6
+abort payment->begin editing,3
+abort payment->begin payment,34156
+abort payment->finish editing,3
+abort payment->insert document,12
+abort payment->remove document,45
+abort payment->restart editing,1
+abort payment->revoke decision,9
+abort payment->save,57
+abort payment->take original document,1
+approve->approve,8
+approve->begin admissibility check,16
+approve->begin editing,485
+approve->calculate,346
+approve->decide,1
+approve->insert document,4
+approve->revoke approval,11
+approve->save,29
+begin admissibility check->$END$,27
+begin admissibility check->begin admissibility check,7
+begin admissibility check->begin editing,10
+begin admissibility check->begin payment,1
+begin admissibility check->calculate,488
+begin admissibility check->check admissibility,1112
+begin admissibility check->finish editing,1
+begin admissibility check->initialize,1
+begin admissibility check->insert document,1
+begin admissibility check->remove document,2
+begin admissibility check->revoke approval,1
+begin admissibility check->save,225
+begin admissibility check->withdraw,56
+begin editing->$END$,135
+begin editing->approve,3
+begin editing->begin admissibility check,13
+begin editing->begin editing,7726
+begin editing->begin payment,1
+begin editing->begin preparations,1
+begin editing->calculate,263934
+begin editing->calculate protocol,63
+begin editing->check,161
+begin editing->clear,3
+begin editing->create,8478
+begin editing->decide,23
+begin editing->discard,26
+begin editing->finish editing,64262
+begin editing->finish payment,6
+begin editing->finish pre-check,16615
+begin editing->finish preparations,16
+begin editing->initialize,7644
+begin editing->insert document,5382
+begin editing->performed,3
+begin editing->performed offline,5
+begin editing->plan,12
+begin editing->prepare offline,3
+begin editing->remove document,60
+begin editing->restart editing,6
+begin editing->revoke decision,15
+begin editing->save,22516
+begin editing->take original document,12
+begin editing->withdraw,9
+begin editing from refused->begin admissibility check,2
+begin editing from refused->begin editing from refused,29
+begin editing from refused->calculate,107
+begin editing from refused->decide,1
+begin editing from refused->finish editing,4
+begin editing from refused->insert document,30
+begin editing from refused->refuse,1
+begin editing from refused->remove document,3
+begin editing from refused->revoke approval,23
+begin editing from refused->save,3
+begin payment->abort payment,32347
+begin payment->begin admissibility check,1
+begin payment->begin editing,34
+begin payment->change department,1
+begin payment->check,6
+begin payment->discard,1
+begin payment->finish editing,95
+begin payment->finish payment,15108
+begin payment->initialize,3
+begin payment->insert document,31144
+begin payment->plan,1
+begin payment->remove document,5
+begin payment->restart editing,23
+begin payment->save,1431
+begin preparations->abort external,1840
+begin preparations->begin editing,22
+begin preparations->begin preparations,2
+begin preparations->calculate,24
+begin preparations->check,5
+begin preparations->finish editing,1
+begin preparations->finish pre-check,1
+begin preparations->finish preparations,2142
+begin preparations->initialize,549
+begin preparations->insert document,3
+begin preparations->performed,935
+begin preparations->plan,5
+begin preparations->prepare external,5395
+begin preparations->prepare offline,1783
+begin preparations->restart editing,1
+begin preparations->save,502
+calculate->$END$,514
+calculate->abort external,1
+calculate->approve,342
+calculate->begin admissibility check,128
+calculate->begin editing,36343
+calculate->begin editing from refused,71
+calculate->begin preparations,6
+calculate->calculate,89431
+calculate->calculate protocol,4
+calculate->cancel offline,10
+calculate->check,21
+calculate->check admissibility,586
+calculate->clear,8
+calculate->correction GFM17,1
+calculate->create,11
+calculate->decide,418
+calculate->discard,4
+calculate->finish editing,304268
+calculate->finish pre-check,3337
+calculate->finish preparations,444
+calculate->initialize,4908
+calculate->insert document,1754
+calculate->mail income,1
+calculate->performed,1497
+calculate->performed offline,36
+calculate->plan,42
+calculate->prepare offline,29
+calculate->refuse,135
+calculate->remove document,3553
+calculate->restart editing,59
+calculate->revoke approval,3
+calculate->revoke decision,45
+calculate->revoke withdrawal,7
+calculate->save,17720
+calculate->take original document,91
+calculate->withdraw,313
+calculate protocol->$END$,1
+calculate protocol->begin editing,3
+calculate protocol->calculate protocol,1182
+calculate protocol->finish editing,8
+calculate protocol->insert document,5
+calculate protocol->save,182
+cancel offline->begin editing,10
+cancel offline->calculate,4
+cancel offline->finish preparations,34
+cancel offline->initialize,15
+cancel offline->insert document,1
+cancel offline->prepare offline,122
+cancel offline->save,10
+change department->$END$,6
+change department->begin editing,3
+change department->change department,38
+change department->finish payment,1
+change department->initialize,4
+check->$END$,1
+check->begin editing,5
+check->check,991
+check->discard,5
+check->finish editing,9635
+check->finish preparations,5
+check->initialize,566
+check->insert document,784
+check->plan,6
+check->remove document,3
+check->save,1562
+check->take original document,25
+check admissibility->$END$,2
+check admissibility->approve,419
+check admissibility->begin admissibility check,432
+check admissibility->begin editing,21
+check admissibility->calculate,643
+check admissibility->decide,3
+check admissibility->finish editing,2
+check admissibility->finish payment,1
+check admissibility->insert document,45
+check admissibility->refuse,208
+check admissibility->remove document,8
+check admissibility->restart editing,1
+check admissibility->save,61
+check admissibility->withdraw,1
+clear->begin editing,4247
+clear->create,790
+clear->finish pre-check,16
+clear->restart editing,4
+correction GFM17->calculate,11
+correction GFM17->finish pre-check,1
+correction GFM17->save,5
+create->begin editing,4098
+create->calculate,1344
+create->change department,1
+create->clear,4333
+create->correction GFM17,6
+create->create,2718
+create->finish editing,394
+create->finish pre-check,838
+create->finish preparations,4
+create->initialize,24848
+create->insert document,190
+create->mail income,367
+create->mail valid,4
+create->plan,124
+create->restart editing,1
+create->save,2291
+create->take original document,2
+decide->$END$,26
+decide->approve,13
+decide->begin admissibility check,71
+decide->begin editing,1337
+decide->begin payment,42925
+decide->calculate,16670
+decide->check admissibility,4
+decide->clear,2
+decide->decide,2063
+decide->finish editing,28
+decide->finish preparations,1
+decide->initialize,31
+decide->insert document,4612
+decide->plan,5
+decide->refuse,1
+decide->remove document,133
+decide->restart editing,55
+decide->revoke decision,19068
+decide->save,511
+decide->take original document,133
+decide->withdraw,7
+discard->calculate,12
+discard->finish editing,8
+discard->finish pre-check,2
+discard->initialize,5
+discard->insert document,7
+discard->remove document,1
+discard->save,20
+finish editing->$END$,1492
+finish editing->abort external,117
+finish editing->abort payment,4
+finish editing->approve,9
+finish editing->begin admissibility check,64
+finish editing->begin editing,183164
+finish editing->begin editing from refused,1
+finish editing->begin payment,180
+finish editing->begin preparations,24
+finish editing->calculate,29399
+finish editing->calculate protocol,15
+finish editing->cancel offline,5
+finish editing->change department,4
+finish editing->check,845
+finish editing->check admissibility,6
+finish editing->clear,558
+finish editing->correction GFM17,2
+finish editing->create,27592
+finish editing->decide,83450
+finish editing->discard,3
+finish editing->finish editing,25070
+finish editing->finish payment,612
+finish editing->finish pre-check,311
+finish editing->finish preparations,939
+finish editing->initialize,59101
+finish editing->insert document,5074
+finish editing->mail income,172
+finish editing->mail valid,10
+finish editing->performed,7287
+finish editing->performed offline,18
+finish editing->plan,524
+finish editing->prepare external,2
+finish editing->prepare offline,17
+finish editing->refuse,2
+finish editing->remove document,70
+finish editing->restart editing,428
+finish editing->revoke approval,2
+finish editing->revoke decision,1607
+finish editing->revoke withdrawal,3
+finish editing->save,27331
+finish editing->take original document,477
+finish editing->withdraw,22
+finish payment->$END$,34830
+finish payment->approve,1
+finish payment->begin admissibility check,6
+finish payment->begin editing,1051
+finish payment->change department,5
+finish payment->check,7
+finish payment->clear,2
+finish payment->finish editing,289
+finish payment->initialize,346
+finish payment->insert document,3288
+finish payment->plan,3
+finish payment->refuse,1
+finish payment->remove document,8
+finish payment->restart editing,213
+finish payment->revoke decision,2
+finish payment->revoke withdrawal,4
+finish payment->save,5850
+finish payment->take original document,1
+finish pre-check->$END$,4
+finish pre-check->begin admissibility check,1
+finish pre-check->begin editing,69
+finish pre-check->calculate,820
+finish pre-check->clear,3
+finish pre-check->correction GFM17,1
+finish pre-check->create,1781
+finish pre-check->finish editing,13842
+finish pre-check->finish pre-check,284
+finish pre-check->finish preparations,5
+finish pre-check->initialize,6186
+finish pre-check->insert document,82
+finish pre-check->restart editing,11
+finish pre-check->save,1219
+finish preparations->abort external,1128
+finish preparations->begin editing,24
+finish preparations->begin preparations,6212
+finish preparations->calculate,34
+finish preparations->check,3
+finish preparations->finish editing,2
+finish preparations->finish preparations,5
+finish preparations->initialize,359
+finish preparations->insert document,20
+finish preparations->performed,5
+finish preparations->performed offline,1
+finish preparations->plan,2
+finish preparations->prepare external,2723
+finish preparations->save,2693
+finish preparations->take original document,1
+initialize->$END$,4
+initialize->begin admissibility check,247
+initialize->begin editing,144601
+initialize->begin payment,9
+initialize->calculate,5103
+initialize->cancel offline,3
+initialize->change department,1
+initialize->check,72
+initialize->clear,1
+initialize->create,21
+initialize->finish editing,167
+initialize->finish payment,2
+initialize->finish preparations,272
+initialize->initialize,1170
+initialize->insert document,1249
+initialize->mail income,1
+initialize->performed,43802
+initialize->performed offline,11
+initialize->plan,4292
+initialize->prepare offline,16
+initialize->remove document,5
+initialize->restart editing,16
+initialize->save,4004
+initialize->take original document,3
+initialize->withdraw,10
+insert document->$END$,193
+insert document->abort payment,1894
+insert document->approve,7
+insert document->begin admissibility check,276
+insert document->begin editing,235
+insert document->begin editing from refused,19
+insert document->begin payment,1146
+insert document->begin preparations,2
+insert document->calculate,719
+insert document->calculate protocol,27
+insert document->check,2
+insert document->clear,1
+insert document->decide,68
+insert document->discard,1
+insert document->finish editing,140
+insert document->finish payment,28886
+insert document->finish pre-check,17
+insert document->finish preparations,24
+insert document->initialize,8410
+insert document->insert document,14616
+insert document->plan,1
+insert document->refuse,3
+insert document->remove document,564
+insert document->restart editing,25
+insert document->revoke approval,17
+insert document->revoke decision,133
+insert document->revoke withdrawal,14
+insert document->save,25785
+insert document->take original document,9
+insert document->withdraw,26
+mail income->begin editing,212
+mail income->calculate,1
+mail income->clear,129
+mail income->create,150
+mail income->finish pre-check,14
+mail income->initialize,4540
+mail income->insert document,1
+mail income->mail valid,38754
+mail income->plan,2
+mail income->save,5
+mail valid->begin editing,6
+mail valid->calculate,1
+mail valid->clear,9
+mail valid->create,3
+mail valid->initialize,39267
+mail valid->mail income,4671
+mail valid->mail valid,30369
+performed->begin editing,3468
+performed->calculate,3639
+performed->cancel offline,4
+performed->change department,1
+performed->check,1260
+performed->create,13
+performed->discard,1
+performed->finish editing,3677
+performed->finish pre-check,6
+performed->finish preparations,245
+performed->initialize,33180
+performed->insert document,2402
+performed->mail income,18
+performed->performed,16721
+performed->performed offline,5
+performed->plan,99
+performed->prepare offline,17
+performed->remove document,2
+performed->revoke withdrawal,1
+performed->save,11969
+performed->take original document,3
+performed offline->abort external,10
+performed offline->begin editing,59
+performed offline->calculate,68
+performed offline->check,1
+performed offline->finish editing,46
+performed offline->finish preparations,4
+performed offline->initialize,105
+performed offline->insert document,6
+performed offline->performed,8
+performed offline->save,1538
+plan->begin editing,5
+plan->calculate,3
+plan->finish editing,4
+plan->finish pre-check,1
+plan->finish preparations,641
+plan->initialize,1208
+plan->insert document,1
+plan->performed,1
+plan->save,3621
+prepare external->abort external,4416
+prepare external->begin editing,109
+prepare external->begin preparations,2737
+prepare external->calculate,32
+prepare external->check,3
+prepare external->finish editing,1
+prepare external->finish pre-check,10
+prepare external->finish preparations,1127
+prepare external->initialize,1238
+prepare external->insert document,2
+prepare external->mail income,2
+prepare external->performed offline,3
+prepare external->plan,6
+prepare external->prepare offline,2
+prepare external->save,91
+prepare offline->$END$,2
+prepare offline->abort external,5
+prepare offline->begin editing,102
+prepare offline->calculate,135
+prepare offline->cancel offline,169
+prepare offline->check,1
+prepare offline->correction GFM17,1
+prepare offline->finish editing,4
+prepare offline->finish pre-check,1
+prepare offline->finish preparations,2
+prepare offline->initialize,105
+prepare offline->insert document,5
+prepare offline->performed,9
+prepare offline->plan,2
+prepare offline->prepare offline,4
+prepare offline->save,1495
+prepare offline->take original document,1
+refuse->$END$,13
+refuse->approve,2
+refuse->begin admissibility check,44
+refuse->begin editing,2
+refuse->begin editing from refused,77
+refuse->begin payment,1
+refuse->calculate,45
+refuse->decide,1
+refuse->insert document,165
+refuse->refuse,12
+refuse->revoke approval,13
+refuse->save,16
+remove document->$END$,581
+remove document->abort payment,4
+remove document->begin admissibility check,20
+remove document->begin editing,99
+remove document->begin editing from refused,3
+remove document->begin payment,83
+remove document->calculate,132
+remove document->check admissibility,2
+remove document->decide,27
+remove document->finish editing,23
+remove document->finish payment,4
+remove document->initialize,8
+remove document->insert document,3519
+remove document->plan,2
+remove document->refuse,1
+remove document->remove document,147
+remove document->restart editing,2
+remove document->revoke approval,5
+remove document->revoke decision,204
+remove document->revoke withdrawal,20
+remove document->save,303
+remove document->withdraw,10
+restart editing->$END$,1
+restart editing->abort payment,1
+restart editing->begin editing,1
+restart editing->calculate,28
+restart editing->create,1
+restart editing->discard,3
+restart editing->finish editing,104
+restart editing->finish pre-check,31
+restart editing->insert document,33
+restart editing->restart editing,119
+restart editing->save,824
+revoke approval->approve,23
+revoke approval->begin admissibility check,40
+revoke approval->calculate,1
+revoke approval->refuse,10
+revoke approval->remove document,1
+revoke approval->revoke decision,1
+revoke approval->save,5
+revoke approval->withdraw,1
+revoke decision->approve,1
+revoke decision->begin admissibility check,3
+revoke decision->begin editing,61
+revoke decision->begin payment,6
+revoke decision->calculate,19371
+revoke decision->decide,1431
+revoke decision->finish editing,51
+revoke decision->initialize,6
+revoke decision->insert document,226
+revoke decision->remove document,71
+revoke decision->restart editing,31
+revoke decision->revoke decision,578
+revoke decision->save,129
+revoke decision->withdraw,39
+revoke withdrawal->begin admissibility check,9
+revoke withdrawal->begin editing,85
+revoke withdrawal->insert document,4
+revoke withdrawal->remove document,144
+revoke withdrawal->revoke withdrawal,1
+revoke withdrawal->withdraw,6
+save->$END$,5935
+save->abort external,13
+save->abort payment,43
+save->approve,72
+save->begin admissibility check,543
+save->begin editing,9006
+save->begin editing from refused,3
+save->begin payment,1535
+save->begin preparations,2785
+save->calculate,33420
+save->calculate protocol,90
+save->cancel offline,5
+save->change department,1
+save->check,10181
+save->check admissibility,135
+save->clear,8
+save->correction GFM17,6
+save->create,5
+save->decide,203
+save->discard,11
+save->finish editing,33875
+save->finish payment,1287
+save->finish pre-check,2823
+save->finish preparations,2887
+save->initialize,11150
+save->insert document,8387
+save->mail income,5
+save->mail valid,1
+save->performed,6456
+save->performed offline,1766
+save->plan,354
+save->prepare external,5
+save->prepare offline,38
+save->refuse,17
+save->remove document,360
+save->restart editing,150
+save->revoke approval,5
+save->revoke decision,341
+save->revoke withdrawal,62
+save->save,154757
+save->take original document,134
+save->withdraw,42
+take original document->$END$,1
+take original document->begin editing,411
+take original document->begin payment,157
+take original document->calculate,77
+take original document->check,29
+take original document->decide,4
+take original document->finish editing,6
+take original document->initialize,77
+take original document->insert document,22
+take original document->performed,1
+take original document->remove document,1
+take original document->revoke decision,1
+take original document->save,106
+take original document->take original document,9
+withdraw->$END$,35
+withdraw->begin admissibility check,9
+withdraw->begin editing,16
+withdraw->calculate,99
+withdraw->check admissibility,2
+withdraw->decide,3
+withdraw->finish editing,3
+withdraw->initialize,4
+withdraw->insert document,184
+withdraw->plan,1
+withdraw->remove document,13
+withdraw->revoke approval,2
+withdraw->revoke withdrawal,137
+withdraw->save,34
+withdraw->withdraw,56

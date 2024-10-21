@@ -1,0 +1,3327 @@
+Activity,Count
+"('Admission IC', 0.0)",1
+"('Admission IC', 1.0)",5
+"('Admission IC', 2.0)",14
+"('Admission IC', 3.0)",5
+"('Admission IC', 4.0)",3
+"('Admission IC', 6.0)",1
+"('Admission IC', 9.0)",1
+"('Admission IC', 14.0)",1
+"('Admission IC', 17.0)",1
+"('Admission IC', 27.0)",1
+"('Admission IC', 32.0)",1
+"('Admission IC', 33.0)",1
+"('Admission IC', 34.0)",1
+"('Admission IC', 38.0)",1
+"('Admission IC', 40.0)",1
+"('Admission IC', 41.0)",1
+"('Admission IC', 43.0)",1
+"('Admission IC', 44.0)",2
+"('Admission IC', 52.0)",1
+"('Admission IC', 53.0)",1
+"('Admission IC', 58.0)",1
+"('Admission IC', 61.0)",1
+"('Admission IC', 62.0)",1
+"('Admission IC', 79.0)",1
+"('Admission IC', 80.0)",1
+"('Admission IC', 82.0)",1
+"('Admission IC', 83.0)",1
+"('Admission IC', 88.0)",1
+"('Admission IC', 89.0)",1
+"('Admission IC', 91.0)",2
+"('Admission IC', 94.0)",1
+"('Admission IC', 95.0)",1
+"('Admission IC', 108.0)",1
+"('Admission IC', 109.0)",1
+"('Admission IC', 112.0)",2
+"('Admission IC', 115.0)",1
+"('Admission IC', 121.0)",1
+"('Admission IC', 123.0)",1
+"('Admission IC', 130.0)",1
+"('Admission IC', 131.0)",1
+"('Admission IC', 132.0)",1
+"('Admission IC', 135.0)",1
+"('Admission IC', 141.0)",2
+"('Admission IC', 143.0)",1
+"('Admission IC', 146.0)",1
+"('Admission IC', 148.0)",1
+"('Admission IC', 149.0)",1
+"('Admission IC', 152.0)",1
+"('Admission IC', 153.0)",2
+"('Admission IC', 158.0)",1
+"('Admission IC', 160.0)",1
+"('Admission IC', 166.0)",1
+"('Admission IC', 169.0)",1
+"('Admission IC', 175.0)",1
+"('Admission IC', 178.0)",1
+"('Admission IC', 181.0)",1
+"('Admission IC', 182.0)",1
+"('Admission IC', 210.0)",1
+"('Admission IC', 211.0)",1
+"('Admission IC', 213.0)",1
+"('Admission IC', 215.0)",1
+"('Admission IC', 230.0)",1
+"('Admission IC', 247.0)",1
+"('Admission IC', 249.0)",1
+"('Admission IC', 286.0)",1
+"('Admission IC', 294.0)",1
+"('Admission IC', 337.0)",1
+"('Admission IC', 338.0)",1
+"('Admission IC', 395.0)",1
+"('Admission IC', 402.0)",1
+"('Admission IC', 408.0)",1
+"('Admission IC', 410.0)",1
+"('Admission IC', 418.0)",1
+"('Admission IC', 451.0)",1
+"('Admission IC', 480.0)",1
+"('Admission IC', 511.0)",1
+"('Admission IC', 530.0)",1
+"('Admission IC', 613.0)",1
+"('Admission IC', 654.0)",1
+"('Admission IC', 698.0)",1
+"('Admission IC', 817.0)",1
+"('Admission IC', 830.0)",1
+"('Admission IC', 917.0)",1
+"('Admission IC', 1227.0)",1
+"('Admission IC', 1753.0)",1
+"('Admission IC', 1906.0)",1
+"('Admission IC', 2040.0)",1
+"('Admission IC', 8398.0)",1
+"('Admission NC', 1.0)",116
+"('Admission NC', 2.0)",96
+"('Admission NC', 3.0)",29
+"('Admission NC', 4.0)",14
+"('Admission NC', 5.0)",8
+"('Admission NC', 6.0)",4
+"('Admission NC', 8.0)",2
+"('Admission NC', 9.0)",2
+"('Admission NC', 10.0)",1
+"('Admission NC', 11.0)",2
+"('Admission NC', 12.0)",2
+"('Admission NC', 13.0)",2
+"('Admission NC', 14.0)",5
+"('Admission NC', 15.0)",3
+"('Admission NC', 17.0)",1
+"('Admission NC', 19.0)",3
+"('Admission NC', 21.0)",1
+"('Admission NC', 22.0)",2
+"('Admission NC', 23.0)",1
+"('Admission NC', 24.0)",1
+"('Admission NC', 25.0)",3
+"('Admission NC', 26.0)",1
+"('Admission NC', 27.0)",1
+"('Admission NC', 28.0)",1
+"('Admission NC', 29.0)",1
+"('Admission NC', 30.0)",1
+"('Admission NC', 31.0)",1
+"('Admission NC', 32.0)",1
+"('Admission NC', 33.0)",2
+"('Admission NC', 34.0)",1
+"('Admission NC', 35.0)",1
+"('Admission NC', 37.0)",1
+"('Admission NC', 38.0)",2
+"('Admission NC', 39.0)",1
+"('Admission NC', 40.0)",2
+"('Admission NC', 41.0)",4
+"('Admission NC', 42.0)",2
+"('Admission NC', 43.0)",2
+"('Admission NC', 44.0)",1
+"('Admission NC', 46.0)",1
+"('Admission NC', 47.0)",2
+"('Admission NC', 48.0)",3
+"('Admission NC', 49.0)",2
+"('Admission NC', 50.0)",1
+"('Admission NC', 51.0)",2
+"('Admission NC', 53.0)",2
+"('Admission NC', 55.0)",1
+"('Admission NC', 56.0)",1
+"('Admission NC', 57.0)",2
+"('Admission NC', 58.0)",2
+"('Admission NC', 60.0)",2
+"('Admission NC', 61.0)",3
+"('Admission NC', 62.0)",11
+"('Admission NC', 63.0)",3
+"('Admission NC', 64.0)",3
+"('Admission NC', 65.0)",2
+"('Admission NC', 66.0)",3
+"('Admission NC', 67.0)",2
+"('Admission NC', 68.0)",2
+"('Admission NC', 70.0)",2
+"('Admission NC', 71.0)",1
+"('Admission NC', 72.0)",2
+"('Admission NC', 73.0)",3
+"('Admission NC', 74.0)",2
+"('Admission NC', 75.0)",2
+"('Admission NC', 77.0)",2
+"('Admission NC', 79.0)",5
+"('Admission NC', 80.0)",3
+"('Admission NC', 81.0)",5
+"('Admission NC', 82.0)",2
+"('Admission NC', 83.0)",2
+"('Admission NC', 84.0)",2
+"('Admission NC', 85.0)",2
+"('Admission NC', 87.0)",2
+"('Admission NC', 88.0)",1
+"('Admission NC', 89.0)",2
+"('Admission NC', 90.0)",1
+"('Admission NC', 91.0)",2
+"('Admission NC', 92.0)",1
+"('Admission NC', 93.0)",2
+"('Admission NC', 94.0)",4
+"('Admission NC', 95.0)",1
+"('Admission NC', 96.0)",3
+"('Admission NC', 97.0)",2
+"('Admission NC', 99.0)",5
+"('Admission NC', 100.0)",2
+"('Admission NC', 101.0)",1
+"('Admission NC', 102.0)",1
+"('Admission NC', 103.0)",2
+"('Admission NC', 104.0)",3
+"('Admission NC', 105.0)",2
+"('Admission NC', 106.0)",4
+"('Admission NC', 107.0)",5
+"('Admission NC', 108.0)",2
+"('Admission NC', 109.0)",1
+"('Admission NC', 110.0)",4
+"('Admission NC', 111.0)",2
+"('Admission NC', 112.0)",3
+"('Admission NC', 113.0)",3
+"('Admission NC', 114.0)",2
+"('Admission NC', 115.0)",5
+"('Admission NC', 116.0)",3
+"('Admission NC', 118.0)",2
+"('Admission NC', 119.0)",2
+"('Admission NC', 120.0)",8
+"('Admission NC', 121.0)",9
+"('Admission NC', 122.0)",9
+"('Admission NC', 123.0)",6
+"('Admission NC', 124.0)",2
+"('Admission NC', 125.0)",2
+"('Admission NC', 126.0)",1
+"('Admission NC', 127.0)",2
+"('Admission NC', 128.0)",5
+"('Admission NC', 129.0)",4
+"('Admission NC', 130.0)",4
+"('Admission NC', 131.0)",1
+"('Admission NC', 132.0)",2
+"('Admission NC', 133.0)",1
+"('Admission NC', 135.0)",2
+"('Admission NC', 138.0)",3
+"('Admission NC', 140.0)",2
+"('Admission NC', 142.0)",4
+"('Admission NC', 143.0)",5
+"('Admission NC', 144.0)",3
+"('Admission NC', 145.0)",2
+"('Admission NC', 146.0)",4
+"('Admission NC', 147.0)",2
+"('Admission NC', 148.0)",7
+"('Admission NC', 149.0)",1
+"('Admission NC', 150.0)",4
+"('Admission NC', 151.0)",6
+"('Admission NC', 152.0)",4
+"('Admission NC', 153.0)",2
+"('Admission NC', 154.0)",2
+"('Admission NC', 155.0)",4
+"('Admission NC', 156.0)",3
+"('Admission NC', 157.0)",1
+"('Admission NC', 158.0)",2
+"('Admission NC', 159.0)",2
+"('Admission NC', 160.0)",1
+"('Admission NC', 161.0)",1
+"('Admission NC', 162.0)",3
+"('Admission NC', 163.0)",2
+"('Admission NC', 164.0)",2
+"('Admission NC', 165.0)",1
+"('Admission NC', 166.0)",2
+"('Admission NC', 167.0)",1
+"('Admission NC', 168.0)",4
+"('Admission NC', 169.0)",4
+"('Admission NC', 170.0)",3
+"('Admission NC', 171.0)",2
+"('Admission NC', 172.0)",5
+"('Admission NC', 173.0)",1
+"('Admission NC', 174.0)",2
+"('Admission NC', 175.0)",2
+"('Admission NC', 176.0)",4
+"('Admission NC', 177.0)",4
+"('Admission NC', 178.0)",5
+"('Admission NC', 179.0)",3
+"('Admission NC', 180.0)",17
+"('Admission NC', 181.0)",3
+"('Admission NC', 182.0)",3
+"('Admission NC', 183.0)",4
+"('Admission NC', 184.0)",2
+"('Admission NC', 185.0)",2
+"('Admission NC', 186.0)",3
+"('Admission NC', 187.0)",1
+"('Admission NC', 188.0)",4
+"('Admission NC', 189.0)",2
+"('Admission NC', 190.0)",2
+"('Admission NC', 191.0)",3
+"('Admission NC', 193.0)",1
+"('Admission NC', 194.0)",3
+"('Admission NC', 195.0)",4
+"('Admission NC', 196.0)",2
+"('Admission NC', 197.0)",2
+"('Admission NC', 198.0)",5
+"('Admission NC', 199.0)",1
+"('Admission NC', 200.0)",5
+"('Admission NC', 201.0)",5
+"('Admission NC', 202.0)",2
+"('Admission NC', 204.0)",1
+"('Admission NC', 206.0)",1
+"('Admission NC', 207.0)",1
+"('Admission NC', 208.0)",1
+"('Admission NC', 209.0)",2
+"('Admission NC', 210.0)",4
+"('Admission NC', 211.0)",1
+"('Admission NC', 212.0)",2
+"('Admission NC', 213.0)",4
+"('Admission NC', 214.0)",3
+"('Admission NC', 215.0)",1
+"('Admission NC', 217.0)",2
+"('Admission NC', 218.0)",3
+"('Admission NC', 220.0)",2
+"('Admission NC', 221.0)",3
+"('Admission NC', 222.0)",2
+"('Admission NC', 223.0)",3
+"('Admission NC', 224.0)",1
+"('Admission NC', 225.0)",2
+"('Admission NC', 226.0)",2
+"('Admission NC', 229.0)",2
+"('Admission NC', 230.0)",3
+"('Admission NC', 231.0)",1
+"('Admission NC', 233.0)",1
+"('Admission NC', 236.0)",1
+"('Admission NC', 238.0)",1
+"('Admission NC', 240.0)",39
+"('Admission NC', 241.0)",3
+"('Admission NC', 242.0)",1
+"('Admission NC', 243.0)",1
+"('Admission NC', 244.0)",3
+"('Admission NC', 245.0)",1
+"('Admission NC', 246.0)",2
+"('Admission NC', 247.0)",1
+"('Admission NC', 249.0)",1
+"('Admission NC', 250.0)",1
+"('Admission NC', 251.0)",4
+"('Admission NC', 252.0)",1
+"('Admission NC', 253.0)",1
+"('Admission NC', 254.0)",1
+"('Admission NC', 256.0)",1
+"('Admission NC', 257.0)",3
+"('Admission NC', 258.0)",2
+"('Admission NC', 262.0)",1
+"('Admission NC', 264.0)",1
+"('Admission NC', 265.0)",1
+"('Admission NC', 266.0)",2
+"('Admission NC', 267.0)",1
+"('Admission NC', 268.0)",1
+"('Admission NC', 269.0)",2
+"('Admission NC', 270.0)",6
+"('Admission NC', 271.0)",1
+"('Admission NC', 272.0)",2
+"('Admission NC', 273.0)",2
+"('Admission NC', 274.0)",1
+"('Admission NC', 275.0)",3
+"('Admission NC', 276.0)",2
+"('Admission NC', 277.0)",2
+"('Admission NC', 280.0)",1
+"('Admission NC', 281.0)",1
+"('Admission NC', 282.0)",1
+"('Admission NC', 285.0)",1
+"('Admission NC', 288.0)",2
+"('Admission NC', 295.0)",1
+"('Admission NC', 296.0)",1
+"('Admission NC', 299.0)",1
+"('Admission NC', 300.0)",1
+"('Admission NC', 301.0)",2
+"('Admission NC', 304.0)",1
+"('Admission NC', 305.0)",1
+"('Admission NC', 309.0)",2
+"('Admission NC', 311.0)",1
+"('Admission NC', 313.0)",2
+"('Admission NC', 315.0)",1
+"('Admission NC', 316.0)",1
+"('Admission NC', 319.0)",1
+"('Admission NC', 323.0)",1
+"('Admission NC', 328.0)",1
+"('Admission NC', 330.0)",1
+"('Admission NC', 332.0)",2
+"('Admission NC', 342.0)",1
+"('Admission NC', 343.0)",1
+"('Admission NC', 345.0)",2
+"('Admission NC', 348.0)",1
+"('Admission NC', 353.0)",2
+"('Admission NC', 354.0)",1
+"('Admission NC', 359.0)",1
+"('Admission NC', 360.0)",7
+"('Admission NC', 361.0)",1
+"('Admission NC', 363.0)",1
+"('Admission NC', 368.0)",3
+"('Admission NC', 369.0)",1
+"('Admission NC', 374.0)",1
+"('Admission NC', 380.0)",1
+"('Admission NC', 389.0)",1
+"('Admission NC', 390.0)",7
+"('Admission NC', 394.0)",1
+"('Admission NC', 396.0)",2
+"('Admission NC', 399.0)",1
+"('Admission NC', 404.0)",1
+"('Admission NC', 405.0)",1
+"('Admission NC', 407.0)",1
+"('Admission NC', 410.0)",1
+"('Admission NC', 411.0)",1
+"('Admission NC', 414.0)",1
+"('Admission NC', 415.0)",2
+"('Admission NC', 420.0)",15
+"('Admission NC', 421.0)",2
+"('Admission NC', 423.0)",1
+"('Admission NC', 426.0)",1
+"('Admission NC', 427.0)",1
+"('Admission NC', 428.0)",1
+"('Admission NC', 430.0)",2
+"('Admission NC', 432.0)",2
+"('Admission NC', 434.0)",1
+"('Admission NC', 435.0)",3
+"('Admission NC', 438.0)",2
+"('Admission NC', 439.0)",1
+"('Admission NC', 450.0)",3
+"('Admission NC', 451.0)",1
+"('Admission NC', 470.0)",3
+"('Admission NC', 471.0)",1
+"('Admission NC', 475.0)",2
+"('Admission NC', 477.0)",1
+"('Admission NC', 478.0)",1
+"('Admission NC', 479.0)",1
+"('Admission NC', 480.0)",2
+"('Admission NC', 491.0)",1
+"('Admission NC', 493.0)",1
+"('Admission NC', 510.0)",2
+"('Admission NC', 517.0)",1
+"('Admission NC', 521.0)",1
+"('Admission NC', 524.0)",2
+"('Admission NC', 525.0)",1
+"('Admission NC', 535.0)",1
+"('Admission NC', 536.0)",2
+"('Admission NC', 537.0)",1
+"('Admission NC', 540.0)",1
+"('Admission NC', 551.0)",1
+"('Admission NC', 570.0)",1
+"('Admission NC', 576.0)",1
+"('Admission NC', 577.0)",1
+"('Admission NC', 578.0)",1
+"('Admission NC', 580.0)",2
+"('Admission NC', 592.0)",1
+"('Admission NC', 600.0)",1
+"('Admission NC', 604.0)",1
+"('Admission NC', 605.0)",1
+"('Admission NC', 634.0)",1
+"('Admission NC', 644.0)",1
+"('Admission NC', 654.0)",1
+"('Admission NC', 679.0)",1
+"('Admission NC', 681.0)",1
+"('Admission NC', 682.0)",1
+"('Admission NC', 691.0)",1
+"('Admission NC', 694.0)",1
+"('Admission NC', 698.0)",1
+"('Admission NC', 699.0)",1
+"('Admission NC', 700.0)",1
+"('Admission NC', 705.0)",1
+"('Admission NC', 706.0)",1
+"('Admission NC', 720.0)",2
+"('Admission NC', 732.0)",1
+"('Admission NC', 734.0)",1
+"('Admission NC', 738.0)",1
+"('Admission NC', 747.0)",1
+"('Admission NC', 759.0)",1
+"('Admission NC', 768.0)",1
+"('Admission NC', 771.0)",1
+"('Admission NC', 776.0)",1
+"('Admission NC', 778.0)",1
+"('Admission NC', 780.0)",1
+"('Admission NC', 799.0)",1
+"('Admission NC', 812.0)",1
+"('Admission NC', 818.0)",1
+"('Admission NC', 842.0)",1
+"('Admission NC', 860.0)",1
+"('Admission NC', 869.0)",1
+"('Admission NC', 884.0)",1
+"('Admission NC', 888.0)",1
+"('Admission NC', 889.0)",1
+"('Admission NC', 899.0)",1
+"('Admission NC', 901.0)",1
+"('Admission NC', 914.0)",1
+"('Admission NC', 916.0)",1
+"('Admission NC', 918.0)",1
+"('Admission NC', 919.0)",1
+"('Admission NC', 924.0)",1
+"('Admission NC', 927.0)",1
+"('Admission NC', 928.0)",1
+"('Admission NC', 946.0)",1
+"('Admission NC', 961.0)",1
+"('Admission NC', 975.0)",1
+"('Admission NC', 983.0)",1
+"('Admission NC', 984.0)",1
+"('Admission NC', 987.0)",1
+"('Admission NC', 993.0)",1
+"('Admission NC', 1005.0)",1
+"('Admission NC', 1008.0)",1
+"('Admission NC', 1010.0)",1
+"('Admission NC', 1011.0)",1
+"('Admission NC', 1012.0)",1
+"('Admission NC', 1016.0)",1
+"('Admission NC', 1018.0)",1
+"('Admission NC', 1020.0)",1
+"('Admission NC', 1023.0)",1
+"('Admission NC', 1026.0)",1
+"('Admission NC', 1028.0)",1
+"('Admission NC', 1032.0)",1
+"('Admission NC', 1050.0)",1
+"('Admission NC', 1054.0)",1
+"('Admission NC', 1061.0)",1
+"('Admission NC', 1063.0)",1
+"('Admission NC', 1079.0)",1
+"('Admission NC', 1082.0)",1
+"('Admission NC', 1084.0)",1
+"('Admission NC', 1116.0)",1
+"('Admission NC', 1140.0)",1
+"('Admission NC', 1158.0)",1
+"('Admission NC', 1167.0)",1
+"('Admission NC', 1180.0)",1
+"('Admission NC', 1181.0)",1
+"('Admission NC', 1186.0)",1
+"('Admission NC', 1207.0)",1
+"('Admission NC', 1209.0)",1
+"('Admission NC', 1223.0)",1
+"('Admission NC', 1228.0)",1
+"('Admission NC', 1248.0)",1
+"('Admission NC', 1275.0)",1
+"('Admission NC', 1287.0)",1
+"('Admission NC', 1291.0)",1
+"('Admission NC', 1298.0)",1
+"('Admission NC', 1302.0)",1
+"('Admission NC', 1316.0)",1
+"('Admission NC', 1348.0)",1
+"('Admission NC', 1351.0)",1
+"('Admission NC', 1355.0)",1
+"('Admission NC', 1367.0)",1
+"('Admission NC', 1370.0)",1
+"('Admission NC', 1404.0)",1
+"('Admission NC', 1422.0)",1
+"('Admission NC', 1427.0)",1
+"('Admission NC', 1429.0)",1
+"('Admission NC', 1436.0)",1
+"('Admission NC', 1442.0)",1
+"('Admission NC', 1457.0)",1
+"('Admission NC', 1470.0)",1
+"('Admission NC', 1480.0)",1
+"('Admission NC', 1530.0)",1
+"('Admission NC', 1543.0)",1
+"('Admission NC', 1562.0)",1
+"('Admission NC', 1587.0)",1
+"('Admission NC', 1607.0)",1
+"('Admission NC', 1621.0)",1
+"('Admission NC', 1633.0)",1
+"('Admission NC', 1660.0)",1
+"('Admission NC', 1666.0)",2
+"('Admission NC', 1680.0)",1
+"('Admission NC', 1695.0)",1
+"('Admission NC', 1714.0)",1
+"('Admission NC', 1716.0)",1
+"('Admission NC', 1770.0)",2
+"('Admission NC', 1800.0)",2
+"('Admission NC', 1801.0)",1
+"('Admission NC', 1834.0)",1
+"('Admission NC', 1835.0)",1
+"('Admission NC', 1860.0)",2
+"('Admission NC', 1877.0)",1
+"('Admission NC', 1920.0)",1
+"('Admission NC', 1948.0)",1
+"('Admission NC', 1964.0)",1
+"('Admission NC', 1966.0)",1
+"('Admission NC', 2001.0)",1
+"('Admission NC', 2038.0)",1
+"('Admission NC', 2045.0)",1
+"('Admission NC', 2191.0)",1
+"('Admission NC', 2228.0)",1
+"('Admission NC', 2304.0)",1
+"('Admission NC', 2344.0)",1
+"('Admission NC', 2540.0)",1
+"('Admission NC', 2613.0)",1
+"('Admission NC', 2713.0)",1
+"('Admission NC', 2725.0)",1
+"('Admission NC', 2793.0)",1
+"('Admission NC', 2917.0)",1
+"('Admission NC', 3060.0)",1
+"('Admission NC', 3062.0)",1
+"('Admission NC', 3123.0)",1
+"('Admission NC', 3195.0)",1
+"('Admission NC', 3841.0)",1
+"('Admission NC', 4198.0)",1
+"('Admission NC', 4310.0)",1
+"('Admission NC', 4380.0)",1
+"('Admission NC', 4500.0)",1
+"('Admission NC', 4724.0)",1
+"('Admission NC', 5760.0)",1
+"('Admission NC', 6181.0)",1
+"('Admission NC', 7078.0)",1
+"('Admission NC', 7679.0)",1
+"('Admission NC', 8849.0)",1
+"('Admission NC', 9001.0)",1
+"('Admission NC', 10440.0)",1
+"('CRP', 0.0)",829
+"('CRP', 1.0)",12
+"('CRP', 2.0)",9
+"('CRP', 3.0)",10
+"('CRP', 4.0)",9
+"('CRP', 5.0)",21
+"('CRP', 6.0)",13
+"('CRP', 7.0)",14
+"('CRP', 8.0)",18
+"('CRP', 9.0)",13
+"('CRP', 10.0)",15
+"('CRP', 11.0)",11
+"('CRP', 12.0)",16
+"('CRP', 13.0)",12
+"('CRP', 14.0)",13
+"('CRP', 15.0)",13
+"('CRP', 16.0)",11
+"('CRP', 17.0)",9
+"('CRP', 18.0)",7
+"('CRP', 19.0)",13
+"('CRP', 20.0)",6
+"('CRP', 21.0)",9
+"('CRP', 22.0)",10
+"('CRP', 23.0)",3
+"('CRP', 24.0)",6
+"('CRP', 25.0)",8
+"('CRP', 26.0)",2
+"('CRP', 27.0)",8
+"('CRP', 28.0)",2
+"('CRP', 29.0)",4
+"('CRP', 30.0)",2
+"('CRP', 31.0)",1
+"('CRP', 32.0)",4
+"('CRP', 34.0)",8
+"('CRP', 35.0)",1
+"('CRP', 36.0)",1
+"('CRP', 37.0)",5
+"('CRP', 38.0)",2
+"('CRP', 39.0)",2
+"('CRP', 40.0)",1
+"('CRP', 41.0)",2
+"('CRP', 42.0)",1
+"('CRP', 43.0)",1
+"('CRP', 44.0)",3
+"('CRP', 45.0)",1
+"('CRP', 47.0)",1
+"('CRP', 50.0)",2
+"('CRP', 54.0)",1
+"('CRP', 56.0)",3
+"('CRP', 57.0)",1
+"('CRP', 59.0)",1
+"('CRP', 62.0)",1
+"('CRP', 63.0)",1
+"('CRP', 65.0)",1
+"('CRP', 67.0)",1
+"('CRP', 68.0)",1
+"('CRP', 71.0)",1
+"('CRP', 81.0)",1
+"('CRP', 83.0)",2
+"('CRP', 89.0)",1
+"('CRP', 95.0)",1
+"('CRP', 108.0)",1
+"('CRP', 115.0)",1
+"('CRP', 120.0)",1
+"('CRP', 124.0)",1
+"('CRP', 126.0)",1
+"('CRP', 127.0)",1
+"('CRP', 128.0)",2
+"('CRP', 144.0)",1
+"('CRP', 151.0)",1
+"('CRP', 153.0)",1
+"('CRP', 168.0)",1
+"('CRP', 169.0)",1
+"('CRP', 176.0)",1
+"('CRP', 182.0)",1
+"('CRP', 189.0)",1
+"('CRP', 198.0)",1
+"('CRP', 205.0)",1
+"('CRP', 218.0)",1
+"('CRP', 225.0)",1
+"('CRP', 236.0)",1
+"('CRP', 241.0)",1
+"('CRP', 264.0)",1
+"('CRP', 267.0)",1
+"('CRP', 269.0)",1
+"('CRP', 271.0)",1
+"('CRP', 284.0)",2
+"('CRP', 291.0)",1
+"('CRP', 300.0)",1
+"('CRP', 310.0)",1
+"('CRP', 314.0)",1
+"('CRP', 326.0)",1
+"('CRP', 331.0)",1
+"('CRP', 332.0)",1
+"('CRP', 338.0)",1
+"('CRP', 349.0)",1
+"('CRP', 350.0)",1
+"('CRP', 360.0)",3
+"('CRP', 365.0)",1
+"('CRP', 374.0)",1
+"('CRP', 375.0)",1
+"('CRP', 381.0)",1
+"('CRP', 392.0)",1
+"('CRP', 393.0)",1
+"('CRP', 408.0)",1
+"('CRP', 411.0)",1
+"('CRP', 416.0)",1
+"('CRP', 429.0)",1
+"('CRP', 433.0)",1
+"('CRP', 444.0)",1
+"('CRP', 454.0)",1
+"('CRP', 465.0)",1
+"('CRP', 473.0)",1
+"('CRP', 475.0)",1
+"('CRP', 477.0)",1
+"('CRP', 480.0)",1
+"('CRP', 487.0)",1
+"('CRP', 489.0)",1
+"('CRP', 492.0)",1
+"('CRP', 498.0)",1
+"('CRP', 503.0)",1
+"('CRP', 506.0)",1
+"('CRP', 509.0)",1
+"('CRP', 511.0)",1
+"('CRP', 516.0)",1
+"('CRP', 520.0)",1
+"('CRP', 523.0)",1
+"('CRP', 525.0)",1
+"('CRP', 536.0)",1
+"('CRP', 539.0)",1
+"('CRP', 540.0)",2
+"('CRP', 543.0)",1
+"('CRP', 545.0)",1
+"('CRP', 549.0)",1
+"('CRP', 550.0)",1
+"('CRP', 555.0)",1
+"('CRP', 557.0)",1
+"('CRP', 558.0)",1
+"('CRP', 563.0)",1
+"('CRP', 566.0)",1
+"('CRP', 567.0)",1
+"('CRP', 570.0)",1
+"('CRP', 575.0)",1
+"('CRP', 579.0)",1
+"('CRP', 586.0)",1
+"('CRP', 587.0)",1
+"('CRP', 590.0)",1
+"('CRP', 592.0)",1
+"('CRP', 595.0)",1
+"('CRP', 600.0)",1
+"('CRP', 601.0)",1
+"('CRP', 603.0)",1
+"('CRP', 608.0)",1
+"('CRP', 611.0)",2
+"('CRP', 614.0)",3
+"('CRP', 617.0)",1
+"('CRP', 620.0)",1
+"('CRP', 621.0)",1
+"('CRP', 630.0)",1
+"('CRP', 632.0)",1
+"('CRP', 634.0)",1
+"('CRP', 636.0)",1
+"('CRP', 648.0)",1
+"('CRP', 667.0)",1
+"('CRP', 668.0)",2
+"('CRP', 678.0)",1
+"('CRP', 682.0)",1
+"('CRP', 688.0)",1
+"('CRP', 691.0)",1
+"('CRP', 697.0)",1
+"('CRP', 702.0)",1
+"('CRP', 718.0)",1
+"('CRP', 734.0)",1
+"('CRP', 750.0)",1
+"('CRP', 751.0)",1
+"('CRP', 762.0)",1
+"('CRP', 769.0)",1
+"('CRP', 772.0)",1
+"('CRP', 778.0)",1
+"('CRP', 780.0)",1
+"('CRP', 793.0)",1
+"('CRP', 794.0)",1
+"('CRP', 795.0)",1
+"('CRP', 801.0)",1
+"('CRP', 803.0)",1
+"('CRP', 806.0)",1
+"('CRP', 811.0)",1
+"('CRP', 815.0)",1
+"('CRP', 816.0)",1
+"('CRP', 849.0)",1
+"('CRP', 860.0)",1
+"('CRP', 865.0)",1
+"('CRP', 872.0)",1
+"('CRP', 874.0)",1
+"('CRP', 880.0)",1
+"('CRP', 882.0)",1
+"('CRP', 895.0)",1
+"('CRP', 902.0)",1
+"('CRP', 903.0)",1
+"('CRP', 905.0)",1
+"('CRP', 921.0)",1
+"('CRP', 926.0)",1
+"('CRP', 927.0)",2
+"('CRP', 928.0)",1
+"('CRP', 930.0)",1
+"('CRP', 940.0)",1
+"('CRP', 953.0)",1
+"('CRP', 957.0)",1
+"('CRP', 960.0)",1
+"('CRP', 974.0)",1
+"('CRP', 975.0)",2
+"('CRP', 984.0)",1
+"('CRP', 988.0)",1
+"('CRP', 990.0)",3
+"('CRP', 995.0)",1
+"('CRP', 997.0)",1
+"('CRP', 999.0)",1
+"('CRP', 1003.0)",1
+"('CRP', 1005.0)",1
+"('CRP', 1020.0)",1
+"('CRP', 1026.0)",3
+"('CRP', 1030.0)",2
+"('CRP', 1032.0)",1
+"('CRP', 1036.0)",1
+"('CRP', 1044.0)",1
+"('CRP', 1049.0)",1
+"('CRP', 1050.0)",3
+"('CRP', 1055.0)",2
+"('CRP', 1056.0)",1
+"('CRP', 1059.0)",1
+"('CRP', 1060.0)",1
+"('CRP', 1062.0)",1
+"('CRP', 1065.0)",1
+"('CRP', 1073.0)",1
+"('CRP', 1074.0)",1
+"('CRP', 1080.0)",22
+"('CRP', 1085.0)",1
+"('CRP', 1089.0)",1
+"('CRP', 1095.0)",1
+"('CRP', 1098.0)",1
+"('CRP', 1099.0)",1
+"('CRP', 1110.0)",2
+"('CRP', 1117.0)",1
+"('CRP', 1120.0)",1
+"('CRP', 1121.0)",1
+"('CRP', 1122.0)",1
+"('CRP', 1131.0)",1
+"('CRP', 1140.0)",1
+"('CRP', 1149.0)",2
+"('CRP', 1152.0)",1
+"('CRP', 1165.0)",1
+"('CRP', 1170.0)",1
+"('CRP', 1185.0)",1
+"('CRP', 1188.0)",1
+"('CRP', 1190.0)",1
+"('CRP', 1191.0)",1
+"('CRP', 1196.0)",1
+"('CRP', 1200.0)",1
+"('CRP', 1201.0)",1
+"('CRP', 1202.0)",2
+"('CRP', 1205.0)",1
+"('CRP', 1206.0)",2
+"('CRP', 1210.0)",2
+"('CRP', 1213.0)",1
+"('CRP', 1220.0)",1
+"('CRP', 1227.0)",1
+"('CRP', 1229.0)",1
+"('CRP', 1230.0)",2
+"('CRP', 1240.0)",2
+"('CRP', 1246.0)",1
+"('CRP', 1251.0)",1
+"('CRP', 1252.0)",1
+"('CRP', 1254.0)",1
+"('CRP', 1260.0)",16
+"('CRP', 1264.0)",1
+"('CRP', 1278.0)",1
+"('CRP', 1290.0)",1
+"('CRP', 1291.0)",1
+"('CRP', 1305.0)",1
+"('CRP', 1307.0)",1
+"('CRP', 1310.0)",1
+"('CRP', 1320.0)",1
+"('CRP', 1321.0)",1
+"('CRP', 1322.0)",1
+"('CRP', 1332.0)",1
+"('CRP', 1363.0)",1
+"('CRP', 1370.0)",1
+"('CRP', 1383.0)",1
+"('CRP', 1405.0)",1
+"('CRP', 1410.0)",2
+"('CRP', 1421.0)",1
+"('CRP', 1432.0)",1
+"('CRP', 1435.0)",1
+"('CRP', 1440.0)",128
+"('CRP', 1445.0)",1
+"('CRP', 1446.0)",2
+"('CRP', 1448.0)",1
+"('CRP', 1461.0)",1
+"('CRP', 1482.0)",1
+"('CRP', 1500.0)",2
+"('CRP', 1505.0)",1
+"('CRP', 1530.0)",1
+"('CRP', 1531.0)",1
+"('CRP', 1533.0)",1
+"('CRP', 1545.0)",1
+"('CRP', 1553.0)",1
+"('CRP', 1554.0)",1
+"('CRP', 1570.0)",1
+"('CRP', 1589.0)",1
+"('CRP', 1590.0)",1
+"('CRP', 1604.0)",1
+"('CRP', 1620.0)",4
+"('CRP', 1634.0)",1
+"('CRP', 1652.0)",1
+"('CRP', 1659.0)",2
+"('CRP', 1699.0)",1
+"('CRP', 1745.0)",1
+"('CRP', 1760.0)",1
+"('CRP', 1768.0)",1
+"('CRP', 1780.0)",1
+"('CRP', 1800.0)",3
+"('CRP', 1835.0)",1
+"('CRP', 1859.0)",1
+"('CRP', 1864.0)",1
+"('CRP', 1907.0)",1
+"('CRP', 1915.0)",1
+"('CRP', 1925.0)",1
+"('CRP', 1940.0)",1
+"('CRP', 1967.0)",1
+"('CRP', 1973.0)",1
+"('CRP', 1975.0)",1
+"('CRP', 1976.0)",1
+"('CRP', 1979.0)",1
+"('CRP', 1981.0)",1
+"('CRP', 1988.0)",1
+"('CRP', 2001.0)",1
+"('CRP', 2007.0)",1
+"('CRP', 2011.0)",1
+"('CRP', 2044.0)",1
+"('CRP', 2047.0)",1
+"('CRP', 2052.0)",1
+"('CRP', 2057.0)",1
+"('CRP', 2078.0)",1
+"('CRP', 2079.0)",1
+"('CRP', 2082.0)",1
+"('CRP', 2099.0)",1
+"('CRP', 2100.0)",1
+"('CRP', 2115.0)",1
+"('CRP', 2122.0)",1
+"('CRP', 2123.0)",1
+"('CRP', 2128.0)",1
+"('CRP', 2129.0)",1
+"('CRP', 2131.0)",1
+"('CRP', 2135.0)",1
+"('CRP', 2143.0)",1
+"('CRP', 2151.0)",1
+"('CRP', 2153.0)",1
+"('CRP', 2160.0)",1
+"('CRP', 2162.0)",1
+"('CRP', 2177.0)",1
+"('CRP', 2183.0)",1
+"('CRP', 2194.0)",1
+"('CRP', 2203.0)",1
+"('CRP', 2220.0)",1
+"('CRP', 2228.0)",1
+"('CRP', 2246.0)",1
+"('CRP', 2253.0)",1
+"('CRP', 2268.0)",1
+"('CRP', 2270.0)",1
+"('CRP', 2275.0)",1
+"('CRP', 2276.0)",1
+"('CRP', 2286.0)",1
+"('CRP', 2300.0)",1
+"('CRP', 2305.0)",1
+"('CRP', 2340.0)",1
+"('CRP', 2364.0)",1
+"('CRP', 2368.0)",1
+"('CRP', 2385.0)",1
+"('CRP', 2388.0)",1
+"('CRP', 2391.0)",1
+"('CRP', 2405.0)",1
+"('CRP', 2407.0)",1
+"('CRP', 2423.0)",1
+"('CRP', 2426.0)",1
+"('CRP', 2430.0)",1
+"('CRP', 2437.0)",1
+"('CRP', 2444.0)",1
+"('CRP', 2453.0)",1
+"('CRP', 2454.0)",1
+"('CRP', 2470.0)",1
+"('CRP', 2474.0)",1
+"('CRP', 2481.0)",1
+"('CRP', 2485.0)",1
+"('CRP', 2490.0)",2
+"('CRP', 2494.0)",1
+"('CRP', 2495.0)",1
+"('CRP', 2498.0)",1
+"('CRP', 2499.0)",1
+"('CRP', 2504.0)",1
+"('CRP', 2505.0)",1
+"('CRP', 2520.0)",10
+"('CRP', 2532.0)",1
+"('CRP', 2543.0)",1
+"('CRP', 2545.0)",1
+"('CRP', 2549.0)",1
+"('CRP', 2550.0)",2
+"('CRP', 2567.0)",1
+"('CRP', 2578.0)",1
+"('CRP', 2583.0)",1
+"('CRP', 2590.0)",1
+"('CRP', 2603.0)",1
+"('CRP', 2629.0)",1
+"('CRP', 2638.0)",1
+"('CRP', 2640.0)",1
+"('CRP', 2644.0)",1
+"('CRP', 2650.0)",1
+"('CRP', 2655.0)",1
+"('CRP', 2664.0)",1
+"('CRP', 2666.0)",1
+"('CRP', 2670.0)",1
+"('CRP', 2682.0)",1
+"('CRP', 2684.0)",1
+"('CRP', 2685.0)",2
+"('CRP', 2700.0)",14
+"('CRP', 2709.0)",1
+"('CRP', 2710.0)",1
+"('CRP', 2731.0)",1
+"('CRP', 2760.0)",1
+"('CRP', 2812.0)",1
+"('CRP', 2820.0)",1
+"('CRP', 2841.0)",1
+"('CRP', 2865.0)",1
+"('CRP', 2880.0)",119
+"('CRP', 2921.0)",1
+"('CRP', 2938.0)",1
+"('CRP', 2959.0)",1
+"('CRP', 3002.0)",1
+"('CRP', 3010.0)",1
+"('CRP', 3028.0)",1
+"('CRP', 3034.0)",1
+"('CRP', 3048.0)",1
+"('CRP', 3060.0)",4
+"('CRP', 3061.0)",1
+"('CRP', 3086.0)",1
+"('CRP', 3140.0)",1
+"('CRP', 3174.0)",1
+"('CRP', 3183.0)",1
+"('CRP', 3203.0)",1
+"('CRP', 3240.0)",4
+"('CRP', 3320.0)",1
+"('CRP', 3358.0)",1
+"('CRP', 3397.0)",1
+"('CRP', 3460.0)",1
+"('CRP', 3480.0)",1
+"('CRP', 3481.0)",1
+"('CRP', 3514.0)",1
+"('CRP', 3532.0)",1
+"('CRP', 3540.0)",1
+"('CRP', 3591.0)",1
+"('CRP', 3626.0)",1
+"('CRP', 3627.0)",1
+"('CRP', 3638.0)",1
+"('CRP', 3642.0)",1
+"('CRP', 3646.0)",1
+"('CRP', 3677.0)",1
+"('CRP', 3707.0)",1
+"('CRP', 3754.0)",1
+"('CRP', 3780.0)",2
+"('CRP', 3885.0)",1
+"('CRP', 3900.0)",1
+"('CRP', 3914.0)",1
+"('CRP', 3948.0)",1
+"('CRP', 3960.0)",4
+"('CRP', 3974.0)",1
+"('CRP', 4003.0)",1
+"('CRP', 4006.0)",1
+"('CRP', 4028.0)",1
+"('CRP', 4069.0)",1
+"('CRP', 4102.0)",1
+"('CRP', 4140.0)",6
+"('CRP', 4146.0)",1
+"('CRP', 4171.0)",1
+"('CRP', 4258.0)",1
+"('CRP', 4260.0)",1
+"('CRP', 4309.0)",1
+"('CRP', 4320.0)",52
+"('CRP', 4500.0)",5
+"('CRP', 4591.0)",1
+"('CRP', 4662.0)",1
+"('CRP', 4776.0)",1
+"('CRP', 4812.0)",1
+"('CRP', 4830.0)",1
+"('CRP', 4831.0)",1
+"('CRP', 4839.0)",1
+"('CRP', 4843.0)",1
+"('CRP', 5013.0)",1
+"('CRP', 5310.0)",1
+"('CRP', 5370.0)",2
+"('CRP', 5400.0)",2
+"('CRP', 5530.0)",1
+"('CRP', 5580.0)",3
+"('CRP', 5590.0)",1
+"('CRP', 5700.0)",1
+"('CRP', 5760.0)",18
+"('CRP', 5820.0)",1
+"('CRP', 5826.0)",1
+"('CRP', 5836.0)",1
+"('CRP', 6057.0)",1
+"('CRP', 6120.0)",1
+"('CRP', 6138.0)",1
+"('CRP', 6257.0)",1
+"('CRP', 6780.0)",1
+"('CRP', 6840.0)",1
+"('CRP', 6892.0)",1
+"('CRP', 6981.0)",1
+"('CRP', 7040.0)",1
+"('CRP', 7200.0)",7
+"('CRP', 7380.0)",1
+"('CRP', 8100.0)",1
+"('CRP', 8160.0)",1
+"('CRP', 8460.0)",1
+"('CRP', 8640.0)",5
+"('CRP', 8820.0)",1
+"('CRP', 9420.0)",1
+"('CRP', 9900.0)",1
+"('CRP', 10080.0)",1
+"('CRP', 10093.0)",1
+"('CRP', 11185.0)",1
+"('CRP', 11234.0)",1
+"('CRP', 11520.0)",1
+"('CRP', 12960.0)",1
+"('CRP', 14400.0)",1
+"('CRP', 14580.0)",1
+"('ER Registration', 0.0)",994
+"('ER Registration', 1.0)",4
+"('ER Registration', 2.0)",4
+"('ER Registration', 3.0)",3
+"('ER Registration', 4.0)",1
+"('ER Registration', 5.0)",3
+"('ER Registration', 10.0)",1
+"('ER Registration', 12.0)",1
+"('ER Registration', 13.0)",1
+"('ER Registration', 14.0)",1
+"('ER Registration', 15.0)",1
+"('ER Registration', 19.0)",1
+"('ER Registration', 23.0)",1
+"('ER Registration', 25.0)",1
+"('ER Registration', 32.0)",1
+"('ER Registration', 43.0)",1
+"('ER Registration', 53.0)",1
+"('ER Registration', 55.0)",1
+"('ER Registration', 58.0)",1
+"('ER Registration', 98.0)",1
+"('ER Registration', 107.0)",1
+"('ER Registration', 142.0)",1
+"('ER Registration', 177.0)",1
+"('ER Registration', 186.0)",1
+"('ER Registration', 196.0)",1
+"('ER Registration', 229.0)",1
+"('ER Registration', 239.0)",1
+"('ER Registration', 279.0)",1
+"('ER Registration', 308.0)",1
+"('ER Registration', 314.0)",1
+"('ER Registration', 338.0)",1
+"('ER Registration', 341.0)",1
+"('ER Registration', 354.0)",1
+"('ER Registration', 374.0)",1
+"('ER Registration', 380.0)",1
+"('ER Registration', 386.0)",1
+"('ER Registration', 397.0)",1
+"('ER Registration', 429.0)",1
+"('ER Registration', 432.0)",1
+"('ER Registration', 460.0)",1
+"('ER Registration', 592.0)",1
+"('ER Registration', 604.0)",1
+"('ER Registration', 645.0)",1
+"('ER Registration', 658.0)",1
+"('ER Registration', 741.0)",1
+"('ER Registration', 783.0)",1
+"('ER Sepsis Triage', 0.0)",7
+"('ER Sepsis Triage', 1.0)",713
+"('ER Sepsis Triage', 2.0)",89
+"('ER Sepsis Triage', 3.0)",26
+"('ER Sepsis Triage', 4.0)",21
+"('ER Sepsis Triage', 5.0)",12
+"('ER Sepsis Triage', 6.0)",11
+"('ER Sepsis Triage', 7.0)",12
+"('ER Sepsis Triage', 8.0)",11
+"('ER Sepsis Triage', 9.0)",15
+"('ER Sepsis Triage', 10.0)",10
+"('ER Sepsis Triage', 11.0)",9
+"('ER Sepsis Triage', 12.0)",6
+"('ER Sepsis Triage', 13.0)",3
+"('ER Sepsis Triage', 14.0)",5
+"('ER Sepsis Triage', 15.0)",4
+"('ER Sepsis Triage', 16.0)",3
+"('ER Sepsis Triage', 17.0)",4
+"('ER Sepsis Triage', 18.0)",4
+"('ER Sepsis Triage', 19.0)",3
+"('ER Sepsis Triage', 20.0)",2
+"('ER Sepsis Triage', 21.0)",4
+"('ER Sepsis Triage', 22.0)",3
+"('ER Sepsis Triage', 23.0)",2
+"('ER Sepsis Triage', 24.0)",2
+"('ER Sepsis Triage', 25.0)",1
+"('ER Sepsis Triage', 27.0)",3
+"('ER Sepsis Triage', 28.0)",3
+"('ER Sepsis Triage', 30.0)",2
+"('ER Sepsis Triage', 31.0)",3
+"('ER Sepsis Triage', 32.0)",1
+"('ER Sepsis Triage', 33.0)",2
+"('ER Sepsis Triage', 34.0)",1
+"('ER Sepsis Triage', 35.0)",2
+"('ER Sepsis Triage', 37.0)",3
+"('ER Sepsis Triage', 38.0)",1
+"('ER Sepsis Triage', 40.0)",1
+"('ER Sepsis Triage', 45.0)",1
+"('ER Sepsis Triage', 49.0)",1
+"('ER Sepsis Triage', 51.0)",1
+"('ER Sepsis Triage', 52.0)",1
+"('ER Sepsis Triage', 53.0)",1
+"('ER Sepsis Triage', 56.0)",2
+"('ER Sepsis Triage', 57.0)",2
+"('ER Sepsis Triage', 60.0)",3
+"('ER Sepsis Triage', 65.0)",1
+"('ER Sepsis Triage', 66.0)",1
+"('ER Sepsis Triage', 67.0)",1
+"('ER Sepsis Triage', 68.0)",1
+"('ER Sepsis Triage', 69.0)",1
+"('ER Sepsis Triage', 78.0)",1
+"('ER Sepsis Triage', 79.0)",1
+"('ER Sepsis Triage', 84.0)",1
+"('ER Sepsis Triage', 87.0)",1
+"('ER Sepsis Triage', 93.0)",1
+"('ER Sepsis Triage', 97.0)",1
+"('ER Sepsis Triage', 98.0)",1
+"('ER Sepsis Triage', 101.0)",1
+"('ER Sepsis Triage', 106.0)",1
+"('ER Sepsis Triage', 113.0)",1
+"('ER Sepsis Triage', 114.0)",1
+"('ER Sepsis Triage', 119.0)",1
+"('ER Sepsis Triage', 125.0)",1
+"('ER Sepsis Triage', 126.0)",1
+"('ER Sepsis Triage', 141.0)",1
+"('ER Sepsis Triage', 143.0)",1
+"('ER Sepsis Triage', 146.0)",1
+"('ER Sepsis Triage', 154.0)",1
+"('ER Sepsis Triage', 159.0)",2
+"('ER Sepsis Triage', 208.0)",1
+"('ER Sepsis Triage', 217.0)",1
+"('ER Sepsis Triage', 237.0)",1
+"('ER Sepsis Triage', 242.0)",1
+"('ER Sepsis Triage', 301.0)",1
+"('ER Sepsis Triage', 557.0)",1
+"('ER Sepsis Triage', 674.0)",1
+"('ER Triage', 0.0)",6
+"('ER Triage', 1.0)",26
+"('ER Triage', 2.0)",97
+"('ER Triage', 3.0)",89
+"('ER Triage', 4.0)",72
+"('ER Triage', 5.0)",69
+"('ER Triage', 6.0)",74
+"('ER Triage', 7.0)",58
+"('ER Triage', 8.0)",57
+"('ER Triage', 9.0)",55
+"('ER Triage', 10.0)",57
+"('ER Triage', 11.0)",39
+"('ER Triage', 12.0)",36
+"('ER Triage', 13.0)",32
+"('ER Triage', 14.0)",35
+"('ER Triage', 15.0)",18
+"('ER Triage', 16.0)",26
+"('ER Triage', 17.0)",26
+"('ER Triage', 18.0)",13
+"('ER Triage', 19.0)",18
+"('ER Triage', 20.0)",18
+"('ER Triage', 21.0)",13
+"('ER Triage', 22.0)",14
+"('ER Triage', 23.0)",14
+"('ER Triage', 24.0)",12
+"('ER Triage', 25.0)",7
+"('ER Triage', 26.0)",7
+"('ER Triage', 27.0)",4
+"('ER Triage', 28.0)",4
+"('ER Triage', 29.0)",5
+"('ER Triage', 30.0)",6
+"('ER Triage', 31.0)",4
+"('ER Triage', 32.0)",5
+"('ER Triage', 33.0)",5
+"('ER Triage', 34.0)",2
+"('ER Triage', 35.0)",1
+"('ER Triage', 36.0)",4
+"('ER Triage', 37.0)",2
+"('ER Triage', 38.0)",1
+"('ER Triage', 39.0)",3
+"('ER Triage', 41.0)",2
+"('ER Triage', 43.0)",1
+"('ER Triage', 44.0)",1
+"('ER Triage', 45.0)",2
+"('ER Triage', 46.0)",1
+"('ER Triage', 47.0)",1
+"('ER Triage', 49.0)",1
+"('ER Triage', 50.0)",1
+"('ER Triage', 52.0)",1
+"('ER Triage', 56.0)",1
+"('ER Triage', 57.0)",1
+"('ER Triage', 59.0)",1
+"('ER Triage', 62.0)",1
+"('ER Triage', 81.0)",1
+"('ER Triage', 88.0)",1
+"('ER Triage', 1893.0)",1
+"('IV Antibiotics', 0.0)",23
+"('IV Antibiotics', 1.0)",402
+"('IV Antibiotics', 2.0)",14
+"('IV Antibiotics', 3.0)",7
+"('IV Antibiotics', 4.0)",7
+"('IV Antibiotics', 5.0)",13
+"('IV Antibiotics', 6.0)",8
+"('IV Antibiotics', 7.0)",9
+"('IV Antibiotics', 8.0)",10
+"('IV Antibiotics', 9.0)",4
+"('IV Antibiotics', 10.0)",15
+"('IV Antibiotics', 11.0)",4
+"('IV Antibiotics', 12.0)",2
+"('IV Antibiotics', 13.0)",3
+"('IV Antibiotics', 14.0)",4
+"('IV Antibiotics', 15.0)",7
+"('IV Antibiotics', 16.0)",2
+"('IV Antibiotics', 17.0)",2
+"('IV Antibiotics', 18.0)",3
+"('IV Antibiotics', 19.0)",5
+"('IV Antibiotics', 20.0)",4
+"('IV Antibiotics', 21.0)",3
+"('IV Antibiotics', 23.0)",2
+"('IV Antibiotics', 24.0)",2
+"('IV Antibiotics', 25.0)",2
+"('IV Antibiotics', 26.0)",1
+"('IV Antibiotics', 27.0)",2
+"('IV Antibiotics', 28.0)",4
+"('IV Antibiotics', 29.0)",1
+"('IV Antibiotics', 30.0)",6
+"('IV Antibiotics', 31.0)",6
+"('IV Antibiotics', 32.0)",1
+"('IV Antibiotics', 33.0)",3
+"('IV Antibiotics', 34.0)",1
+"('IV Antibiotics', 35.0)",2
+"('IV Antibiotics', 37.0)",2
+"('IV Antibiotics', 39.0)",1
+"('IV Antibiotics', 40.0)",2
+"('IV Antibiotics', 43.0)",2
+"('IV Antibiotics', 44.0)",2
+"('IV Antibiotics', 45.0)",2
+"('IV Antibiotics', 46.0)",2
+"('IV Antibiotics', 49.0)",2
+"('IV Antibiotics', 50.0)",2
+"('IV Antibiotics', 51.0)",2
+"('IV Antibiotics', 52.0)",1
+"('IV Antibiotics', 53.0)",1
+"('IV Antibiotics', 55.0)",1
+"('IV Antibiotics', 57.0)",1
+"('IV Antibiotics', 58.0)",1
+"('IV Antibiotics', 60.0)",5
+"('IV Antibiotics', 61.0)",11
+"('IV Antibiotics', 63.0)",2
+"('IV Antibiotics', 64.0)",1
+"('IV Antibiotics', 65.0)",1
+"('IV Antibiotics', 66.0)",2
+"('IV Antibiotics', 68.0)",1
+"('IV Antibiotics', 71.0)",1
+"('IV Antibiotics', 72.0)",1
+"('IV Antibiotics', 73.0)",2
+"('IV Antibiotics', 74.0)",1
+"('IV Antibiotics', 76.0)",1
+"('IV Antibiotics', 77.0)",1
+"('IV Antibiotics', 78.0)",1
+"('IV Antibiotics', 79.0)",1
+"('IV Antibiotics', 80.0)",3
+"('IV Antibiotics', 82.0)",1
+"('IV Antibiotics', 83.0)",1
+"('IV Antibiotics', 84.0)",3
+"('IV Antibiotics', 86.0)",1
+"('IV Antibiotics', 89.0)",2
+"('IV Antibiotics', 90.0)",1
+"('IV Antibiotics', 91.0)",2
+"('IV Antibiotics', 92.0)",1
+"('IV Antibiotics', 93.0)",2
+"('IV Antibiotics', 96.0)",2
+"('IV Antibiotics', 98.0)",2
+"('IV Antibiotics', 99.0)",1
+"('IV Antibiotics', 100.0)",1
+"('IV Antibiotics', 102.0)",1
+"('IV Antibiotics', 103.0)",3
+"('IV Antibiotics', 104.0)",2
+"('IV Antibiotics', 105.0)",2
+"('IV Antibiotics', 107.0)",2
+"('IV Antibiotics', 108.0)",1
+"('IV Antibiotics', 109.0)",1
+"('IV Antibiotics', 111.0)",1
+"('IV Antibiotics', 112.0)",1
+"('IV Antibiotics', 113.0)",3
+"('IV Antibiotics', 115.0)",3
+"('IV Antibiotics', 116.0)",2
+"('IV Antibiotics', 117.0)",1
+"('IV Antibiotics', 118.0)",3
+"('IV Antibiotics', 119.0)",2
+"('IV Antibiotics', 120.0)",4
+"('IV Antibiotics', 121.0)",6
+"('IV Antibiotics', 122.0)",2
+"('IV Antibiotics', 124.0)",1
+"('IV Antibiotics', 125.0)",2
+"('IV Antibiotics', 127.0)",3
+"('IV Antibiotics', 130.0)",1
+"('IV Antibiotics', 131.0)",1
+"('IV Antibiotics', 133.0)",1
+"('IV Antibiotics', 135.0)",3
+"('IV Antibiotics', 136.0)",1
+"('IV Antibiotics', 137.0)",3
+"('IV Antibiotics', 138.0)",4
+"('IV Antibiotics', 141.0)",1
+"('IV Antibiotics', 142.0)",3
+"('IV Antibiotics', 144.0)",1
+"('IV Antibiotics', 145.0)",3
+"('IV Antibiotics', 146.0)",2
+"('IV Antibiotics', 147.0)",1
+"('IV Antibiotics', 152.0)",3
+"('IV Antibiotics', 153.0)",2
+"('IV Antibiotics', 156.0)",1
+"('IV Antibiotics', 157.0)",2
+"('IV Antibiotics', 158.0)",1
+"('IV Antibiotics', 159.0)",1
+"('IV Antibiotics', 160.0)",3
+"('IV Antibiotics', 161.0)",2
+"('IV Antibiotics', 162.0)",1
+"('IV Antibiotics', 163.0)",1
+"('IV Antibiotics', 164.0)",3
+"('IV Antibiotics', 165.0)",1
+"('IV Antibiotics', 167.0)",1
+"('IV Antibiotics', 168.0)",2
+"('IV Antibiotics', 171.0)",2
+"('IV Antibiotics', 174.0)",1
+"('IV Antibiotics', 175.0)",2
+"('IV Antibiotics', 178.0)",1
+"('IV Antibiotics', 180.0)",1
+"('IV Antibiotics', 181.0)",5
+"('IV Antibiotics', 184.0)",1
+"('IV Antibiotics', 187.0)",1
+"('IV Antibiotics', 188.0)",1
+"('IV Antibiotics', 190.0)",1
+"('IV Antibiotics', 191.0)",1
+"('IV Antibiotics', 192.0)",1
+"('IV Antibiotics', 194.0)",1
+"('IV Antibiotics', 198.0)",1
+"('IV Antibiotics', 200.0)",1
+"('IV Antibiotics', 201.0)",1
+"('IV Antibiotics', 203.0)",2
+"('IV Antibiotics', 207.0)",2
+"('IV Antibiotics', 208.0)",1
+"('IV Antibiotics', 209.0)",2
+"('IV Antibiotics', 214.0)",1
+"('IV Antibiotics', 216.0)",1
+"('IV Antibiotics', 218.0)",1
+"('IV Antibiotics', 221.0)",1
+"('IV Antibiotics', 222.0)",1
+"('IV Antibiotics', 223.0)",2
+"('IV Antibiotics', 229.0)",1
+"('IV Antibiotics', 237.0)",1
+"('IV Antibiotics', 239.0)",2
+"('IV Antibiotics', 245.0)",2
+"('IV Antibiotics', 246.0)",1
+"('IV Antibiotics', 260.0)",1
+"('IV Antibiotics', 262.0)",1
+"('IV Antibiotics', 267.0)",2
+"('IV Antibiotics', 270.0)",1
+"('IV Antibiotics', 272.0)",1
+"('IV Antibiotics', 273.0)",1
+"('IV Antibiotics', 274.0)",1
+"('IV Antibiotics', 277.0)",1
+"('IV Antibiotics', 279.0)",1
+"('IV Antibiotics', 283.0)",1
+"('IV Antibiotics', 289.0)",1
+"('IV Antibiotics', 290.0)",1
+"('IV Antibiotics', 298.0)",1
+"('IV Antibiotics', 303.0)",1
+"('IV Antibiotics', 307.0)",1
+"('IV Antibiotics', 310.0)",1
+"('IV Antibiotics', 334.0)",1
+"('IV Antibiotics', 366.0)",1
+"('IV Antibiotics', 515.0)",1
+"('IV Antibiotics', 518.0)",1
+"('IV Liquid', 0.0)",42
+"('IV Liquid', 1.0)",229
+"('IV Liquid', 2.0)",16
+"('IV Liquid', 3.0)",6
+"('IV Liquid', 4.0)",7
+"('IV Liquid', 5.0)",14
+"('IV Liquid', 6.0)",10
+"('IV Liquid', 7.0)",13
+"('IV Liquid', 8.0)",4
+"('IV Liquid', 9.0)",8
+"('IV Liquid', 10.0)",8
+"('IV Liquid', 11.0)",7
+"('IV Liquid', 12.0)",4
+"('IV Liquid', 13.0)",6
+"('IV Liquid', 14.0)",8
+"('IV Liquid', 15.0)",5
+"('IV Liquid', 16.0)",8
+"('IV Liquid', 18.0)",3
+"('IV Liquid', 19.0)",5
+"('IV Liquid', 20.0)",4
+"('IV Liquid', 21.0)",2
+"('IV Liquid', 22.0)",2
+"('IV Liquid', 24.0)",3
+"('IV Liquid', 25.0)",1
+"('IV Liquid', 26.0)",6
+"('IV Liquid', 27.0)",2
+"('IV Liquid', 28.0)",1
+"('IV Liquid', 29.0)",5
+"('IV Liquid', 30.0)",3
+"('IV Liquid', 31.0)",2
+"('IV Liquid', 32.0)",1
+"('IV Liquid', 33.0)",3
+"('IV Liquid', 34.0)",4
+"('IV Liquid', 35.0)",2
+"('IV Liquid', 36.0)",3
+"('IV Liquid', 37.0)",1
+"('IV Liquid', 38.0)",1
+"('IV Liquid', 39.0)",1
+"('IV Liquid', 40.0)",1
+"('IV Liquid', 41.0)",3
+"('IV Liquid', 42.0)",1
+"('IV Liquid', 43.0)",2
+"('IV Liquid', 44.0)",2
+"('IV Liquid', 46.0)",1
+"('IV Liquid', 47.0)",2
+"('IV Liquid', 48.0)",2
+"('IV Liquid', 50.0)",4
+"('IV Liquid', 51.0)",1
+"('IV Liquid', 52.0)",1
+"('IV Liquid', 53.0)",1
+"('IV Liquid', 55.0)",1
+"('IV Liquid', 56.0)",1
+"('IV Liquid', 59.0)",1
+"('IV Liquid', 61.0)",2
+"('IV Liquid', 62.0)",1
+"('IV Liquid', 63.0)",1
+"('IV Liquid', 65.0)",6
+"('IV Liquid', 66.0)",1
+"('IV Liquid', 67.0)",1
+"('IV Liquid', 68.0)",1
+"('IV Liquid', 69.0)",2
+"('IV Liquid', 70.0)",2
+"('IV Liquid', 71.0)",1
+"('IV Liquid', 72.0)",1
+"('IV Liquid', 73.0)",3
+"('IV Liquid', 74.0)",3
+"('IV Liquid', 76.0)",1
+"('IV Liquid', 77.0)",1
+"('IV Liquid', 78.0)",3
+"('IV Liquid', 79.0)",1
+"('IV Liquid', 81.0)",1
+"('IV Liquid', 84.0)",2
+"('IV Liquid', 85.0)",2
+"('IV Liquid', 87.0)",2
+"('IV Liquid', 88.0)",1
+"('IV Liquid', 89.0)",1
+"('IV Liquid', 90.0)",2
+"('IV Liquid', 91.0)",2
+"('IV Liquid', 93.0)",1
+"('IV Liquid', 95.0)",1
+"('IV Liquid', 96.0)",1
+"('IV Liquid', 98.0)",2
+"('IV Liquid', 99.0)",5
+"('IV Liquid', 103.0)",3
+"('IV Liquid', 105.0)",1
+"('IV Liquid', 107.0)",1
+"('IV Liquid', 108.0)",1
+"('IV Liquid', 109.0)",2
+"('IV Liquid', 110.0)",2
+"('IV Liquid', 111.0)",2
+"('IV Liquid', 113.0)",2
+"('IV Liquid', 114.0)",2
+"('IV Liquid', 115.0)",2
+"('IV Liquid', 116.0)",3
+"('IV Liquid', 118.0)",1
+"('IV Liquid', 119.0)",3
+"('IV Liquid', 120.0)",3
+"('IV Liquid', 121.0)",3
+"('IV Liquid', 122.0)",1
+"('IV Liquid', 124.0)",1
+"('IV Liquid', 125.0)",3
+"('IV Liquid', 126.0)",2
+"('IV Liquid', 127.0)",1
+"('IV Liquid', 128.0)",1
+"('IV Liquid', 129.0)",1
+"('IV Liquid', 131.0)",2
+"('IV Liquid', 132.0)",1
+"('IV Liquid', 133.0)",2
+"('IV Liquid', 134.0)",2
+"('IV Liquid', 135.0)",4
+"('IV Liquid', 136.0)",2
+"('IV Liquid', 137.0)",1
+"('IV Liquid', 139.0)",2
+"('IV Liquid', 142.0)",2
+"('IV Liquid', 143.0)",1
+"('IV Liquid', 144.0)",1
+"('IV Liquid', 145.0)",5
+"('IV Liquid', 146.0)",3
+"('IV Liquid', 147.0)",1
+"('IV Liquid', 148.0)",2
+"('IV Liquid', 149.0)",1
+"('IV Liquid', 150.0)",6
+"('IV Liquid', 151.0)",1
+"('IV Liquid', 152.0)",1
+"('IV Liquid', 155.0)",1
+"('IV Liquid', 156.0)",1
+"('IV Liquid', 157.0)",2
+"('IV Liquid', 158.0)",1
+"('IV Liquid', 159.0)",1
+"('IV Liquid', 160.0)",1
+"('IV Liquid', 161.0)",1
+"('IV Liquid', 162.0)",1
+"('IV Liquid', 163.0)",1
+"('IV Liquid', 166.0)",2
+"('IV Liquid', 168.0)",2
+"('IV Liquid', 169.0)",1
+"('IV Liquid', 171.0)",2
+"('IV Liquid', 172.0)",1
+"('IV Liquid', 175.0)",1
+"('IV Liquid', 176.0)",2
+"('IV Liquid', 177.0)",1
+"('IV Liquid', 178.0)",1
+"('IV Liquid', 179.0)",1
+"('IV Liquid', 181.0)",4
+"('IV Liquid', 182.0)",3
+"('IV Liquid', 184.0)",1
+"('IV Liquid', 185.0)",1
+"('IV Liquid', 186.0)",3
+"('IV Liquid', 187.0)",2
+"('IV Liquid', 190.0)",1
+"('IV Liquid', 191.0)",2
+"('IV Liquid', 192.0)",5
+"('IV Liquid', 194.0)",1
+"('IV Liquid', 195.0)",1
+"('IV Liquid', 196.0)",2
+"('IV Liquid', 199.0)",4
+"('IV Liquid', 201.0)",2
+"('IV Liquid', 203.0)",1
+"('IV Liquid', 204.0)",1
+"('IV Liquid', 205.0)",1
+"('IV Liquid', 206.0)",1
+"('IV Liquid', 207.0)",2
+"('IV Liquid', 212.0)",1
+"('IV Liquid', 213.0)",2
+"('IV Liquid', 216.0)",1
+"('IV Liquid', 217.0)",1
+"('IV Liquid', 219.0)",1
+"('IV Liquid', 220.0)",2
+"('IV Liquid', 221.0)",1
+"('IV Liquid', 224.0)",1
+"('IV Liquid', 225.0)",2
+"('IV Liquid', 228.0)",2
+"('IV Liquid', 230.0)",2
+"('IV Liquid', 231.0)",1
+"('IV Liquid', 232.0)",1
+"('IV Liquid', 233.0)",1
+"('IV Liquid', 236.0)",1
+"('IV Liquid', 237.0)",1
+"('IV Liquid', 238.0)",2
+"('IV Liquid', 240.0)",1
+"('IV Liquid', 241.0)",1
+"('IV Liquid', 242.0)",1
+"('IV Liquid', 249.0)",1
+"('IV Liquid', 251.0)",1
+"('IV Liquid', 253.0)",1
+"('IV Liquid', 260.0)",1
+"('IV Liquid', 261.0)",1
+"('IV Liquid', 263.0)",1
+"('IV Liquid', 266.0)",1
+"('IV Liquid', 271.0)",1
+"('IV Liquid', 272.0)",1
+"('IV Liquid', 279.0)",1
+"('IV Liquid', 288.0)",1
+"('IV Liquid', 295.0)",1
+"('IV Liquid', 296.0)",1
+"('IV Liquid', 297.0)",1
+"('IV Liquid', 307.0)",1
+"('IV Liquid', 309.0)",1
+"('IV Liquid', 321.0)",1
+"('IV Liquid', 326.0)",1
+"('IV Liquid', 345.0)",1
+"('IV Liquid', 357.0)",1
+"('IV Liquid', 364.0)",1
+"('IV Liquid', 383.0)",1
+"('IV Liquid', 417.0)",1
+"('IV Liquid', 424.0)",1
+"('IV Liquid', 466.0)",1
+"('IV Liquid', 474.0)",1
+"('IV Liquid', 521.0)",1
+"('IV Liquid', 601.0)",1
+"('IV Liquid', 622.0)",1
+"('IV Liquid', 651.0)",1
+"('IV Liquid', 660.0)",1
+"('IV Liquid', 788.0)",1
+"('IV Liquid', 796.0)",1
+"('IV Liquid', 827.0)",1
+"('IV Liquid', 840.0)",1
+"('IV Liquid', 940.0)",1
+"('IV Liquid', 946.0)",1
+"('IV Liquid', 956.0)",1
+"('IV Liquid', 1076.0)",1
+"('IV Liquid', 1104.0)",1
+"('IV Liquid', 1145.0)",1
+"('IV Liquid', 1152.0)",2
+"('IV Liquid', 1233.0)",1
+"('IV Liquid', 1234.0)",1
+"('IV Liquid', 1248.0)",1
+"('IV Liquid', 1260.0)",1
+"('IV Liquid', 1277.0)",1
+"('IV Liquid', 1286.0)",1
+"('IV Liquid', 1290.0)",1
+"('IV Liquid', 1304.0)",1
+"('IV Liquid', 1319.0)",1
+"('IV Liquid', 1320.0)",1
+"('IV Liquid', 1353.0)",1
+"('IV Liquid', 1392.0)",1
+"('LacticAcid', 0.0)",640
+"('LacticAcid', 1.0)",9
+"('LacticAcid', 2.0)",5
+"('LacticAcid', 3.0)",9
+"('LacticAcid', 4.0)",8
+"('LacticAcid', 5.0)",13
+"('LacticAcid', 6.0)",14
+"('LacticAcid', 7.0)",11
+"('LacticAcid', 8.0)",16
+"('LacticAcid', 9.0)",18
+"('LacticAcid', 10.0)",12
+"('LacticAcid', 11.0)",13
+"('LacticAcid', 12.0)",6
+"('LacticAcid', 13.0)",10
+"('LacticAcid', 14.0)",6
+"('LacticAcid', 15.0)",8
+"('LacticAcid', 16.0)",3
+"('LacticAcid', 17.0)",6
+"('LacticAcid', 18.0)",4
+"('LacticAcid', 19.0)",9
+"('LacticAcid', 20.0)",5
+"('LacticAcid', 21.0)",6
+"('LacticAcid', 22.0)",5
+"('LacticAcid', 23.0)",4
+"('LacticAcid', 24.0)",3
+"('LacticAcid', 25.0)",4
+"('LacticAcid', 26.0)",4
+"('LacticAcid', 27.0)",6
+"('LacticAcid', 28.0)",5
+"('LacticAcid', 29.0)",4
+"('LacticAcid', 30.0)",1
+"('LacticAcid', 31.0)",3
+"('LacticAcid', 33.0)",1
+"('LacticAcid', 34.0)",2
+"('LacticAcid', 35.0)",2
+"('LacticAcid', 38.0)",1
+"('LacticAcid', 41.0)",3
+"('LacticAcid', 43.0)",2
+"('LacticAcid', 44.0)",1
+"('LacticAcid', 46.0)",2
+"('LacticAcid', 47.0)",2
+"('LacticAcid', 48.0)",3
+"('LacticAcid', 49.0)",1
+"('LacticAcid', 50.0)",1
+"('LacticAcid', 51.0)",2
+"('LacticAcid', 52.0)",1
+"('LacticAcid', 55.0)",1
+"('LacticAcid', 56.0)",1
+"('LacticAcid', 58.0)",1
+"('LacticAcid', 60.0)",2
+"('LacticAcid', 62.0)",1
+"('LacticAcid', 63.0)",1
+"('LacticAcid', 66.0)",1
+"('LacticAcid', 67.0)",1
+"('LacticAcid', 69.0)",1
+"('LacticAcid', 77.0)",2
+"('LacticAcid', 78.0)",1
+"('LacticAcid', 83.0)",1
+"('LacticAcid', 84.0)",1
+"('LacticAcid', 86.0)",1
+"('LacticAcid', 89.0)",1
+"('LacticAcid', 93.0)",1
+"('LacticAcid', 94.0)",1
+"('LacticAcid', 96.0)",1
+"('LacticAcid', 106.0)",1
+"('LacticAcid', 113.0)",1
+"('LacticAcid', 118.0)",1
+"('LacticAcid', 122.0)",1
+"('LacticAcid', 124.0)",1
+"('LacticAcid', 125.0)",1
+"('LacticAcid', 126.0)",1
+"('LacticAcid', 131.0)",1
+"('LacticAcid', 135.0)",1
+"('LacticAcid', 138.0)",1
+"('LacticAcid', 143.0)",1
+"('LacticAcid', 149.0)",1
+"('LacticAcid', 151.0)",1
+"('LacticAcid', 157.0)",1
+"('LacticAcid', 163.0)",1
+"('LacticAcid', 182.0)",1
+"('LacticAcid', 188.0)",1
+"('LacticAcid', 189.0)",2
+"('LacticAcid', 192.0)",1
+"('LacticAcid', 198.0)",1
+"('LacticAcid', 224.0)",1
+"('LacticAcid', 228.0)",1
+"('LacticAcid', 232.0)",1
+"('LacticAcid', 233.0)",2
+"('LacticAcid', 238.0)",2
+"('LacticAcid', 240.0)",1
+"('LacticAcid', 241.0)",1
+"('LacticAcid', 244.0)",1
+"('LacticAcid', 252.0)",1
+"('LacticAcid', 256.0)",1
+"('LacticAcid', 268.0)",1
+"('LacticAcid', 275.0)",1
+"('LacticAcid', 283.0)",1
+"('LacticAcid', 286.0)",1
+"('LacticAcid', 301.0)",2
+"('LacticAcid', 302.0)",1
+"('LacticAcid', 307.0)",1
+"('LacticAcid', 311.0)",1
+"('LacticAcid', 316.0)",1
+"('LacticAcid', 317.0)",1
+"('LacticAcid', 321.0)",1
+"('LacticAcid', 329.0)",1
+"('LacticAcid', 331.0)",1
+"('LacticAcid', 338.0)",1
+"('LacticAcid', 358.0)",1
+"('LacticAcid', 361.0)",2
+"('LacticAcid', 369.0)",1
+"('LacticAcid', 374.0)",1
+"('LacticAcid', 376.0)",1
+"('LacticAcid', 381.0)",1
+"('LacticAcid', 382.0)",1
+"('LacticAcid', 395.0)",1
+"('LacticAcid', 402.0)",1
+"('LacticAcid', 410.0)",1
+"('LacticAcid', 412.0)",1
+"('LacticAcid', 415.0)",1
+"('LacticAcid', 416.0)",1
+"('LacticAcid', 418.0)",1
+"('LacticAcid', 420.0)",1
+"('LacticAcid', 422.0)",1
+"('LacticAcid', 426.0)",1
+"('LacticAcid', 437.0)",1
+"('LacticAcid', 439.0)",1
+"('LacticAcid', 440.0)",1
+"('LacticAcid', 442.0)",2
+"('LacticAcid', 443.0)",1
+"('LacticAcid', 444.0)",1
+"('LacticAcid', 448.0)",1
+"('LacticAcid', 459.0)",2
+"('LacticAcid', 463.0)",1
+"('LacticAcid', 465.0)",1
+"('LacticAcid', 472.0)",1
+"('LacticAcid', 474.0)",1
+"('LacticAcid', 478.0)",2
+"('LacticAcid', 482.0)",1
+"('LacticAcid', 483.0)",2
+"('LacticAcid', 488.0)",1
+"('LacticAcid', 497.0)",1
+"('LacticAcid', 500.0)",1
+"('LacticAcid', 522.0)",1
+"('LacticAcid', 525.0)",1
+"('LacticAcid', 533.0)",1
+"('LacticAcid', 535.0)",1
+"('LacticAcid', 545.0)",2
+"('LacticAcid', 548.0)",1
+"('LacticAcid', 554.0)",1
+"('LacticAcid', 570.0)",1
+"('LacticAcid', 588.0)",1
+"('LacticAcid', 602.0)",1
+"('LacticAcid', 607.0)",1
+"('LacticAcid', 608.0)",1
+"('LacticAcid', 611.0)",1
+"('LacticAcid', 612.0)",1
+"('LacticAcid', 629.0)",1
+"('LacticAcid', 637.0)",1
+"('LacticAcid', 644.0)",1
+"('LacticAcid', 650.0)",1
+"('LacticAcid', 681.0)",1
+"('LacticAcid', 730.0)",1
+"('LacticAcid', 749.0)",1
+"('LacticAcid', 758.0)",1
+"('LacticAcid', 786.0)",1
+"('LacticAcid', 799.0)",1
+"('LacticAcid', 844.0)",1
+"('LacticAcid', 855.0)",1
+"('LacticAcid', 860.0)",1
+"('LacticAcid', 868.0)",1
+"('LacticAcid', 947.0)",1
+"('LacticAcid', 971.0)",1
+"('LacticAcid', 975.0)",1
+"('LacticAcid', 979.0)",1
+"('LacticAcid', 984.0)",1
+"('LacticAcid', 992.0)",1
+"('LacticAcid', 1000.0)",1
+"('LacticAcid', 1011.0)",1
+"('LacticAcid', 1030.0)",1
+"('LacticAcid', 1032.0)",1
+"('LacticAcid', 1035.0)",1
+"('LacticAcid', 1042.0)",1
+"('LacticAcid', 1059.0)",1
+"('LacticAcid', 1080.0)",1
+"('LacticAcid', 1087.0)",1
+"('LacticAcid', 1126.0)",1
+"('LacticAcid', 1142.0)",1
+"('LacticAcid', 1193.0)",1
+"('LacticAcid', 1380.0)",1
+"('LacticAcid', 1421.0)",1
+"('LacticAcid', 1440.0)",33
+"('LacticAcid', 1446.0)",1
+"('LacticAcid', 1452.0)",1
+"('LacticAcid', 1455.0)",1
+"('LacticAcid', 1470.0)",1
+"('LacticAcid', 1500.0)",1
+"('LacticAcid', 1516.0)",1
+"('LacticAcid', 1520.0)",1
+"('LacticAcid', 1537.0)",1
+"('LacticAcid', 1800.0)",1
+"('LacticAcid', 2108.0)",1
+"('LacticAcid', 2535.0)",1
+"('LacticAcid', 2584.0)",1
+"('LacticAcid', 2759.0)",1
+"('Leucocytes', 0.0)",764
+"('Leucocytes', 1.0)",10
+"('Leucocytes', 2.0)",18
+"('Leucocytes', 3.0)",9
+"('Leucocytes', 4.0)",20
+"('Leucocytes', 5.0)",16
+"('Leucocytes', 6.0)",17
+"('Leucocytes', 7.0)",15
+"('Leucocytes', 8.0)",18
+"('Leucocytes', 9.0)",24
+"('Leucocytes', 10.0)",19
+"('Leucocytes', 11.0)",15
+"('Leucocytes', 12.0)",23
+"('Leucocytes', 13.0)",19
+"('Leucocytes', 14.0)",13
+"('Leucocytes', 15.0)",10
+"('Leucocytes', 16.0)",18
+"('Leucocytes', 17.0)",11
+"('Leucocytes', 18.0)",17
+"('Leucocytes', 19.0)",11
+"('Leucocytes', 20.0)",16
+"('Leucocytes', 21.0)",10
+"('Leucocytes', 22.0)",6
+"('Leucocytes', 23.0)",7
+"('Leucocytes', 24.0)",6
+"('Leucocytes', 25.0)",6
+"('Leucocytes', 26.0)",10
+"('Leucocytes', 27.0)",8
+"('Leucocytes', 28.0)",9
+"('Leucocytes', 29.0)",1
+"('Leucocytes', 30.0)",2
+"('Leucocytes', 31.0)",5
+"('Leucocytes', 32.0)",7
+"('Leucocytes', 33.0)",4
+"('Leucocytes', 34.0)",1
+"('Leucocytes', 35.0)",3
+"('Leucocytes', 36.0)",2
+"('Leucocytes', 37.0)",4
+"('Leucocytes', 38.0)",3
+"('Leucocytes', 39.0)",2
+"('Leucocytes', 40.0)",3
+"('Leucocytes', 41.0)",2
+"('Leucocytes', 42.0)",4
+"('Leucocytes', 43.0)",2
+"('Leucocytes', 44.0)",1
+"('Leucocytes', 45.0)",2
+"('Leucocytes', 46.0)",2
+"('Leucocytes', 47.0)",3
+"('Leucocytes', 48.0)",2
+"('Leucocytes', 49.0)",1
+"('Leucocytes', 50.0)",2
+"('Leucocytes', 52.0)",1
+"('Leucocytes', 53.0)",1
+"('Leucocytes', 54.0)",1
+"('Leucocytes', 57.0)",1
+"('Leucocytes', 58.0)",1
+"('Leucocytes', 59.0)",2
+"('Leucocytes', 60.0)",1
+"('Leucocytes', 61.0)",1
+"('Leucocytes', 66.0)",1
+"('Leucocytes', 68.0)",1
+"('Leucocytes', 70.0)",1
+"('Leucocytes', 71.0)",1
+"('Leucocytes', 75.0)",1
+"('Leucocytes', 76.0)",1
+"('Leucocytes', 77.0)",1
+"('Leucocytes', 79.0)",1
+"('Leucocytes', 80.0)",1
+"('Leucocytes', 82.0)",1
+"('Leucocytes', 84.0)",1
+"('Leucocytes', 88.0)",1
+"('Leucocytes', 101.0)",2
+"('Leucocytes', 105.0)",1
+"('Leucocytes', 106.0)",1
+"('Leucocytes', 113.0)",2
+"('Leucocytes', 114.0)",2
+"('Leucocytes', 116.0)",1
+"('Leucocytes', 118.0)",2
+"('Leucocytes', 119.0)",1
+"('Leucocytes', 120.0)",1
+"('Leucocytes', 123.0)",1
+"('Leucocytes', 126.0)",2
+"('Leucocytes', 128.0)",1
+"('Leucocytes', 129.0)",1
+"('Leucocytes', 136.0)",1
+"('Leucocytes', 137.0)",1
+"('Leucocytes', 138.0)",1
+"('Leucocytes', 140.0)",1
+"('Leucocytes', 143.0)",1
+"('Leucocytes', 146.0)",1
+"('Leucocytes', 149.0)",1
+"('Leucocytes', 152.0)",1
+"('Leucocytes', 153.0)",1
+"('Leucocytes', 159.0)",1
+"('Leucocytes', 161.0)",1
+"('Leucocytes', 165.0)",1
+"('Leucocytes', 166.0)",1
+"('Leucocytes', 172.0)",1
+"('Leucocytes', 176.0)",1
+"('Leucocytes', 177.0)",1
+"('Leucocytes', 179.0)",2
+"('Leucocytes', 180.0)",7
+"('Leucocytes', 181.0)",1
+"('Leucocytes', 187.0)",2
+"('Leucocytes', 189.0)",1
+"('Leucocytes', 190.0)",3
+"('Leucocytes', 192.0)",2
+"('Leucocytes', 194.0)",1
+"('Leucocytes', 197.0)",1
+"('Leucocytes', 199.0)",1
+"('Leucocytes', 200.0)",1
+"('Leucocytes', 203.0)",2
+"('Leucocytes', 207.0)",1
+"('Leucocytes', 208.0)",1
+"('Leucocytes', 210.0)",1
+"('Leucocytes', 212.0)",1
+"('Leucocytes', 214.0)",1
+"('Leucocytes', 220.0)",2
+"('Leucocytes', 223.0)",1
+"('Leucocytes', 225.0)",1
+"('Leucocytes', 227.0)",1
+"('Leucocytes', 228.0)",1
+"('Leucocytes', 235.0)",1
+"('Leucocytes', 236.0)",1
+"('Leucocytes', 240.0)",2
+"('Leucocytes', 243.0)",1
+"('Leucocytes', 244.0)",1
+"('Leucocytes', 246.0)",1
+"('Leucocytes', 247.0)",1
+"('Leucocytes', 250.0)",1
+"('Leucocytes', 252.0)",1
+"('Leucocytes', 263.0)",2
+"('Leucocytes', 265.0)",1
+"('Leucocytes', 267.0)",1
+"('Leucocytes', 268.0)",1
+"('Leucocytes', 272.0)",1
+"('Leucocytes', 273.0)",1
+"('Leucocytes', 275.0)",1
+"('Leucocytes', 283.0)",1
+"('Leucocytes', 284.0)",1
+"('Leucocytes', 291.0)",1
+"('Leucocytes', 294.0)",1
+"('Leucocytes', 295.0)",1
+"('Leucocytes', 297.0)",1
+"('Leucocytes', 298.0)",2
+"('Leucocytes', 300.0)",3
+"('Leucocytes', 301.0)",1
+"('Leucocytes', 305.0)",1
+"('Leucocytes', 307.0)",1
+"('Leucocytes', 308.0)",1
+"('Leucocytes', 310.0)",1
+"('Leucocytes', 314.0)",1
+"('Leucocytes', 315.0)",2
+"('Leucocytes', 317.0)",1
+"('Leucocytes', 325.0)",2
+"('Leucocytes', 327.0)",1
+"('Leucocytes', 328.0)",1
+"('Leucocytes', 329.0)",1
+"('Leucocytes', 330.0)",1
+"('Leucocytes', 332.0)",1
+"('Leucocytes', 336.0)",1
+"('Leucocytes', 337.0)",1
+"('Leucocytes', 340.0)",1
+"('Leucocytes', 343.0)",1
+"('Leucocytes', 344.0)",2
+"('Leucocytes', 350.0)",2
+"('Leucocytes', 351.0)",1
+"('Leucocytes', 352.0)",1
+"('Leucocytes', 354.0)",1
+"('Leucocytes', 356.0)",1
+"('Leucocytes', 357.0)",1
+"('Leucocytes', 359.0)",2
+"('Leucocytes', 360.0)",5
+"('Leucocytes', 364.0)",1
+"('Leucocytes', 370.0)",2
+"('Leucocytes', 371.0)",1
+"('Leucocytes', 373.0)",1
+"('Leucocytes', 377.0)",1
+"('Leucocytes', 381.0)",1
+"('Leucocytes', 389.0)",1
+"('Leucocytes', 390.0)",1
+"('Leucocytes', 394.0)",1
+"('Leucocytes', 396.0)",1
+"('Leucocytes', 397.0)",1
+"('Leucocytes', 409.0)",2
+"('Leucocytes', 410.0)",1
+"('Leucocytes', 413.0)",1
+"('Leucocytes', 414.0)",1
+"('Leucocytes', 420.0)",1
+"('Leucocytes', 430.0)",1
+"('Leucocytes', 440.0)",2
+"('Leucocytes', 441.0)",1
+"('Leucocytes', 448.0)",1
+"('Leucocytes', 458.0)",1
+"('Leucocytes', 462.0)",1
+"('Leucocytes', 463.0)",1
+"('Leucocytes', 464.0)",1
+"('Leucocytes', 471.0)",2
+"('Leucocytes', 478.0)",1
+"('Leucocytes', 480.0)",3
+"('Leucocytes', 481.0)",1
+"('Leucocytes', 482.0)",1
+"('Leucocytes', 483.0)",1
+"('Leucocytes', 484.0)",1
+"('Leucocytes', 488.0)",1
+"('Leucocytes', 504.0)",1
+"('Leucocytes', 505.0)",2
+"('Leucocytes', 507.0)",3
+"('Leucocytes', 519.0)",1
+"('Leucocytes', 520.0)",1
+"('Leucocytes', 522.0)",2
+"('Leucocytes', 527.0)",2
+"('Leucocytes', 529.0)",1
+"('Leucocytes', 530.0)",1
+"('Leucocytes', 532.0)",1
+"('Leucocytes', 534.0)",1
+"('Leucocytes', 535.0)",1
+"('Leucocytes', 536.0)",1
+"('Leucocytes', 539.0)",1
+"('Leucocytes', 540.0)",2
+"('Leucocytes', 543.0)",1
+"('Leucocytes', 547.0)",2
+"('Leucocytes', 551.0)",2
+"('Leucocytes', 553.0)",1
+"('Leucocytes', 557.0)",1
+"('Leucocytes', 575.0)",1
+"('Leucocytes', 577.0)",1
+"('Leucocytes', 580.0)",1
+"('Leucocytes', 585.0)",1
+"('Leucocytes', 587.0)",1
+"('Leucocytes', 589.0)",1
+"('Leucocytes', 593.0)",1
+"('Leucocytes', 598.0)",1
+"('Leucocytes', 600.0)",1
+"('Leucocytes', 601.0)",1
+"('Leucocytes', 604.0)",1
+"('Leucocytes', 607.0)",1
+"('Leucocytes', 610.0)",1
+"('Leucocytes', 616.0)",1
+"('Leucocytes', 617.0)",3
+"('Leucocytes', 624.0)",1
+"('Leucocytes', 625.0)",1
+"('Leucocytes', 636.0)",1
+"('Leucocytes', 639.0)",1
+"('Leucocytes', 640.0)",1
+"('Leucocytes', 642.0)",1
+"('Leucocytes', 643.0)",1
+"('Leucocytes', 644.0)",1
+"('Leucocytes', 647.0)",1
+"('Leucocytes', 649.0)",1
+"('Leucocytes', 650.0)",1
+"('Leucocytes', 651.0)",1
+"('Leucocytes', 652.0)",1
+"('Leucocytes', 654.0)",1
+"('Leucocytes', 664.0)",1
+"('Leucocytes', 668.0)",1
+"('Leucocytes', 670.0)",1
+"('Leucocytes', 671.0)",1
+"('Leucocytes', 673.0)",1
+"('Leucocytes', 675.0)",1
+"('Leucocytes', 684.0)",1
+"('Leucocytes', 690.0)",1
+"('Leucocytes', 702.0)",2
+"('Leucocytes', 720.0)",7
+"('Leucocytes', 724.0)",1
+"('Leucocytes', 730.0)",1
+"('Leucocytes', 732.0)",1
+"('Leucocytes', 740.0)",1
+"('Leucocytes', 742.0)",1
+"('Leucocytes', 748.0)",1
+"('Leucocytes', 766.0)",1
+"('Leucocytes', 769.0)",1
+"('Leucocytes', 770.0)",1
+"('Leucocytes', 772.0)",1
+"('Leucocytes', 780.0)",1
+"('Leucocytes', 781.0)",1
+"('Leucocytes', 782.0)",1
+"('Leucocytes', 803.0)",1
+"('Leucocytes', 804.0)",1
+"('Leucocytes', 806.0)",1
+"('Leucocytes', 810.0)",1
+"('Leucocytes', 816.0)",1
+"('Leucocytes', 819.0)",2
+"('Leucocytes', 823.0)",1
+"('Leucocytes', 824.0)",1
+"('Leucocytes', 828.0)",1
+"('Leucocytes', 830.0)",1
+"('Leucocytes', 832.0)",1
+"('Leucocytes', 833.0)",1
+"('Leucocytes', 834.0)",1
+"('Leucocytes', 849.0)",1
+"('Leucocytes', 851.0)",1
+"('Leucocytes', 856.0)",1
+"('Leucocytes', 864.0)",1
+"('Leucocytes', 868.0)",1
+"('Leucocytes', 869.0)",1
+"('Leucocytes', 877.0)",1
+"('Leucocytes', 884.0)",1
+"('Leucocytes', 886.0)",1
+"('Leucocytes', 887.0)",1
+"('Leucocytes', 888.0)",1
+"('Leucocytes', 896.0)",2
+"('Leucocytes', 900.0)",1
+"('Leucocytes', 902.0)",1
+"('Leucocytes', 904.0)",1
+"('Leucocytes', 909.0)",1
+"('Leucocytes', 917.0)",1
+"('Leucocytes', 918.0)",1
+"('Leucocytes', 930.0)",1
+"('Leucocytes', 931.0)",1
+"('Leucocytes', 933.0)",1
+"('Leucocytes', 939.0)",1
+"('Leucocytes', 949.0)",1
+"('Leucocytes', 958.0)",2
+"('Leucocytes', 960.0)",6
+"('Leucocytes', 964.0)",1
+"('Leucocytes', 970.0)",1
+"('Leucocytes', 975.0)",1
+"('Leucocytes', 982.0)",1
+"('Leucocytes', 989.0)",2
+"('Leucocytes', 990.0)",3
+"('Leucocytes', 992.0)",1
+"('Leucocytes', 996.0)",1
+"('Leucocytes', 998.0)",1
+"('Leucocytes', 1000.0)",2
+"('Leucocytes', 1001.0)",1
+"('Leucocytes', 1004.0)",1
+"('Leucocytes', 1011.0)",1
+"('Leucocytes', 1014.0)",1
+"('Leucocytes', 1020.0)",1
+"('Leucocytes', 1031.0)",1
+"('Leucocytes', 1035.0)",1
+"('Leucocytes', 1036.0)",1
+"('Leucocytes', 1042.0)",1
+"('Leucocytes', 1043.0)",1
+"('Leucocytes', 1050.0)",2
+"('Leucocytes', 1054.0)",1
+"('Leucocytes', 1056.0)",1
+"('Leucocytes', 1058.0)",2
+"('Leucocytes', 1060.0)",1
+"('Leucocytes', 1061.0)",1
+"('Leucocytes', 1065.0)",1
+"('Leucocytes', 1071.0)",1
+"('Leucocytes', 1074.0)",1
+"('Leucocytes', 1077.0)",1
+"('Leucocytes', 1078.0)",2
+"('Leucocytes', 1080.0)",15
+"('Leucocytes', 1088.0)",1
+"('Leucocytes', 1095.0)",1
+"('Leucocytes', 1096.0)",2
+"('Leucocytes', 1105.0)",1
+"('Leucocytes', 1107.0)",1
+"('Leucocytes', 1108.0)",1
+"('Leucocytes', 1110.0)",2
+"('Leucocytes', 1112.0)",1
+"('Leucocytes', 1130.0)",1
+"('Leucocytes', 1140.0)",1
+"('Leucocytes', 1154.0)",1
+"('Leucocytes', 1155.0)",2
+"('Leucocytes', 1156.0)",1
+"('Leucocytes', 1170.0)",2
+"('Leucocytes', 1185.0)",1
+"('Leucocytes', 1188.0)",2
+"('Leucocytes', 1192.0)",3
+"('Leucocytes', 1200.0)",1
+"('Leucocytes', 1202.0)",1
+"('Leucocytes', 1205.0)",1
+"('Leucocytes', 1207.0)",1
+"('Leucocytes', 1209.0)",1
+"('Leucocytes', 1215.0)",1
+"('Leucocytes', 1222.0)",1
+"('Leucocytes', 1223.0)",1
+"('Leucocytes', 1225.0)",1
+"('Leucocytes', 1228.0)",2
+"('Leucocytes', 1230.0)",3
+"('Leucocytes', 1236.0)",1
+"('Leucocytes', 1239.0)",1
+"('Leucocytes', 1242.0)",1
+"('Leucocytes', 1243.0)",1
+"('Leucocytes', 1245.0)",1
+"('Leucocytes', 1249.0)",2
+"('Leucocytes', 1252.0)",1
+"('Leucocytes', 1253.0)",1
+"('Leucocytes', 1254.0)",1
+"('Leucocytes', 1260.0)",16
+"('Leucocytes', 1279.0)",1
+"('Leucocytes', 1283.0)",1
+"('Leucocytes', 1285.0)",1
+"('Leucocytes', 1286.0)",2
+"('Leucocytes', 1290.0)",1
+"('Leucocytes', 1298.0)",1
+"('Leucocytes', 1306.0)",1
+"('Leucocytes', 1308.0)",1
+"('Leucocytes', 1320.0)",1
+"('Leucocytes', 1327.0)",2
+"('Leucocytes', 1335.0)",1
+"('Leucocytes', 1339.0)",1
+"('Leucocytes', 1350.0)",1
+"('Leucocytes', 1356.0)",1
+"('Leucocytes', 1357.0)",1
+"('Leucocytes', 1358.0)",1
+"('Leucocytes', 1363.0)",1
+"('Leucocytes', 1366.0)",1
+"('Leucocytes', 1368.0)",1
+"('Leucocytes', 1373.0)",1
+"('Leucocytes', 1375.0)",1
+"('Leucocytes', 1380.0)",3
+"('Leucocytes', 1393.0)",1
+"('Leucocytes', 1397.0)",1
+"('Leucocytes', 1402.0)",1
+"('Leucocytes', 1410.0)",2
+"('Leucocytes', 1418.0)",1
+"('Leucocytes', 1422.0)",1
+"('Leucocytes', 1429.0)",1
+"('Leucocytes', 1438.0)",1
+"('Leucocytes', 1440.0)",129
+"('Leucocytes', 1442.0)",1
+"('Leucocytes', 1445.0)",1
+"('Leucocytes', 1447.0)",1
+"('Leucocytes', 1458.0)",1
+"('Leucocytes', 1459.0)",1
+"('Leucocytes', 1461.0)",1
+"('Leucocytes', 1462.0)",1
+"('Leucocytes', 1466.0)",1
+"('Leucocytes', 1478.0)",1
+"('Leucocytes', 1482.0)",1
+"('Leucocytes', 1483.0)",1
+"('Leucocytes', 1486.0)",1
+"('Leucocytes', 1487.0)",1
+"('Leucocytes', 1500.0)",1
+"('Leucocytes', 1506.0)",1
+"('Leucocytes', 1510.0)",1
+"('Leucocytes', 1512.0)",1
+"('Leucocytes', 1514.0)",1
+"('Leucocytes', 1517.0)",1
+"('Leucocytes', 1519.0)",2
+"('Leucocytes', 1523.0)",1
+"('Leucocytes', 1530.0)",1
+"('Leucocytes', 1532.0)",1
+"('Leucocytes', 1547.0)",1
+"('Leucocytes', 1554.0)",1
+"('Leucocytes', 1560.0)",1
+"('Leucocytes', 1566.0)",1
+"('Leucocytes', 1568.0)",1
+"('Leucocytes', 1578.0)",1
+"('Leucocytes', 1597.0)",1
+"('Leucocytes', 1600.0)",1
+"('Leucocytes', 1602.0)",2
+"('Leucocytes', 1620.0)",9
+"('Leucocytes', 1627.0)",1
+"('Leucocytes', 1635.0)",2
+"('Leucocytes', 1637.0)",1
+"('Leucocytes', 1645.0)",1
+"('Leucocytes', 1665.0)",1
+"('Leucocytes', 1673.0)",1
+"('Leucocytes', 1687.0)",1
+"('Leucocytes', 1692.0)",1
+"('Leucocytes', 1693.0)",1
+"('Leucocytes', 1722.0)",1
+"('Leucocytes', 1738.0)",1
+"('Leucocytes', 1758.0)",1
+"('Leucocytes', 1799.0)",1
+"('Leucocytes', 1800.0)",2
+"('Leucocytes', 1810.0)",1
+"('Leucocytes', 1812.0)",1
+"('Leucocytes', 1824.0)",1
+"('Leucocytes', 1827.0)",1
+"('Leucocytes', 1836.0)",1
+"('Leucocytes', 1841.0)",1
+"('Leucocytes', 1843.0)",1
+"('Leucocytes', 1851.0)",1
+"('Leucocytes', 1854.0)",1
+"('Leucocytes', 1855.0)",1
+"('Leucocytes', 1870.0)",1
+"('Leucocytes', 1873.0)",1
+"('Leucocytes', 1881.0)",1
+"('Leucocytes', 1908.0)",1
+"('Leucocytes', 1921.0)",1
+"('Leucocytes', 1941.0)",1
+"('Leucocytes', 1959.0)",1
+"('Leucocytes', 1965.0)",2
+"('Leucocytes', 1968.0)",2
+"('Leucocytes', 1970.0)",1
+"('Leucocytes', 1973.0)",1
+"('Leucocytes', 1974.0)",1
+"('Leucocytes', 1979.0)",1
+"('Leucocytes', 2002.0)",1
+"('Leucocytes', 2006.0)",1
+"('Leucocytes', 2013.0)",1
+"('Leucocytes', 2015.0)",1
+"('Leucocytes', 2024.0)",1
+"('Leucocytes', 2034.0)",1
+"('Leucocytes', 2054.0)",1
+"('Leucocytes', 2065.0)",1
+"('Leucocytes', 2068.0)",1
+"('Leucocytes', 2071.0)",1
+"('Leucocytes', 2080.0)",1
+"('Leucocytes', 2085.0)",1
+"('Leucocytes', 2088.0)",1
+"('Leucocytes', 2092.0)",1
+"('Leucocytes', 2109.0)",1
+"('Leucocytes', 2111.0)",1
+"('Leucocytes', 2120.0)",1
+"('Leucocytes', 2121.0)",1
+"('Leucocytes', 2130.0)",1
+"('Leucocytes', 2131.0)",1
+"('Leucocytes', 2132.0)",1
+"('Leucocytes', 2160.0)",3
+"('Leucocytes', 2162.0)",1
+"('Leucocytes', 2190.0)",1
+"('Leucocytes', 2204.0)",1
+"('Leucocytes', 2205.0)",1
+"('Leucocytes', 2207.0)",1
+"('Leucocytes', 2212.0)",1
+"('Leucocytes', 2215.0)",1
+"('Leucocytes', 2219.0)",1
+"('Leucocytes', 2220.0)",1
+"('Leucocytes', 2258.0)",1
+"('Leucocytes', 2259.0)",1
+"('Leucocytes', 2266.0)",1
+"('Leucocytes', 2279.0)",1
+"('Leucocytes', 2299.0)",1
+"('Leucocytes', 2310.0)",1
+"('Leucocytes', 2354.0)",1
+"('Leucocytes', 2367.0)",1
+"('Leucocytes', 2378.0)",1
+"('Leucocytes', 2379.0)",1
+"('Leucocytes', 2383.0)",1
+"('Leucocytes', 2400.0)",2
+"('Leucocytes', 2408.0)",1
+"('Leucocytes', 2410.0)",1
+"('Leucocytes', 2412.0)",1
+"('Leucocytes', 2415.0)",1
+"('Leucocytes', 2420.0)",1
+"('Leucocytes', 2440.0)",1
+"('Leucocytes', 2441.0)",1
+"('Leucocytes', 2442.0)",1
+"('Leucocytes', 2447.0)",1
+"('Leucocytes', 2460.0)",4
+"('Leucocytes', 2467.0)",1
+"('Leucocytes', 2468.0)",1
+"('Leucocytes', 2471.0)",1
+"('Leucocytes', 2474.0)",1
+"('Leucocytes', 2477.0)",1
+"('Leucocytes', 2485.0)",1
+"('Leucocytes', 2490.0)",3
+"('Leucocytes', 2495.0)",1
+"('Leucocytes', 2507.0)",1
+"('Leucocytes', 2512.0)",1
+"('Leucocytes', 2513.0)",2
+"('Leucocytes', 2520.0)",7
+"('Leucocytes', 2528.0)",1
+"('Leucocytes', 2538.0)",1
+"('Leucocytes', 2550.0)",1
+"('Leucocytes', 2556.0)",1
+"('Leucocytes', 2557.0)",1
+"('Leucocytes', 2585.0)",1
+"('Leucocytes', 2608.0)",1
+"('Leucocytes', 2610.0)",1
+"('Leucocytes', 2615.0)",1
+"('Leucocytes', 2632.0)",1
+"('Leucocytes', 2647.0)",1
+"('Leucocytes', 2666.0)",1
+"('Leucocytes', 2670.0)",4
+"('Leucocytes', 2678.0)",1
+"('Leucocytes', 2680.0)",1
+"('Leucocytes', 2685.0)",1
+"('Leucocytes', 2700.0)",19
+"('Leucocytes', 2704.0)",1
+"('Leucocytes', 2712.0)",1
+"('Leucocytes', 2718.0)",1
+"('Leucocytes', 2727.0)",1
+"('Leucocytes', 2760.0)",3
+"('Leucocytes', 2769.0)",1
+"('Leucocytes', 2789.0)",1
+"('Leucocytes', 2796.0)",1
+"('Leucocytes', 2797.0)",1
+"('Leucocytes', 2808.0)",1
+"('Leucocytes', 2820.0)",2
+"('Leucocytes', 2880.0)",128
+"('Leucocytes', 2884.0)",1
+"('Leucocytes', 2940.0)",3
+"('Leucocytes', 2945.0)",1
+"('Leucocytes', 2953.0)",1
+"('Leucocytes', 2963.0)",1
+"('Leucocytes', 2971.0)",1
+"('Leucocytes', 2996.0)",1
+"('Leucocytes', 3000.0)",2
+"('Leucocytes', 3017.0)",1
+"('Leucocytes', 3027.0)",1
+"('Leucocytes', 3044.0)",1
+"('Leucocytes', 3059.0)",1
+"('Leucocytes', 3060.0)",2
+"('Leucocytes', 3070.0)",1
+"('Leucocytes', 3101.0)",2
+"('Leucocytes', 3110.0)",1
+"('Leucocytes', 3120.0)",1
+"('Leucocytes', 3174.0)",1
+"('Leucocytes', 3240.0)",3
+"('Leucocytes', 3300.0)",1
+"('Leucocytes', 3403.0)",1
+"('Leucocytes', 3427.0)",1
+"('Leucocytes', 3481.0)",1
+"('Leucocytes', 3504.0)",1
+"('Leucocytes', 3596.0)",1
+"('Leucocytes', 3600.0)",1
+"('Leucocytes', 3627.0)",1
+"('Leucocytes', 3633.0)",1
+"('Leucocytes', 3685.0)",1
+"('Leucocytes', 3720.0)",1
+"('Leucocytes', 3785.0)",1
+"('Leucocytes', 3860.0)",1
+"('Leucocytes', 3886.0)",1
+"('Leucocytes', 3887.0)",2
+"('Leucocytes', 3900.0)",4
+"('Leucocytes', 3926.0)",1
+"('Leucocytes', 3960.0)",6
+"('Leucocytes', 3967.0)",1
+"('Leucocytes', 3988.0)",1
+"('Leucocytes', 4025.0)",1
+"('Leucocytes', 4038.0)",1
+"('Leucocytes', 4046.0)",1
+"('Leucocytes', 4104.0)",1
+"('Leucocytes', 4110.0)",2
+"('Leucocytes', 4123.0)",1
+"('Leucocytes', 4137.0)",1
+"('Leucocytes', 4140.0)",7
+"('Leucocytes', 4222.0)",1
+"('Leucocytes', 4227.0)",1
+"('Leucocytes', 4243.0)",1
+"('Leucocytes', 4260.0)",3
+"('Leucocytes', 4263.0)",1
+"('Leucocytes', 4320.0)",49
+"('Leucocytes', 4364.0)",1
+"('Leucocytes', 4380.0)",2
+"('Leucocytes', 4440.0)",2
+"('Leucocytes', 4500.0)",1
+"('Leucocytes', 4565.0)",1
+"('Leucocytes', 4656.0)",1
+"('Leucocytes', 4680.0)",2
+"('Leucocytes', 4857.0)",1
+"('Leucocytes', 4969.0)",1
+"('Leucocytes', 5040.0)",1
+"('Leucocytes', 5041.0)",1
+"('Leucocytes', 5080.0)",1
+"('Leucocytes', 5084.0)",1
+"('Leucocytes', 5207.0)",1
+"('Leucocytes', 5220.0)",1
+"('Leucocytes', 5280.0)",1
+"('Leucocytes', 5310.0)",1
+"('Leucocytes', 5316.0)",1
+"('Leucocytes', 5350.0)",1
+"('Leucocytes', 5370.0)",1
+"('Leucocytes', 5371.0)",2
+"('Leucocytes', 5400.0)",1
+"('Leucocytes', 5580.0)",6
+"('Leucocytes', 5680.0)",1
+"('Leucocytes', 5700.0)",1
+"('Leucocytes', 5723.0)",1
+"('Leucocytes', 5760.0)",36
+"('Leucocytes', 5781.0)",1
+"('Leucocytes', 5820.0)",2
+"('Leucocytes', 5934.0)",1
+"('Leucocytes', 5940.0)",2
+"('Leucocytes', 6120.0)",5
+"('Leucocytes', 6248.0)",1
+"('Leucocytes', 6261.0)",1
+"('Leucocytes', 6480.0)",1
+"('Leucocytes', 6585.0)",1
+"('Leucocytes', 6690.0)",1
+"('Leucocytes', 6813.0)",1
+"('Leucocytes', 7020.0)",1
+"('Leucocytes', 7101.0)",1
+"('Leucocytes', 7121.0)",1
+"('Leucocytes', 7180.0)",1
+"('Leucocytes', 7190.0)",1
+"('Leucocytes', 7200.0)",7
+"('Leucocytes', 7260.0)",1
+"('Leucocytes', 7380.0)",1
+"('Leucocytes', 8013.0)",1
+"('Leucocytes', 8280.0)",1
+"('Leucocytes', 8310.0)",2
+"('Leucocytes', 8559.0)",1
+"('Leucocytes', 8640.0)",3
+"('Leucocytes', 8806.0)",1
+"('Leucocytes', 9270.0)",1
+"('Leucocytes', 9758.0)",1
+"('Leucocytes', 9900.0)",1
+"('Leucocytes', 10080.0)",1
+"('Leucocytes', 10260.0)",1
+"('Leucocytes', 10309.0)",1
+"('Leucocytes', 14400.0)",2
+"('Leucocytes', 20100.0)",1
+"('Leucocytes', 21780.0)",1
+"('Release A', 16.0)",1
+"('Release A', 74.0)",1
+"('Release A', 79.0)",1
+"('Release A', 120.0)",6
+"('Release A', 150.0)",3
+"('Release A', 164.0)",1
+"('Release A', 174.0)",1
+"('Release A', 180.0)",8
+"('Release A', 192.0)",1
+"('Release A', 195.0)",3
+"('Release A', 210.0)",4
+"('Release A', 240.0)",9
+"('Release A', 250.0)",1
+"('Release A', 255.0)",3
+"('Release A', 270.0)",1
+"('Release A', 286.0)",1
+"('Release A', 299.0)",1
+"('Release A', 300.0)",7
+"('Release A', 309.0)",1
+"('Release A', 313.0)",1
+"('Release A', 315.0)",1
+"('Release A', 317.0)",1
+"('Release A', 330.0)",5
+"('Release A', 340.0)",1
+"('Release A', 345.0)",1
+"('Release A', 352.0)",1
+"('Release A', 360.0)",25
+"('Release A', 365.0)",1
+"('Release A', 375.0)",1
+"('Release A', 380.0)",1
+"('Release A', 390.0)",2
+"('Release A', 400.0)",2
+"('Release A', 405.0)",3
+"('Release A', 420.0)",3
+"('Release A', 431.0)",1
+"('Release A', 435.0)",1
+"('Release A', 444.0)",1
+"('Release A', 465.0)",1
+"('Release A', 470.0)",1
+"('Release A', 480.0)",7
+"('Release A', 495.0)",1
+"('Release A', 501.0)",1
+"('Release A', 540.0)",3
+"('Release A', 570.0)",1
+"('Release A', 600.0)",6
+"('Release A', 630.0)",2
+"('Release A', 660.0)",5
+"('Release A', 720.0)",2
+"('Release A', 802.0)",1
+"('Release A', 945.0)",1
+"('Release A', 1114.0)",1
+"('Release A', 1200.0)",3
+"('Release A', 1260.0)",1
+"('Release A', 1296.0)",1
+"('Release A', 1320.0)",1
+"('Release A', 1341.0)",1
+"('Release A', 1365.0)",1
+"('Release A', 1410.0)",2
+"('Release A', 1425.0)",1
+"('Release A', 1440.0)",1
+"('Release A', 1447.0)",1
+"('Release A', 1469.0)",1
+"('Release A', 1470.0)",1
+"('Release A', 1485.0)",1
+"('Release A', 1500.0)",4
+"('Release A', 1505.0)",1
+"('Release A', 1530.0)",2
+"('Release A', 1539.0)",1
+"('Release A', 1545.0)",1
+"('Release A', 1552.0)",1
+"('Release A', 1553.0)",1
+"('Release A', 1555.0)",1
+"('Release A', 1560.0)",29
+"('Release A', 1565.0)",2
+"('Release A', 1575.0)",2
+"('Release A', 1580.0)",3
+"('Release A', 1590.0)",7
+"('Release A', 1600.0)",2
+"('Release A', 1605.0)",1
+"('Release A', 1619.0)",1
+"('Release A', 1620.0)",13
+"('Release A', 1645.0)",1
+"('Release A', 1650.0)",1
+"('Release A', 1655.0)",1
+"('Release A', 1661.0)",1
+"('Release A', 1665.0)",1
+"('Release A', 1677.0)",1
+"('Release A', 1680.0)",11
+"('Release A', 1710.0)",6
+"('Release A', 1717.0)",1
+"('Release A', 1718.0)",1
+"('Release A', 1721.0)",1
+"('Release A', 1725.0)",1
+"('Release A', 1740.0)",5
+"('Release A', 1755.0)",1
+"('Release A', 1770.0)",5
+"('Release A', 1785.0)",1
+"('Release A', 1790.0)",1
+"('Release A', 1800.0)",17
+"('Release A', 1815.0)",2
+"('Release A', 1833.0)",1
+"('Release A', 1860.0)",3
+"('Release A', 1875.0)",1
+"('Release A', 1880.0)",1
+"('Release A', 1890.0)",3
+"('Release A', 1905.0)",1
+"('Release A', 1920.0)",1
+"('Release A', 1950.0)",1
+"('Release A', 1979.0)",1
+"('Release A', 1980.0)",3
+"('Release A', 1985.0)",1
+"('Release A', 2010.0)",1
+"('Release A', 2019.0)",1
+"('Release A', 2031.0)",1
+"('Release A', 2040.0)",4
+"('Release A', 2070.0)",1
+"('Release A', 2100.0)",4
+"('Release A', 2110.0)",1
+"('Release A', 2128.0)",1
+"('Release A', 2160.0)",5
+"('Release A', 2217.0)",1
+"('Release A', 2297.0)",1
+"('Release A', 2305.0)",1
+"('Release A', 2464.0)",1
+"('Release A', 2580.0)",1
+"('Release A', 2620.0)",1
+"('Release A', 2640.0)",3
+"('Release A', 2660.0)",1
+"('Release A', 2700.0)",1
+"('Release A', 2715.0)",2
+"('Release A', 2780.0)",1
+"('Release A', 2820.0)",4
+"('Release A', 2835.0)",1
+"('Release A', 2850.0)",1
+"('Release A', 2855.0)",1
+"('Release A', 2879.0)",1
+"('Release A', 2880.0)",1
+"('Release A', 2895.0)",1
+"('Release A', 2905.0)",1
+"('Release A', 2910.0)",2
+"('Release A', 2940.0)",1
+"('Release A', 2954.0)",1
+"('Release A', 2970.0)",2
+"('Release A', 2971.0)",2
+"('Release A', 2980.0)",1
+"('Release A', 2985.0)",2
+"('Release A', 3000.0)",31
+"('Release A', 3003.0)",1
+"('Release A', 3030.0)",5
+"('Release A', 3032.0)",2
+"('Release A', 3037.0)",1
+"('Release A', 3060.0)",10
+"('Release A', 3075.0)",1
+"('Release A', 3085.0)",1
+"('Release A', 3088.0)",1
+"('Release A', 3090.0)",3
+"('Release A', 3100.0)",1
+"('Release A', 3105.0)",3
+"('Release A', 3120.0)",6
+"('Release A', 3121.0)",1
+"('Release A', 3122.0)",1
+"('Release A', 3135.0)",1
+"('Release A', 3150.0)",2
+"('Release A', 3165.0)",1
+"('Release A', 3180.0)",8
+"('Release A', 3210.0)",2
+"('Release A', 3230.0)",1
+"('Release A', 3240.0)",4
+"('Release A', 3255.0)",2
+"('Release A', 3260.0)",1
+"('Release A', 3275.0)",1
+"('Release A', 3280.0)",1
+"('Release A', 3300.0)",1
+"('Release A', 3330.0)",1
+"('Release A', 3337.0)",1
+"('Release A', 3360.0)",3
+"('Release A', 3389.0)",1
+"('Release A', 3420.0)",3
+"('Release A', 3441.0)",1
+"('Release A', 3450.0)",1
+"('Release A', 3480.0)",5
+"('Release A', 3518.0)",1
+"('Release A', 3540.0)",3
+"('Release A', 3590.0)",1
+"('Release A', 3600.0)",4
+"('Release A', 3635.0)",1
+"('Release A', 3743.0)",1
+"('Release A', 3909.0)",1
+"('Release A', 3918.0)",1
+"('Release A', 3960.0)",1
+"('Release A', 3961.0)",1
+"('Release A', 3980.0)",1
+"('Release A', 4015.0)",1
+"('Release A', 4030.0)",1
+"('Release A', 4031.0)",1
+"('Release A', 4057.0)",1
+"('Release A', 4064.0)",1
+"('Release A', 4065.0)",1
+"('Release A', 4150.0)",1
+"('Release A', 4160.0)",1
+"('Release A', 4172.0)",1
+"('Release A', 4200.0)",2
+"('Release A', 4225.0)",1
+"('Release A', 4244.0)",1
+"('Release A', 4248.0)",1
+"('Release A', 4260.0)",1
+"('Release A', 4320.0)",1
+"('Release A', 4360.0)",1
+"('Release A', 4380.0)",1
+"('Release A', 4406.0)",1
+"('Release A', 4440.0)",11
+"('Release A', 4455.0)",1
+"('Release A', 4470.0)",2
+"('Release A', 4500.0)",4
+"('Release A', 4520.0)",1
+"('Release A', 4555.0)",1
+"('Release A', 4560.0)",2
+"('Release A', 4610.0)",1
+"('Release A', 4620.0)",3
+"('Release A', 4650.0)",2
+"('Release A', 4666.0)",1
+"('Release A', 4680.0)",9
+"('Release A', 4710.0)",2
+"('Release A', 4740.0)",1
+"('Release A', 4753.0)",1
+"('Release A', 4800.0)",1
+"('Release A', 4860.0)",1
+"('Release A', 4920.0)",1
+"('Release A', 4980.0)",1
+"('Release A', 5001.0)",1
+"('Release A', 5040.0)",1
+"('Release A', 5062.0)",1
+"('Release A', 5128.0)",1
+"('Release A', 5161.0)",1
+"('Release A', 5288.0)",1
+"('Release A', 5321.0)",1
+"('Release A', 5346.0)",1
+"('Release A', 5520.0)",3
+"('Release A', 5571.0)",1
+"('Release A', 5574.0)",1
+"('Release A', 5642.0)",1
+"('Release A', 5683.0)",1
+"('Release A', 5709.0)",1
+"('Release A', 5726.0)",1
+"('Release A', 5730.0)",1
+"('Release A', 5760.0)",1
+"('Release A', 5782.0)",1
+"('Release A', 5870.0)",1
+"('Release A', 5880.0)",7
+"('Release A', 5910.0)",2
+"('Release A', 5915.0)",1
+"('Release A', 5925.0)",1
+"('Release A', 5940.0)",2
+"('Release A', 5970.0)",2
+"('Release A', 5996.0)",1
+"('Release A', 5999.0)",1
+"('Release A', 6000.0)",3
+"('Release A', 6060.0)",3
+"('Release A', 6086.0)",1
+"('Release A', 6120.0)",4
+"('Release A', 6130.0)",1
+"('Release A', 6180.0)",1
+"('Release A', 6191.0)",1
+"('Release A', 6240.0)",1
+"('Release A', 6250.0)",1
+"('Release A', 6270.0)",1
+"('Release A', 6300.0)",2
+"('Release A', 6406.0)",1
+"('Release A', 6480.0)",1
+"('Release A', 6483.0)",1
+"('Release A', 6572.0)",1
+"('Release A', 6845.0)",1
+"('Release A', 6863.0)",1
+"('Release A', 6878.0)",1
+"('Release A', 6924.0)",1
+"('Release A', 6977.0)",1
+"('Release A', 6980.0)",1
+"('Release A', 7034.0)",1
+"('Release A', 7050.0)",1
+"('Release A', 7088.0)",1
+"('Release A', 7170.0)",1
+"('Release A', 7185.0)",1
+"('Release A', 7200.0)",1
+"('Release A', 7241.0)",1
+"('Release A', 7268.0)",1
+"('Release A', 7320.0)",1
+"('Release A', 7326.0)",1
+"('Release A', 7350.0)",1
+"('Release A', 7380.0)",1
+"('Release A', 7410.0)",1
+"('Release A', 7500.0)",2
+"('Release A', 7505.0)",1
+"('Release A', 7515.0)",1
+"('Release A', 7560.0)",1
+"('Release A', 7860.0)",1
+"('Release A', 7978.0)",1
+"('Release A', 8140.0)",1
+"('Release A', 8585.0)",1
+"('Release A', 8730.0)",1
+"('Release A', 8760.0)",1
+"('Release A', 8805.0)",2
+"('Release A', 8820.0)",1
+"('Release A', 8850.0)",1
+"('Release A', 9000.0)",1
+"('Release A', 9859.0)",1
+"('Release A', 10045.0)",1
+"('Release A', 10140.0)",1
+"('Release A', 10200.0)",2
+"('Release A', 10230.0)",2
+"('Release A', 10235.0)",1
+"('Release A', 10260.0)",1
+"('Release A', 10302.0)",1
+"('Release A', 10320.0)",1
+"('Release A', 10410.0)",1
+"('Release A', 10440.0)",1
+"('Release A', 11385.0)",1
+"('Release A', 11432.0)",1
+"('Release A', 12120.0)",1
+"('Release A', 12132.0)",1
+"('Release A', 12180.0)",1
+"('Release A', 12677.0)",1
+"('Release A', 12782.0)",1
+"('Release A', 12837.0)",1
+"('Release A', 14670.0)",1
+"('Release A', 14795.0)",1
+"('Release A', 17047.0)",1
+"('Release A', 20340.0)",1
+"('Release A', 21780.0)",1
+"('Release A', 27525.0)",1
+"('Release B', 11.0)",1
+"('Release B', 20.0)",1
+"('Release B', 90.0)",1
+"('Release B', 102.0)",1
+"('Release B', 105.0)",1
+"('Release B', 165.0)",1
+"('Release B', 218.0)",1
+"('Release B', 277.0)",1
+"('Release B', 300.0)",1
+"('Release B', 317.0)",1
+"('Release B', 338.0)",1
+"('Release B', 344.0)",1
+"('Release B', 492.0)",1
+"('Release B', 500.0)",1
+"('Release B', 527.0)",1
+"('Release B', 588.0)",1
+"('Release B', 654.0)",1
+"('Release B', 660.0)",1
+"('Release B', 676.0)",1
+"('Release B', 711.0)",1
+"('Release B', 804.0)",1
+"('Release B', 882.0)",1
+"('Release B', 959.0)",1
+"('Release B', 990.0)",1
+"('Release B', 1030.0)",1
+"('Release B', 1046.0)",1
+"('Release B', 1141.0)",1
+"('Release B', 1220.0)",1
+"('Release B', 1240.0)",1
+"('Release B', 1350.0)",1
+"('Release B', 1365.0)",1
+"('Release B', 1440.0)",1
+"('Release B', 1487.0)",1
+"('Release B', 1935.0)",1
+"('Release B', 2055.0)",1
+"('Release B', 2070.0)",1
+"('Release B', 2076.0)",1
+"('Release B', 2109.0)",1
+"('Release B', 2250.0)",1
+"('Release B', 2280.0)",1
+"('Release B', 2462.0)",1
+"('Release B', 2680.0)",1
+"('Release B', 2979.0)",1
+"('Release B', 3064.0)",1
+"('Release B', 3420.0)",1
+"('Release B', 3491.0)",1
+"('Release B', 3960.0)",1
+"('Release B', 5023.0)",1
+"('Release B', 5130.0)",1
+"('Release B', 5160.0)",1
+"('Release B', 5960.0)",1
+"('Release B', 6082.0)",1
+"('Release B', 6495.0)",1
+"('Release B', 6960.0)",1
+"('Release B', 7422.0)",1
+"('Release B', 9375.0)",1
+"('Release C', 150.0)",1
+"('Release C', 1335.0)",1
+"('Release C', 1560.0)",1
+"('Release C', 1575.0)",1
+"('Release C', 1620.0)",1
+"('Release C', 3000.0)",1
+"('Release C', 3045.0)",1
+"('Release C', 3180.0)",1
+"('Release C', 4470.0)",1
+"('Release C', 4500.0)",1
+"('Release C', 5850.0)",1
+"('Release C', 5940.0)",1
+"('Release C', 6110.0)",1
+"('Release C', 7500.0)",1
+"('Release C', 7520.0)",1
+"('Release C', 8340.0)",1
+"('Release C', 8580.0)",1
+"('Release C', 8775.0)",1
+"('Release C', 8790.0)",1
+"('Release C', 10200.0)",1
+"('Release C', 18390.0)",1
+"('Release C', 20370.0)",1
+"('Release C', 22662.0)",1
+"('Release C', 27510.0)",1
+"('Release D', 120.0)",1
+"('Release D', 1550.0)",1
+"('Release D', 1590.0)",1
+"('Release D', 1605.0)",1
+"('Release D', 1620.0)",2
+"('Release D', 1740.0)",1
+"('Release D', 1760.0)",1
+"('Release D', 3000.0)",1
+"('Release D', 3015.0)",1
+"('Release D', 3025.0)",1
+"('Release D', 3180.0)",1
+"('Release D', 4440.0)",2
+"('Release D', 4450.0)",1
+"('Release D', 4650.0)",1
+"('Release D', 5895.0)",1
+"('Release D', 8820.0)",1
+"('Release D', 10050.0)",1
+"('Release D', 10125.0)",1
+"('Release D', 10230.0)",1
+"('Release D', 11517.0)",1
+"('Release D', 14775.0)",1
+"('Release D', 15990.0)",1
+"('Release E', 180.0)",1
+"('Release E', 300.0)",1
+"('Release E', 1005.0)",1
+"('Release E', 1500.0)",1
+"('Release E', 1530.0)",1
+"('Release E', 10320.0)",1
+"('Return ER', 420.0)",1
+"('Return ER', 642.0)",1
+"('Return ER', 703.0)",1
+"('Return ER', 1119.0)",1
+"('Return ER', 1219.0)",1
+"('Return ER', 1495.0)",1
+"('Return ER', 1709.0)",1
+"('Return ER', 1787.0)",1
+"('Return ER', 1880.0)",1
+"('Return ER', 2143.0)",1
+"('Return ER', 2657.0)",1
+"('Return ER', 2685.0)",1
+"('Return ER', 2777.0)",1
+"('Return ER', 2786.0)",1
+"('Return ER', 3079.0)",1
+"('Return ER', 3204.0)",1
+"('Return ER', 3239.0)",1
+"('Return ER', 3952.0)",1
+"('Return ER', 4261.0)",1
+"('Return ER', 4290.0)",1
+"('Return ER', 4467.0)",1
+"('Return ER', 4529.0)",1
+"('Return ER', 4691.0)",1
+"('Return ER', 4776.0)",1
+"('Return ER', 4815.0)",1
+"('Return ER', 4942.0)",1
+"('Return ER', 5111.0)",1
+"('Return ER', 5171.0)",1
+"('Return ER', 5457.0)",1
+"('Return ER', 5940.0)",1
+"('Return ER', 5996.0)",1
+"('Return ER', 6277.0)",1
+"('Return ER', 6283.0)",1
+"('Return ER', 6330.0)",1
+"('Return ER', 7020.0)",1
+"('Return ER', 7070.0)",1
+"('Return ER', 7207.0)",1
+"('Return ER', 7534.0)",1
+"('Return ER', 8453.0)",1
+"('Return ER', 8515.0)",1
+"('Return ER', 8748.0)",1
+"('Return ER', 8776.0)",1
+"('Return ER', 8796.0)",1
+"('Return ER', 8926.0)",1
+"('Return ER', 9263.0)",1
+"('Return ER', 10149.0)",1
+"('Return ER', 10162.0)",1
+"('Return ER', 10184.0)",1
+"('Return ER', 10199.0)",1
+"('Return ER', 10460.0)",1
+"('Return ER', 10461.0)",1
+"('Return ER', 10989.0)",1
+"('Return ER', 11039.0)",1
+"('Return ER', 11528.0)",1
+"('Return ER', 11616.0)",1
+"('Return ER', 11733.0)",1
+"('Return ER', 11744.0)",1
+"('Return ER', 11913.0)",1
+"('Return ER', 12186.0)",1
+"('Return ER', 12757.0)",1
+"('Return ER', 12875.0)",1
+"('Return ER', 12932.0)",1
+"('Return ER', 12974.0)",1
+"('Return ER', 13018.0)",1
+"('Return ER', 13255.0)",1
+"('Return ER', 13318.0)",1
+"('Return ER', 13753.0)",1
+"('Return ER', 14173.0)",1
+"('Return ER', 14283.0)",1
+"('Return ER', 14604.0)",1
+"('Return ER', 14823.0)",1
+"('Return ER', 16010.0)",1
+"('Return ER', 16116.0)",1
+"('Return ER', 16228.0)",1
+"('Return ER', 16310.0)",1
+"('Return ER', 16853.0)",1
+"('Return ER', 17074.0)",1
+"('Return ER', 17383.0)",1
+"('Return ER', 18436.0)",1
+"('Return ER', 18697.0)",1
+"('Return ER', 19083.0)",1
+"('Return ER', 19369.0)",1
+"('Return ER', 20249.0)",1
+"('Return ER', 20421.0)",1
+"('Return ER', 20519.0)",1
+"('Return ER', 21104.0)",1
+"('Return ER', 21957.0)",1
+"('Return ER', 22924.0)",1
+"('Return ER', 23645.0)",1
+"('Return ER', 23719.0)",1
+"('Return ER', 24136.0)",1
+"('Return ER', 24155.0)",1
+"('Return ER', 24570.0)",1
+"('Return ER', 25127.0)",1
+"('Return ER', 26876.0)",1
+"('Return ER', 27509.0)",1
+"('Return ER', 28132.0)",1
+"('Return ER', 28595.0)",1
+"('Return ER', 28990.0)",1
+"('Return ER', 29048.0)",1
+"('Return ER', 29158.0)",1
+"('Return ER', 29350.0)",1
+"('Return ER', 30873.0)",1
+"('Return ER', 31722.0)",1
+"('Return ER', 32050.0)",1
+"('Return ER', 33040.0)",1
+"('Return ER', 33398.0)",1
+"('Return ER', 33655.0)",1
+"('Return ER', 38046.0)",1
+"('Return ER', 39058.0)",1
+"('Return ER', 40233.0)",1
+"('Return ER', 41125.0)",1
+"('Return ER', 41142.0)",1
+"('Return ER', 41914.0)",1
+"('Return ER', 42610.0)",1
+"('Return ER', 42784.0)",1
+"('Return ER', 44978.0)",1
+"('Return ER', 46318.0)",1
+"('Return ER', 47833.0)",1
+"('Return ER', 48690.0)",1
+"('Return ER', 49250.0)",1
+"('Return ER', 50011.0)",1
+"('Return ER', 50062.0)",1
+"('Return ER', 50450.0)",1
+"('Return ER', 50544.0)",1
+"('Return ER', 50667.0)",1
+"('Return ER', 51033.0)",1
+"('Return ER', 51326.0)",1
+"('Return ER', 51826.0)",1
+"('Return ER', 52096.0)",1
+"('Return ER', 53163.0)",1
+"('Return ER', 56021.0)",1
+"('Return ER', 56517.0)",1
+"('Return ER', 57711.0)",1
+"('Return ER', 59332.0)",1
+"('Return ER', 60848.0)",1
+"('Return ER', 61093.0)",1
+"('Return ER', 61893.0)",1
+"('Return ER', 61975.0)",1
+"('Return ER', 62255.0)",1
+"('Return ER', 63633.0)",1
+"('Return ER', 65226.0)",1
+"('Return ER', 65706.0)",1
+"('Return ER', 65878.0)",1
+"('Return ER', 66468.0)",1
+"('Return ER', 67571.0)",1
+"('Return ER', 67840.0)",1
+"('Return ER', 68289.0)",1
+"('Return ER', 68621.0)",1
+"('Return ER', 69427.0)",1
+"('Return ER', 70922.0)",1
+"('Return ER', 71150.0)",1
+"('Return ER', 71158.0)",1
+"('Return ER', 71992.0)",1
+"('Return ER', 73013.0)",1
+"('Return ER', 79296.0)",1
+"('Return ER', 79492.0)",1
+"('Return ER', 80241.0)",1
+"('Return ER', 82125.0)",1
+"('Return ER', 83151.0)",1
+"('Return ER', 84283.0)",1
+"('Return ER', 85680.0)",1
+"('Return ER', 86409.0)",1
+"('Return ER', 89173.0)",1
+"('Return ER', 91158.0)",1
+"('Return ER', 93406.0)",1
+"('Return ER', 94024.0)",1
+"('Return ER', 94236.0)",1
+"('Return ER', 99990.0)",1
+"('Return ER', 100975.0)",1
+"('Return ER', 101161.0)",1
+"('Return ER', 101236.0)",1
+"('Return ER', 101318.0)",1
+"('Return ER', 104053.0)",1
+"('Return ER', 104985.0)",1
+"('Return ER', 105304.0)",1
+"('Return ER', 106205.0)",1
+"('Return ER', 108181.0)",1
+"('Return ER', 110012.0)",1
+"('Return ER', 110791.0)",1
+"('Return ER', 111129.0)",1
+"('Return ER', 112655.0)",1
+"('Return ER', 112995.0)",1
+"('Return ER', 113879.0)",1
+"('Return ER', 114516.0)",1
+"('Return ER', 116579.0)",1
+"('Return ER', 118009.0)",1
+"('Return ER', 118292.0)",1
+"('Return ER', 118833.0)",1
+"('Return ER', 119825.0)",1
+"('Return ER', 120829.0)",1
+"('Return ER', 125110.0)",1
+"('Return ER', 126110.0)",1
+"('Return ER', 127978.0)",1
+"('Return ER', 129779.0)",1
+"('Return ER', 130637.0)",1
+"('Return ER', 131276.0)",1
+"('Return ER', 133607.0)",1
+"('Return ER', 135172.0)",1
+"('Return ER', 135181.0)",1
+"('Return ER', 135516.0)",1
+"('Return ER', 135605.0)",1
+"('Return ER', 136621.0)",1
+"('Return ER', 137402.0)",1
+"('Return ER', 138017.0)",1
+"('Return ER', 138674.0)",1
+"('Return ER', 139475.0)",1
+"('Return ER', 140645.0)",1
+"('Return ER', 148853.0)",1
+"('Return ER', 150508.0)",1
+"('Return ER', 151038.0)",1
+"('Return ER', 154113.0)",1
+"('Return ER', 157307.0)",1
+"('Return ER', 157824.0)",1
+"('Return ER', 158288.0)",1
+"('Return ER', 161212.0)",1
+"('Return ER', 162369.0)",1
+"('Return ER', 165749.0)",1
+"('Return ER', 167418.0)",1
+"('Return ER', 168772.0)",1
+"('Return ER', 169615.0)",1
+"('Return ER', 172710.0)",1
+"('Return ER', 172890.0)",1
+"('Return ER', 173209.0)",1
+"('Return ER', 175282.0)",1
+"('Return ER', 177034.0)",1
+"('Return ER', 178068.0)",1
+"('Return ER', 178641.0)",1
+"('Return ER', 183219.0)",1
+"('Return ER', 186067.0)",1
+"('Return ER', 187157.0)",1
+"('Return ER', 189714.0)",1
+"('Return ER', 190078.0)",1
+"('Return ER', 199190.0)",1
+"('Return ER', 201880.0)",1
+"('Return ER', 205924.0)",1
+"('Return ER', 212223.0)",1
+"('Return ER', 217141.0)",1
+"('Return ER', 219953.0)",1
+"('Return ER', 222602.0)",1
+"('Return ER', 225223.0)",1
+"('Return ER', 226175.0)",1
+"('Return ER', 229464.0)",1
+"('Return ER', 230339.0)",1
+"('Return ER', 231192.0)",1
+"('Return ER', 235115.0)",1
+"('Return ER', 240709.0)",1
+"('Return ER', 244098.0)",1
+"('Return ER', 249552.0)",1
+"('Return ER', 252039.0)",1
+"('Return ER', 253143.0)",1
+"('Return ER', 257565.0)",1
+"('Return ER', 259375.0)",1
+"('Return ER', 265210.0)",1
+"('Return ER', 266586.0)",1
+"('Return ER', 273684.0)",1
+"('Return ER', 283544.0)",1
+"('Return ER', 286800.0)",1
+"('Return ER', 288314.0)",1
+"('Return ER', 291451.0)",1
+"('Return ER', 292116.0)",1
+"('Return ER', 294057.0)",1
+"('Return ER', 296442.0)",1
+"('Return ER', 297684.0)",1
+"('Return ER', 305785.0)",1
+"('Return ER', 306500.0)",1
+"('Return ER', 307975.0)",1
+"('Return ER', 308213.0)",1
+"('Return ER', 315363.0)",1
+"('Return ER', 319678.0)",1
+"('Return ER', 320168.0)",1
+"('Return ER', 340001.0)",1
+"('Return ER', 350008.0)",1
+"('Return ER', 354419.0)",1
+"('Return ER', 355535.0)",1
+"('Return ER', 356076.0)",1
+"('Return ER', 358570.0)",1
+"('Return ER', 358989.0)",1
+"('Return ER', 365705.0)",1
+"('Return ER', 370866.0)",1
+"('Return ER', 383822.0)",1
+"('Return ER', 385524.0)",1
+"('Return ER', 392202.0)",1
+"('Return ER', 447938.0)",1
+"('Return ER', 451637.0)",1
+"('Return ER', 476875.0)",1
+"('Return ER', 485053.0)",1
+"('Return ER', 514259.0)",1
+"('Return ER', 517719.0)",1
+"('Return ER', 535695.0)",1
+"('Return ER', 567640.0)",1
+"('Return ER', 571689.0)",1
+"('Return ER', 597541.0)",1
+"('Return ER', 600856.0)",1

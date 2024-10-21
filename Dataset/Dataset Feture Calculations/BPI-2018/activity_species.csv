@@ -1,0 +1,42 @@
+activity,count
+calculate,466141
+finish editing,456013
+begin editing,397133
+save,288902
+initialize,205082
+decide,87696
+insert document,83260
+begin payment,80200
+performed,76731
+mail valid,74326
+finish payment,45907
+mail income,43808
+create,41563
+abort payment,34293
+finish pre-check,24308
+revoke decision,22004
+check,13588
+finish preparations,13212
+begin preparations,13210
+prepare external,9779
+abort external,7530
+plan,5485
+remove document,5199
+clear,5057
+prepare offline,2043
+begin admissibility check,1932
+check admissibility,1847
+performed offline,1845
+calculate protocol,1381
+restart editing,1146
+take original document,902
+approve,900
+withdraw,598
+refuse,391
+revoke withdrawal,249
+begin editing from refused,203
+cancel offline,196
+revoke approval,82
+discard,55
+change department,52
+correction GFM17,17
